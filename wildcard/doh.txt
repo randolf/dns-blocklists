@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 12:01 UTC
-# Version: 2024.0115.1201.39
+# Last modified: 15 Jan 2024 22:57 UTC
+# Version: 2024.0115.2257.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 828
+# Number of entries: 830
 #
 *.ns.00dani.me
 *.cdn.0ms.dev
@@ -139,6 +139,7 @@
 *.cloudns.bosco.ovh
 *.dns.brahma.world
 *.bravedns.com
+*.ag.brianlee.fun
 *.doh.bt.com
 *.c-dns.com
 *.2.dnscrypt-cert.captnemo.in
@@ -832,6 +833,7 @@
 *.dns.youni.win
 *.your-dns.run
 *.yovbak.com
+*.adg.yybyy.wiki
 *.adguard.zachitect.com
 *.doh.zephyrus.id
 *.adguard-kartoffel.zernico.de
