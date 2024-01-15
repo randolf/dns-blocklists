@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 12:08 UTC
-# Version: 2024.0115.1208.27
+# Last modified: 15 Jan 2024 23:04 UTC
+# Version: 2024.0115.2304.02
 # Syntax: DNSMasq
-# Number of entries: 10540
+# Number of entries: 10547
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -729,6 +729,7 @@ address=/altadefinizione01.autos/#
 address=/altadefinizione01.bar/#
 address=/altadefinizione01.beauty/#
 address=/altadefinizione01.bet/#
+address=/altadefinizione01.bike/#
 address=/altadefinizione01.black/#
 address=/altadefinizione01.boats/#
 address=/altadefinizione01.bond/#
@@ -873,6 +874,7 @@ address=/animeholics.org/#
 address=/animehub.ac/#
 address=/animeid.cc/#
 address=/animeid.tv/#
+address=/animeindex.net/#
 address=/animekaizoku.com/#
 address=/animekayo.com/#
 address=/animekisa.tv/#
@@ -902,6 +904,7 @@ address=/animesfree.net/#
 address=/animesgratisbr.com/#
 address=/animeshd.us/#
 address=/animeshow.tv/#
+address=/animesim.com/#
 address=/animesimple.com/#
 address=/animesonline.biz/#
 address=/animesonline.cc/#
@@ -1015,8 +1018,10 @@ address=/arconaitv.us/#
 address=/area51.to/#
 address=/area51bd.com/#
 address=/arena-tr.com/#
+address=/arenabg.ch/#
 address=/arenabg.com/#
 address=/arenahd.com/#
+address=/arenda123.ru/#
 address=/argenteam.net/#
 address=/argentinawarez.com/#
 address=/arishabd.net/#
@@ -1041,6 +1046,7 @@ address=/asiatorrents.com/#
 address=/asmabroadbandnetwork.com/#
 address=/asnet.pw/#
 address=/assistir.biz/#
+address=/assistiranimes.org/#
 address=/assistirseriados.online/#
 address=/assistirserie.org/#
 address=/assistirseriesflix.net/#
@@ -1090,6 +1096,7 @@ address=/aussietorrents.com/#
 address=/autobitx.com/#
 address=/autocadbmjes.com/#
 address=/autocadbnaqk.com/#
+address=/autocadgou.com/#
 address=/autocadtfesvb.com/#
 address=/autocadtymafq.com/#
 address=/avabdnet.com/#

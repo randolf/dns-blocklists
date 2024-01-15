@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705320480 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705359840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Jan 2024 12:08 UTC
-; Version: 2024.0115.1208.27
+; Last modified: 15 Jan 2024 23:04 UTC
+; Version: 2024.0115.2304.02
 ; Syntax: RPZ
-; Number of entries: 21080
+; Number of entries: 21094
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -623,6 +623,8 @@ piratebay.unlockpro.bid CNAME .
 *.piratebay.unlockpro.bid CNAME .
 altadefinizione.bike CNAME .
 *.altadefinizione.bike CNAME .
+altadefinizione01.bike CNAME .
+*.altadefinizione01.bike CNAME .
 cineblog01.bike CNAME .
 *.cineblog01.bike CNAME .
 eurostreaming.bike CNAME .
@@ -1593,6 +1595,8 @@ cyberhitz.2ix.ch CNAME .
 *.cyberhitz.2ix.ch CNAME .
 mytoplist.2ix.ch CNAME .
 *.mytoplist.2ix.ch CNAME .
+arenabg.ch CNAME .
+*.arenabg.ch CNAME .
 cb01.ch CNAME .
 *.cb01.ch CNAME .
 t1.chfs.ch CNAME .
@@ -2727,6 +2731,8 @@ animes-fuki.com CNAME .
 *.animes-fuki.com CNAME .
 animesgratisbr.com CNAME .
 *.animesgratisbr.com CNAME .
+animesim.com CNAME .
+*.animesim.com CNAME .
 animesimple.com CNAME .
 *.animesimple.com CNAME .
 animesuki.com CNAME .
@@ -2881,6 +2887,8 @@ autocadbmjes.com CNAME .
 *.autocadbmjes.com CNAME .
 autocadbnaqk.com CNAME .
 *.autocadbnaqk.com CNAME .
+autocadgou.com CNAME .
+*.autocadgou.com CNAME .
 autocadtfesvb.com CNAME .
 *.autocadtfesvb.com CNAME .
 autocadtymafq.com CNAME .
@@ -12505,6 +12513,8 @@ anime-legion.net CNAME .
 *.anime-legion.net CNAME .
 animeflv.net CNAME .
 *.animeflv.net CNAME .
+animeindex.net CNAME .
+*.animeindex.net CNAME .
 animekl.net CNAME .
 *.animekl.net CNAME .
 animereborn.net CNAME .
@@ -14947,6 +14957,8 @@ tracker.artixlinux.org CNAME .
 *.tracker.artixlinux.org CNAME .
 asiandvdclub.org CNAME .
 *.asiandvdclub.org CNAME .
+assistiranimes.org CNAME .
+*.assistiranimes.org CNAME .
 assistirserie.org CNAME .
 *.assistirserie.org CNAME .
 audionews.org CNAME .
@@ -17485,6 +17497,8 @@ apkandroid.ru CNAME .
 *.apkandroid.ru CNAME .
 appmeter.ru CNAME .
 *.appmeter.ru CNAME .
+arenda123.ru CNAME .
+*.arenda123.ru CNAME .
 artkonkurs.ru CNAME .
 *.artkonkurs.ru CNAME .
 astrr.ru CNAME .
