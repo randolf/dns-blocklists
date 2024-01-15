@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2024 12:30 UTC
-# Version: 2024.0115.1230.50
+# Last modified: 15 Jan 2024 23:26 UTC
+# Version: 2024.0115.2326.42
 # Syntax: DNSMasq
-# Number of entries: 14262
+# Number of entries: 14271
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -61,6 +61,7 @@ address=/a-markt.de/#
 address=/a1apotheke.com/#
 address=/a31c.org/#
 address=/aaaclothing.ru/#
+address=/aacloth.shop/#
 address=/aacreek-ranch.de/#
 address=/aailleuchter.com/#
 address=/aanbieding-vandaag.com/#
@@ -75,6 +76,7 @@ address=/abele-brennholz-mehr.com/#
 address=/abercrombierabatt.de/#
 address=/abestunderwear.com/#
 address=/abfluss-frei24.de/#
+address=/abidacy.com/#
 address=/abigfishing.com/#
 address=/abigsaleequipment.com/#
 address=/abilitylamp.de/#
@@ -206,6 +208,7 @@ address=/aguasco.com/#
 address=/ah-deutschland.de/#
 address=/ahasto.com/#
 address=/ahealthcare.online/#
+address=/ahold-auto.com/#
 address=/aiaf-kreditial.com/#
 address=/aigleaustria.com/#
 address=/aigleosterreich.com/#
@@ -233,6 +236,7 @@ address=/aisakicks.shop/#
 address=/aix-bicycle.com/#
 address=/ajservice.de/#
 address=/mlhihq.akademiaszefakuchni.pl/#
+address=/akenor.com/#
 address=/akku-laden.at/#
 address=/akku-pc.at/#
 address=/akku-staubsauger.eu/#
@@ -258,6 +262,7 @@ address=/albertsgruen.de/#
 address=/albrechts-handel.de/#
 address=/alcufee.de/#
 address=/aldo-osterreich.com/#
+address=/aldofashion.com/#
 address=/aldorabatt.de/#
 address=/aldorf-dresden.de/#
 address=/aldoschuhe.de/#
@@ -347,6 +352,7 @@ address=/alpha-gartentraum.de/#
 address=/alpha-logis.de/#
 address=/alpha-tech.store/#
 address=/alphadots7.de/#
+address=/alphagamers.de/#
 address=/alphakatz.com/#
 address=/alphaletedeutschland.de/#
 address=/alphaleteosterreich.at/#
@@ -361,6 +367,7 @@ address=/alsurfflexible.com/#
 address=/alsurfhandpick.com/#
 address=/alte-wirtsstube.de/#
 address=/alter48.fr/#
+address=/alternative-worlds.de/#
 address=/altimatrade.pro/#
 address=/altine.fr/#
 address=/altotunec.com/#
@@ -624,6 +631,7 @@ address=/arneconsulting.de/#
 address=/arnold-autoreifen.shop/#
 address=/arnold-steimle.de/#
 address=/arnoldswelpenhaus.com/#
+address=/aromaleben.com/#
 address=/arpinlogi.com/#
 address=/ars-conservare.de/#
 address=/art-impulse.fr/#
@@ -971,6 +979,7 @@ address=/ballworldonline.com/#
 address=/balmain-suomi.com/#
 address=/balmainaustria.at/#
 address=/balmainosterreich.com/#
+address=/balmainsuomi.com/#
 address=/balmainsuomishop.com/#
 address=/balotracity.com/#
 address=/balzbambii.de/#

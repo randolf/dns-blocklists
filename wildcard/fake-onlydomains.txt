@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2024 12:30 UTC
-# Version: 2024.0115.1230.50
+# Last modified: 15 Jan 2024 23:26 UTC
+# Version: 2024.0115.2326.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 14262
+# Number of entries: 14271
 #
 11trikots.com
 12-suchen.de
@@ -61,6 +61,7 @@ a-markt.de
 a1apotheke.com
 a31c.org
 aaaclothing.ru
+aacloth.shop
 aacreek-ranch.de
 aailleuchter.com
 aanbieding-vandaag.com
@@ -75,6 +76,7 @@ abele-brennholz-mehr.com
 abercrombierabatt.de
 abestunderwear.com
 abfluss-frei24.de
+abidacy.com
 abigfishing.com
 abigsaleequipment.com
 abilitylamp.de
@@ -206,6 +208,7 @@ aguasco.com
 ah-deutschland.de
 ahasto.com
 ahealthcare.online
+ahold-auto.com
 aiaf-kreditial.com
 aigleaustria.com
 aigleosterreich.com
@@ -233,6 +236,7 @@ aisakicks.shop
 aix-bicycle.com
 ajservice.de
 mlhihq.akademiaszefakuchni.pl
+akenor.com
 akku-laden.at
 akku-pc.at
 akku-staubsauger.eu
@@ -258,6 +262,7 @@ albertsgruen.de
 albrechts-handel.de
 alcufee.de
 aldo-osterreich.com
+aldofashion.com
 aldorabatt.de
 aldorf-dresden.de
 aldoschuhe.de
@@ -347,6 +352,7 @@ alpha-gartentraum.de
 alpha-logis.de
 alpha-tech.store
 alphadots7.de
+alphagamers.de
 alphakatz.com
 alphaletedeutschland.de
 alphaleteosterreich.at
@@ -361,6 +367,7 @@ alsurfflexible.com
 alsurfhandpick.com
 alte-wirtsstube.de
 alter48.fr
+alternative-worlds.de
 altimatrade.pro
 altine.fr
 altotunec.com
@@ -624,6 +631,7 @@ arneconsulting.de
 arnold-autoreifen.shop
 arnold-steimle.de
 arnoldswelpenhaus.com
+aromaleben.com
 arpinlogi.com
 ars-conservare.de
 art-impulse.fr
@@ -971,6 +979,7 @@ ballworldonline.com
 balmain-suomi.com
 balmainaustria.at
 balmainosterreich.com
+balmainsuomi.com
 balmainsuomishop.com
 balotracity.com
 balzbambii.de

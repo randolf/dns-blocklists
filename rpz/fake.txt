@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705321800 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705361160 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2024 12:30 UTC
-; Version: 2024.0115.1230.50
+; Last modified: 15 Jan 2024 23:26 UTC
+; Version: 2024.0115.2326.42
 ; Syntax: RPZ
-; Number of entries: 28524
+; Number of entries: 28542
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -1119,6 +1119,8 @@ abele-brennholz-mehr.com CNAME .
 *.abele-brennholz-mehr.com CNAME .
 abestunderwear.com CNAME .
 *.abestunderwear.com CNAME .
+abidacy.com CNAME .
+*.abidacy.com CNAME .
 abigfishing.com CNAME .
 *.abigfishing.com CNAME .
 abigsaleequipment.com CNAME .
@@ -1279,6 +1281,8 @@ aguasco.com CNAME .
 *.aguasco.com CNAME .
 ahasto.com CNAME .
 *.ahasto.com CNAME .
+ahold-auto.com CNAME .
+*.ahold-auto.com CNAME .
 aiaf-kreditial.com CNAME .
 *.aiaf-kreditial.com CNAME .
 aigleaustria.com CNAME .
@@ -1309,6 +1313,8 @@ airyclub.com CNAME .
 *.airyclub.com CNAME .
 aix-bicycle.com CNAME .
 *.aix-bicycle.com CNAME .
+akenor.com CNAME .
+*.akenor.com CNAME .
 aktienpros.com CNAME .
 *.aktienpros.com CNAME .
 akuschuheschweiz.com CNAME .
@@ -1325,6 +1331,8 @@ alberto-gruppe.com CNAME .
 *.alberto-gruppe.com CNAME .
 aldo-osterreich.com CNAME .
 *.aldo-osterreich.com CNAME .
+aldofashion.com CNAME .
+*.aldofashion.com CNAME .
 aldoschuhegermany.com CNAME .
 *.aldoschuhegermany.com CNAME .
 alebikeonsale.com CNAME .
@@ -1773,6 +1781,8 @@ armreifenshop.com CNAME .
 *.armreifenshop.com CNAME .
 arnoldswelpenhaus.com CNAME .
 *.arnoldswelpenhaus.com CNAME .
+aromaleben.com CNAME .
+*.aromaleben.com CNAME .
 arpinlogi.com CNAME .
 *.arpinlogi.com CNAME .
 artexcellene.com CNAME .
@@ -2223,6 +2233,8 @@ balmain-suomi.com CNAME .
 *.balmain-suomi.com CNAME .
 balmainosterreich.com CNAME .
 *.balmainosterreich.com CNAME .
+balmainsuomi.com CNAME .
+*.balmainsuomi.com CNAME .
 balmainsuomishop.com CNAME .
 *.balmainsuomishop.com CNAME .
 balotracity.com CNAME .
@@ -19747,6 +19759,8 @@ alpha-logis.de CNAME .
 *.alpha-logis.de CNAME .
 alphadots7.de CNAME .
 *.alphadots7.de CNAME .
+alphagamers.de CNAME .
+*.alphagamers.de CNAME .
 alphaletedeutschland.de CNAME .
 *.alphaletedeutschland.de CNAME .
 alphaskin.de CNAME .
@@ -19757,6 +19771,8 @@ alro-stahlbau.de CNAME .
 *.alro-stahlbau.de CNAME .
 alte-wirtsstube.de CNAME .
 *.alte-wirtsstube.de CNAME .
+alternative-worlds.de CNAME .
+*.alternative-worlds.de CNAME .
 altrasens.de CNAME .
 *.altrasens.de CNAME .
 amazonboxs.de CNAME .
@@ -26765,6 +26781,8 @@ heydude.shoes CNAME .
 *.24rabatt.shop CNAME .
 99rabats.shop CNAME .
 *.99rabats.shop CNAME .
+aacloth.shop CNAME .
+*.aacloth.shop CNAME .
 ackermann-reifenhandel.shop CNAME .
 *.ackermann-reifenhandel.shop CNAME .
 actoroubag.shop CNAME .
