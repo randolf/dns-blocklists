@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 11:57 UTC
-# Version: 2024.0115.1157.41
+# Last modified: 15 Jan 2024 20:04 UTC
+# Version: 2024.0115.2004.47
 # Syntax: DNSMasq
-# Number of entries: 253
+# Number of entries: 251
 #
 address=/search.0xcb.dev/#
 address=/search.0xgingi.com/#
@@ -260,5 +260,3 @@ address=/you.com/#
 address=/searx.zapashcanon.fr/#
 address=/searx.zdechov.net/#
 address=/search.zeroish.xyz/#
-address=/librex.zzls.xyz/#
-address=/search.zzls.xyz/#
