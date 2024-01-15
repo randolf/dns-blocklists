@@ -1,0 +1,85 @@
+name: Allowlist Request
+description: Report incorrectly blocked domain(s).
+labels: ["allow"]
+assignees: 
+  - hagezi
+body:
+  - type: dropdown
+    id: adblocker
+    attributes:
+      label: Which AdBlocker/DNS cloud service do you use?
+      description: |
+        If the AdBlocker/DNS cloud service is not listed, please select "Other" and enter its name in the comment field below.
+      multiple: true
+      options:
+        - AdGuard
+        - AdGuard Home
+        - Pi-hole
+        - uBlock
+        - AdGuard DNS
+        - ControlD
+        - DNSwarden
+        - NextDNS
+        - RethinkDNS
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other
+    attributes:
+      label: Other
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: NextDNS users only
+      description: |
+        If you use NextDNS, make sure that the block page is disabled in the settings to make sure that the problem is not caused by this feature!
+      options:
+        - label: I have disabled the block page in NextDNS and confirm that the problem still occurs!
+          required: false
+  
+  - type: dropdown
+    id: blocklists
+    attributes:
+      label: With which block list(s) does the problem occur?
+      multiple: true
+      options:
+        - Multi LIGHT
+        - Multi NORMAL 
+        - Multi PRO 
+        - Multi PRO++
+        - Multi ULTIMATE
+        - Fake
+        - Pop-Up Ads
+        - Threat Intelligence Feeds
+        - DoH/VPN/TOR/Proxy Bypass
+        - DoH Bypass
+        - Safesearch not supported
+        - Dynamic DNS
+        - Badware Hoster
+        - Most Abused TLDs
+        - Anti Piracy
+        - Gambling
+        - Personal
+        - Native Tracker
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: Which domain(s) should be unblocked?
+      description: |
+        Important note: If you use NextDNS, make sure that Blockpage is disabled in the settings to make sure that the problem is not caused by this feature!
+    validations:
+      required: true
+  
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should the domain(s) be unblocked?
+      description: |
+        If necessary, please describe the steps to reproduce. You can also add screenshots.
+    validations:
+      required: true

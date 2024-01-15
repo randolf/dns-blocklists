@@ -1,0 +1,64 @@
+# Title: HaGeZi's Huawei Tracker DNS Blocklist
+# Description: Blocks Huawei native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 15 Jan 2024 12:19 UTC
+# Version: 2024.0115.1219.02
+# Syntax: DNSMasq
+# Number of entries: 53
+#
+address=/ubacollect-drcn.cloud.dbankcloud.cn/#
+address=/metrics-dre.data.dbankcloud.cn/#
+address=/metrics1.data.dbankcloud.cn/#
+address=/dnkeeper.dbankcloud.com/#
+address=/datacollector-dra.dt.dbankcloud.cn/#
+address=/datacollector-drcn.dt.dbankcloud.cn/#
+address=/datacollector-dre.dt.dbankcloud.cn/#
+address=/datacollector-drru.dt.dbankcloud.ru/#
+address=/hisearch-dra.dt.dbankcloud.com/#
+address=/metrics.dt.dbankcloud.cn/#
+address=/metrics-dra.dt.dbankcloud.cn/#
+address=/metrics-dre.dt.dbankcloud.cn/#
+address=/metrics1-drcn.dt.dbankcloud.cn/#
+address=/metrics5.dt.dbankcloud.ru/#
+address=/grs.dbankcloud.asia/#
+address=/grs.dbankcloud.cn/#
+address=/grs.dbankcloud.com/#
+address=/grs.dbankcloud.eu/#
+address=/adx-dra.op.dbankcloud.com/#
+address=/adx-drcn.op.dbankcloud.cn/#
+address=/adx-dre.op.dbankcloud.com/#
+address=/adx-drru.op.dbankcloud.com/#
+address=/events-dre.op.dbankcloud.com/#
+address=/dnkeeper.platform.dbankcloud.cn/#
+address=/grs.platform.dbankcloud.ru/#
+address=/logservice-dre.platform.dbankcloud.cn/#
+address=/openlocation-drcn.platform.dbankcloud.com/#
+address=/events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn/#
+address=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/#
+address=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/#
+address=/adx-dre.op.dbankcloud.com.edgekey.net/#
+address=/data.hicloud.com/#
+address=/dnkeeper.hicloud.com/#
+address=/datacollector-dra.dt.hicloud.com/#
+address=/datacollector-drcn.dt.hicloud.com/#
+address=/datacollector-dre.dt.hicloud.com/#
+address=/datacollector-drru.dt.hicloud.com/#
+address=/logservice-drru.dt.hicloud.com/#
+address=/metrics.dt.hicloud.com/#
+address=/metrics-dra.dt.hicloud.com/#
+address=/metrics-drcn.dt.hicloud.com/#
+address=/metrics6.dt.hicloud.com/#
+address=/grs.hicloud.com/#
+address=/logbak.hicloud.com/#
+address=/logservice.hicloud.com/#
+address=/logservice1.hicloud.com/#
+address=/logtransform.hicloud.com/#
+address=/adx-dra.op.hicloud.com/#
+address=/adx-dre.op.hicloud.com/#
+address=/events-dra.op.hicloud.com/#
+address=/events-dre.op.hicloud.com/#
+address=/logservice-dra.platform.hicloud.com/#
+address=/logservice-dre.platform.hicloud.com/#

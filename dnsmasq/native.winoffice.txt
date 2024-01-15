@@ -1,0 +1,64 @@
+# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
+# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 15 Jan 2024 12:17 UTC
+# Version: 2024.0115.1217.38
+# Syntax: DNSMasq
+# Number of entries: 53
+#
+address=/nexusrules.live.com/#
+address=/cac-visio-telemetry.officeapps.live.com/#
+address=/dec-visio-telemetry.officeapps.live.com/#
+address=/euc-excel-telemetry.officeapps.live.com/#
+address=/euc-powerpoint-telemetry.officeapps.live.com/#
+address=/euc-visio-telemetry.officeapps.live.com/#
+address=/euc-word-telemetry.officeapps.live.com/#
+address=/eurppc-excel-telemetry.officeapps.live.com/#
+address=/eurppc-powerpoint-telemetry.officeapps.live.com/#
+address=/excel-telemetry.officeapps.live.com/#
+address=/ffc-word-telemetry.officeapps.live.com/#
+address=/frc-visio-telemetry.officeapps.live.com/#
+address=/nexus.officeapps.live.com/#
+address=/nexusrules.officeapps.live.com/#
+address=/powerpoint-telemetry.officeapps.live.com/#
+address=/ppc-excel-telemetry.officeapps.live.com/#
+address=/ppc-onenote-telemetry.officeapps.live.com/#
+address=/ppc-powerpoint-telemetry.officeapps.live.com/#
+address=/ppc-word-telemetry.officeapps.live.com/#
+address=/ukc-visio-telemetry.officeapps.live.com/#
+address=/usc-visio-telemetry.officeapps.live.com/#
+address=/visio-telemetry.officeapps.live.com/#
+address=/word-telemetry.officeapps.live.com/#
+address=/pipe.aria.microsoft.com/#
+address=/events.data.microsoft.com/#
+address=/events-sandbox.data.microsoft.com/#
+address=/vortex.data.microsoft.com/#
+address=/vortex-win.data.microsoft.com/#
+address=/vortex-win-sandbox.data.microsoft.com/#
+address=/watson.officeint.microsoft.com/#
+address=/telemetry.microsoft.com/#
+address=/telemetry.urs.microsoft.com/#
+address=/watson.microsoft.com/#
+address=/events.data.msn.cn/#
+address=/events.data.msn.com/#
+address=/events-sandbox.data.msn.com/#
+address=/measure.office.com/#
+address=/measure.office.net/#
+address=/hubblecontent.osi.office.net/#
+address=/events.data.trafficmanager.net/#
+address=/legacywatson.trafficmanager.net/#
+address=/o365diagtelemetry.trafficmanager.net/#
+address=/office-events-data.trafficmanager.net/#
+address=/self-events-data.trafficmanager.net/#
+address=/teams-events-data.trafficmanager.net/#
+address=/win-global-asimov-leafs-events-data.trafficmanager.net/#
+address=/activity.windows.com/#
+address=/ceuswatcab01.blob.core.windows.net/#
+address=/ceuswatcab02.blob.core.windows.net/#
+address=/eaus2watcab01.blob.core.windows.net/#
+address=/eaus2watcab02.blob.core.windows.net/#
+address=/weus2watcab01.blob.core.windows.net/#
+address=/weus2watcab02.blob.core.windows.net/#
