@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 11:59 UTC
-# Version: 2024.0115.1159.15
+# Last modified: 15 Jan 2024 22:55 UTC
+# Version: 2024.0115.2255.16
 # Syntax: DNSMasq
-# Number of entries: 2637
+# Number of entries: 2639
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -310,6 +310,7 @@ address=/tor.bravesoftware.com/#
 address=/brazilproxy.com/#
 address=/brazilproxy.info/#
 address=/breakwall.net/#
+address=/ag.brianlee.fun/#
 address=/bright4good.eco/#
 address=/brightvpn.com/#
 address=/britishproxy.com/#
@@ -2620,6 +2621,7 @@ address=/youtubebyclick.com/#
 address=/youtubeunblocked.live/#
 address=/yovbak.com/#
 address=/yxorproxy.com/#
+address=/adg.yybyy.wiki/#
 address=/zacebookpk.com/#
 address=/adguard.zachitect.com/#
 address=/zagbit.com/#
