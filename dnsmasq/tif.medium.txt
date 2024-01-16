@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2024 12:45 UTC
-# Version: 2024.0115.1245.07
+# Last modified: 15 Jan 2024 23:40 UTC
+# Version: 2024.0115.2340.59
 # Syntax: DNSMasq
-# Number of entries: 6929
+# Number of entries: 6918
 #
 address=/deviltelegram.000webhostapp.com/#
 address=/pepelu-staging.01staging.site/#
@@ -91,7 +91,6 @@ address=/pascasarjana.iainfmpapua.ac.id/#
 address=/imit.ac.in/#
 address=/admissionletters.khu.ac.ke/#
 address=/lodwartvc.ac.ke/#
-address=/partadino.ac.ug/#
 address=/sndcoe.ac.in/#
 address=/ziwatti.ac.ke/#
 address=/academiadepsihosomatica.md/#
@@ -675,7 +674,6 @@ address=/brianetaveras.byethost13.com/#
 address=/byra24.no/#
 address=/c-csigns.com/#
 address=/c-pathways.com/#
-address=/dw.c4kdeliver.top/#
 address=/cabex.dz/#
 address=/cabinetstomatologic-brasov.ro/#
 address=/cabrinimed.com/#
@@ -941,7 +939,6 @@ address=/gpcorporate.co.za/#
 address=/grahamelderpainting.co.uk/#
 address=/grandvenus.co.ke/#
 address=/greenlane.co.za/#
-address=/growrock.co.za/#
 address=/gutfeeling.co.in/#
 address=/gva.co.tz/#
 address=/habjoshtech.co.ke/#
@@ -1077,7 +1074,6 @@ address=/smartstay.co.ke/#
 address=/smscaffold.co.uk/#
 address=/soccerlite.co.uk/#
 address=/sovereignadventures.co.ke/#
-address=/spaceframe.mobi.space-frame.co.za/#
 address=/spacetrack.co.tz/#
 address=/sphynxbeds.co.uk/#
 address=/squarechapel.co.uk/#
@@ -2648,6 +2644,7 @@ address=/gddos.com/#
 address=/gdlmainhub.com/#
 address=/gdlrdc.com/#
 address=/geburtstagswunsche.co/#
+address=/gedebey-tvradio.info/#
 address=/lmc.geeksroot.net/#
 address=/geete-dz.com/#
 address=/bakirkoynakliyat.gen.tr/#
@@ -2781,7 +2778,6 @@ address=/stim.graspalace.com/#
 address=/grassrootbd.com/#
 address=/gravitycolombo.com/#
 address=/greencraftbags.in/#
-address=/greenisco.com/#
 address=/greenrootslandscaping.ae/#
 address=/greentechelectric.eu/#
 address=/greenteech.com/#
@@ -3456,7 +3452,6 @@ address=/mahaseelinvestment.com/#
 address=/maizzbala.com/#
 address=/majortravelegypt.com/#
 address=/majoziacademy.com/#
-address=/makelovenotwar.online/#
 address=/makglobal.in/#
 address=/malaysia-study.com/#
 address=/mallikarjunautomobiles.com/#
@@ -3587,7 +3582,6 @@ address=/microsoftshop.org/#
 address=/midad-adv.com/#
 address=/migracionexpress.com/#
 address=/migranoticias.com/#
-address=/360down7.miiyun.cn/#
 address=/milanmatka.com/#
 address=/milanotecnoservice.it/#
 address=/milleniumtelecomservice.com/#
@@ -3769,7 +3763,6 @@ address=/naessships.com/#
 address=/nahdahypermarket.com/#
 address=/naked-truth.uk/#
 address=/namaacont.com/#
-address=/namthaibinh.net/#
 address=/naogaonagro.com/#
 address=/napcloud.in/#
 address=/nargana.co/#
@@ -5548,7 +5541,6 @@ address=/partotaprayan.com/#
 address=/partotaprayan.ir/#
 address=/parves.xyz/#
 address=/pasta-mania.it/#
-address=/paste-bin.xyz/#
 address=/path4hosts.com/#
 address=/patmypets.com/#
 address=/patos.mx/#
@@ -5819,7 +5811,6 @@ address=/regulatoryguide.ca/#
 address=/rehmkar.com/#
 address=/reifenquick.de/#
 address=/reisebloggerwelt.de/#
-address=/reiwo-service.de/#
 address=/relianceeducation.net/#
 address=/remdiswap.com/#
 address=/rencontrenationaledanse.fr/#
@@ -6829,7 +6820,6 @@ address=/winpeforum.com/#
 address=/winwinchapter.com/#
 address=/wiseeworld.com/#
 address=/wishes247.in/#
-address=/wispafoods.com/#
 address=/wizfairtechnologies.com/#
 address=/planex.wjg.jp/#
 address=/woescosmetica.com/#
@@ -6900,7 +6890,6 @@ address=/ypcriau.org/#
 address=/ysbaojia.com/#
 address=/ysoal.com/#
 address=/yugroup.dental/#
-address=/yzkzixun.com/#
 address=/1.oooksu.z8.ru/#
 address=/webhonlines.za.com/#
 address=/zaakversneller.nl/#

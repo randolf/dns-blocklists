@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705322700 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705362000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - medium version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jan 2024 12:45 UTC
-; Version: 2024.0115.1245.07
+; Last modified: 15 Jan 2024 23:40 UTC
+; Version: 2024.0115.2340.59
 ; Syntax: RPZ
-; Number of entries: 13858
+; Number of entries: 13836
 ;
 annihilate.ac CNAME .
 *.annihilate.ac CNAME .
@@ -1097,8 +1097,6 @@ download.doumaibiji.cn CNAME .
 *.download.doumaibiji.cn CNAME .
 yp.hnggzyjy.cn CNAME .
 *.yp.hnggzyjy.cn CNAME .
-360down7.miiyun.cn CNAME .
-*.360down7.miiyun.cn CNAME .
 download.pdf00.cn CNAME .
 *.download.pdf00.cn CNAME .
 andersonassociates.co CNAME .
@@ -3481,8 +3479,6 @@ grassrootbd.com CNAME .
 *.grassrootbd.com CNAME .
 gravitycolombo.com CNAME .
 *.gravitycolombo.com CNAME .
-greenisco.com CNAME .
-*.greenisco.com CNAME .
 greenteech.com CNAME .
 *.greenteech.com CNAME .
 grehlingerssealcoating.com CNAME .
@@ -6567,8 +6563,6 @@ winwinchapter.com CNAME .
 *.winwinchapter.com CNAME .
 wiseeworld.com CNAME .
 *.wiseeworld.com CNAME .
-wispafoods.com CNAME .
-*.wispafoods.com CNAME .
 wizfairtechnologies.com CNAME .
 *.wizfairtechnologies.com CNAME .
 woescosmetica.com CNAME .
@@ -6655,8 +6649,6 @@ ysbaojia.com CNAME .
 *.ysbaojia.com CNAME .
 ysoal.com CNAME .
 *.ysoal.com CNAME .
-yzkzixun.com CNAME .
-*.yzkzixun.com CNAME .
 webhonlines.za.com CNAME .
 *.webhonlines.za.com CNAME .
 zabeelmall.com CNAME .
@@ -6763,8 +6755,6 @@ reifenquick.de CNAME .
 *.reifenquick.de CNAME .
 reisebloggerwelt.de CNAME .
 *.reisebloggerwelt.de CNAME .
-reiwo-service.de CNAME .
-*.reiwo-service.de CNAME .
 rz-menden.de CNAME .
 *.rz-menden.de CNAME .
 sonnenkirche.de CNAME .
@@ -7699,6 +7689,8 @@ flashplayeractivex.info CNAME .
 *.flashplayeractivex.info CNAME .
 friendsofeduca.info CNAME .
 *.friendsofeduca.info CNAME .
+gedebey-tvradio.info CNAME .
+*.gedebey-tvradio.info CNAME .
 grupocartagena.info CNAME .
 *.grupocartagena.info CNAME .
 hdmoviearea.info CNAME .
@@ -11531,8 +11523,6 @@ mibautizo.net CNAME .
 *.mibautizo.net CNAME .
 motigroup.net CNAME .
 *.motigroup.net CNAME .
-namthaibinh.net CNAME .
-*.namthaibinh.net CNAME .
 neurosteo.net CNAME .
 *.neurosteo.net CNAME .
 niveen.net CNAME .
@@ -11897,8 +11887,6 @@ coagula.online CNAME .
 *.coagula.online CNAME .
 newjerseyksaustin.letch.online CNAME .
 *.newjerseyksaustin.letch.online CNAME .
-makelovenotwar.online CNAME .
-*.makelovenotwar.online CNAME .
 muktodhara.online CNAME .
 *.muktodhara.online CNAME .
 smmpanelwallah.online CNAME .
@@ -13145,8 +13133,6 @@ zang1.almashreaq.top CNAME .
 *.zang1.almashreaq.top CNAME .
 link.blueyonderllc.top CNAME .
 *.link.blueyonderllc.top CNAME .
-dw.c4kdeliver.top CNAME .
-*.dw.c4kdeliver.top CNAME .
 cn2an.top CNAME .
 *.cn2an.top CNAME .
 zang3.conyersdill.top CNAME .
@@ -13341,8 +13327,6 @@ extramoda.com.ua CNAME .
 *.extramoda.com.ua CNAME .
 admin.byte.in.ua CNAME .
 *.admin.byte.in.ua CNAME .
-partadino.ac.ug CNAME .
-*.partadino.ac.ug CNAME .
 peoplebrand.co.ug CNAME .
 *.peoplebrand.co.ug CNAME .
 urafc.co.ug CNAME .
@@ -13701,8 +13685,6 @@ paingta.xyz CNAME .
 *.paingta.xyz CNAME .
 parves.xyz CNAME .
 *.parves.xyz CNAME .
-paste-bin.xyz CNAME .
-*.paste-bin.xyz CNAME .
 projectdemo.xyz CNAME .
 *.projectdemo.xyz CNAME .
 dd.qngxgw.xyz CNAME .
@@ -13783,8 +13765,6 @@ gpcorporate.co.za CNAME .
 *.gpcorporate.co.za CNAME .
 greenlane.co.za CNAME .
 *.greenlane.co.za CNAME .
-growrock.co.za CNAME .
-*.growrock.co.za CNAME .
 hopvibestravel.co.za CNAME .
 *.hopvibestravel.co.za CNAME .
 hosps.co.za CNAME .
@@ -13837,8 +13817,6 @@ scproducts.co.za CNAME .
 *.scproducts.co.za CNAME .
 smartminingtechnology.co.za CNAME .
 *.smartminingtechnology.co.za CNAME .
-spaceframe.mobi.space-frame.co.za CNAME .
-*.spaceframe.mobi.space-frame.co.za CNAME .
 sridgeauto.co.za CNAME .
 *.sridgeauto.co.za CNAME .
 taurusprotection.co.za CNAME .

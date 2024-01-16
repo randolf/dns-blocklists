@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2024 12:45 UTC
-# Version: 2024.0115.1245.07
+# Last modified: 15 Jan 2024 23:40 UTC
+# Version: 2024.0115.2340.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6929
+# Number of entries: 6918
 #
 *.deviltelegram.000webhostapp.com
 *.pepelu-staging.01staging.site
@@ -91,7 +91,6 @@
 *.imit.ac.in
 *.admissionletters.khu.ac.ke
 *.lodwartvc.ac.ke
-*.partadino.ac.ug
 *.sndcoe.ac.in
 *.ziwatti.ac.ke
 *.academiadepsihosomatica.md
@@ -675,7 +674,6 @@
 *.byra24.no
 *.c-csigns.com
 *.c-pathways.com
-*.dw.c4kdeliver.top
 *.cabex.dz
 *.cabinetstomatologic-brasov.ro
 *.cabrinimed.com
@@ -941,7 +939,6 @@
 *.grahamelderpainting.co.uk
 *.grandvenus.co.ke
 *.greenlane.co.za
-*.growrock.co.za
 *.gutfeeling.co.in
 *.gva.co.tz
 *.habjoshtech.co.ke
@@ -1077,7 +1074,6 @@
 *.smscaffold.co.uk
 *.soccerlite.co.uk
 *.sovereignadventures.co.ke
-*.spaceframe.mobi.space-frame.co.za
 *.spacetrack.co.tz
 *.sphynxbeds.co.uk
 *.squarechapel.co.uk
@@ -2648,6 +2644,7 @@
 *.gdlmainhub.com
 *.gdlrdc.com
 *.geburtstagswunsche.co
+*.gedebey-tvradio.info
 *.lmc.geeksroot.net
 *.geete-dz.com
 *.bakirkoynakliyat.gen.tr
@@ -2781,7 +2778,6 @@
 *.grassrootbd.com
 *.gravitycolombo.com
 *.greencraftbags.in
-*.greenisco.com
 *.greenrootslandscaping.ae
 *.greentechelectric.eu
 *.greenteech.com
@@ -3456,7 +3452,6 @@
 *.maizzbala.com
 *.majortravelegypt.com
 *.majoziacademy.com
-*.makelovenotwar.online
 *.makglobal.in
 *.malaysia-study.com
 *.mallikarjunautomobiles.com
@@ -3587,7 +3582,6 @@
 *.midad-adv.com
 *.migracionexpress.com
 *.migranoticias.com
-*.360down7.miiyun.cn
 *.milanmatka.com
 *.milanotecnoservice.it
 *.milleniumtelecomservice.com
@@ -3769,7 +3763,6 @@
 *.nahdahypermarket.com
 *.naked-truth.uk
 *.namaacont.com
-*.namthaibinh.net
 *.naogaonagro.com
 *.napcloud.in
 *.nargana.co
@@ -5548,7 +5541,6 @@
 *.partotaprayan.ir
 *.parves.xyz
 *.pasta-mania.it
-*.paste-bin.xyz
 *.path4hosts.com
 *.patmypets.com
 *.patos.mx
@@ -5819,7 +5811,6 @@
 *.rehmkar.com
 *.reifenquick.de
 *.reisebloggerwelt.de
-*.reiwo-service.de
 *.relianceeducation.net
 *.remdiswap.com
 *.rencontrenationaledanse.fr
@@ -6829,7 +6820,6 @@
 *.winwinchapter.com
 *.wiseeworld.com
 *.wishes247.in
-*.wispafoods.com
 *.wizfairtechnologies.com
 *.planex.wjg.jp
 *.woescosmetica.com
@@ -6900,7 +6890,6 @@
 *.ysbaojia.com
 *.ysoal.com
 *.yugroup.dental
-*.yzkzixun.com
 *.1.oooksu.z8.ru
 *.webhonlines.za.com
 *.zaakversneller.nl

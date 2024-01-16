@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jan 2024 12:49 UTC
-# Version: 2024.0115.1249.51
+# Last modified: 15 Jan 2024 23:45 UTC
+# Version: 2024.0115.2345.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 29436
+# Number of entries: 29426
 #
 000.pe
 000nethost.com
@@ -380,7 +380,6 @@ lodwartvc.ac.ke
 mertitvc.ac.ke
 sportday66.mwk.ac.th
 med.oit.ac.jp
-partadino.ac.ug
 sndcoe.ac.in
 siaka.unpacti.ac.id
 ziwatti.ac.ke
@@ -2014,6 +2013,7 @@ brookssale.ru
 brooksshoesoutletsfactory.com
 brownelllandcompany.com
 brragco.cn
+services.brt.it
 bruiserbodies.com
 brujosdelamor2019.com
 brusuax.com
@@ -2106,7 +2106,6 @@ bzxmxb.xyz
 bzxmyz.xyz
 c-csigns.com
 c-pathways.com
-dw.c4kdeliver.top
 cabex.dz
 cabinetstomatologic-brasov.ro
 cabrinimed.com
@@ -2651,7 +2650,6 @@ grahamelderpainting.co.uk
 grandvenus.co.ke
 greengold.co.uk
 greenlane.co.za
-growrock.co.za
 blank-bttttmedia.grwebsite.co.uk
 gutfeeling.co.in
 gva.co.tz
@@ -2836,7 +2834,6 @@ smartstay.co.ke
 smscaffold.co.uk
 soccerlite.co.uk
 sovereignadventures.co.ke
-spaceframe.mobi.space-frame.co.za
 spacetrack.co.tz
 sphynxbeds.co.uk
 squarechapel.co.uk
@@ -4060,7 +4057,6 @@ contravention-rappel.com
 contraventions-gouv.info
 controletempo.com
 controllaportale-elimina.com
-controllowebapp.com
 controlsoluciones.cr
 conveniosdineroalinstante.com
 zang3.conyersdill.top
@@ -9492,6 +9488,7 @@ gdylewski.pl
 ge-postoffice.com
 geaoaty.cn
 geburtstagswunsche.co
+gedebey-tvradio.info
 lmc.geeksroot.net
 geete-dz.com
 geldigital.com
@@ -10025,7 +10022,6 @@ bancoprovinciabip.great-site.net
 greececustoms-delievry.com
 greencraftbags.in
 greenhouse.ps
-greenisco.com
 greenpillnft.xyz
 greenrootslandscaping.ae
 greenstuffworld.cn
@@ -11831,7 +11827,6 @@ majamarta.pl
 majortravelegypt.com
 majoziacademy.com
 majunstudio.com
-makelovenotwar.online
 account.makeorbreakblog.com
 makglobal.in
 makingmemoriesphotoboothde.com
@@ -12137,7 +12132,6 @@ mieszkania-matkowski.pl
 migracionexpress.com
 migracionjeeves.com
 migranoticias.com
-360down7.miiyun.cn
 milanmatka.com
 milanotecnoservice.it
 mta-sts.milenvases.com
@@ -12977,7 +12971,6 @@ nalinobb.cloud
 nalodd.online
 namaacont.com
 internetaboneligi.name.tr
-namthaibinh.net
 nang-cap-khach-hang.com
 nano.site
 nanomeda.com
@@ -13336,6 +13329,7 @@ a7ce40fccc.nxcli.io
 dddbcb7dba.nxcli.net
 cmoecbsemco.nxiyeqw.cn
 nxtid.tv
+web.osc.state.ny.us
 hadeedethopia.nyatechservices.com
 inpost-pl.nyeet.site
 nykterida.gr
@@ -15743,6 +15737,7 @@ panacak.com
 panaderialaoncevalpo.cl
 web.pancake.run
 pancakeappswap.ru
+pancakefiance.org
 pancakeswaops.com
 pancakeswap-airdop.com
 pancakeswap-global.us
@@ -15865,7 +15860,6 @@ pasrz-us.top
 pass-login.com
 passed.hu
 pasta-mania.it
-paste-bin.xyz
 path4hosts.com
 patmypets.com
 patos.mx
@@ -18073,7 +18067,6 @@ rehmkar.com
 reifenquick.de
 reisebloggerwelt.de
 reisestore.com
-reiwo-service.de
 rekliscoachingandconsulting.com
 rekunion.com
 relacionespremium.com
@@ -21522,7 +21515,6 @@ zimbra-zs7y.vercel.app
 veridirekt2.net
 verife-mob.com
 verifica-secure.com
-verificadispositivoapp.com
 verificapratica-mobile.com
 verificarecapito.com
 verificationtechwebmaster.com
@@ -27689,7 +27681,6 @@ wir-liefern-zu-ihnen-in-die-schweiz.com
 wiseeworld.com
 wishes247.in
 wishmonster.com
-wispafoods.com
 withlovefromchina.com
 431tomato.wixsite.com
 4tyea75.wixsite.com
@@ -29277,7 +29268,6 @@ usps.yxtion.com
 yyfsajkfl3.top
 yyltphe.cn
 jp.mercaria.yzfdj.com
-yzkzixun.com
 usps.yztion.top
 cpanel01wh.bkk1.cloud.z.com
 cpanel02wh.bkk1.cloud.z.com
