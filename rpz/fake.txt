@@ -24903,8 +24903,6 @@ vessischuhe.de CNAME .
 *.vessischuhe.de CNAME .
 vetapotheke-shop.de CNAME .
 *.vetapotheke-shop.de CNAME .
-vevor.de CNAME .
-*.vevor.de CNAME .
 viagra-pille-kaufen.de CNAME .
 *.viagra-pille-kaufen.de CNAME .
 vielke.de CNAME .

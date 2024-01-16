@@ -138029,7 +138029,6 @@ tr.forum.veuveclicquot.fr
 vevatom.com
 veve.com
 vevlysingar.fo
-vevor.de
 log.core.cloud.vewd.com
 log-legacy.core.cloud.vewd.com
 vewdk.cyou

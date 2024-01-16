@@ -13503,7 +13503,6 @@ address=/vessishoesireland.com/#
 address=/vessisuomi.com/#
 address=/vetapotheke-shop.de/#
 address=/vetter-reifenhandel.com/#
-address=/vevor.de/#
 address=/vevorstore.net/#
 address=/vexxsel.online/#
 address=/vhatkevada.shop/#
