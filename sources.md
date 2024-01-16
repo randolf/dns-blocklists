@@ -78,6 +78,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
 https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+https://raw.githubusercontent.com/aleksandarristic/blacklist/main/lists/scam_hosts_srb.txt
 https://raw.githubusercontent.com/alexsannikov/adguardhome-filters/master/gambling.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
