@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2024 00:55 UTC
-# Version: 2024.0116.0055.31
+# Last modified: 16 Jan 2024 14:04 UTC
+# Version: 2024.0116.1404.35
 # Syntax: DNSMasq
-# Number of entries: 65170
+# Number of entries: 65188
 #
 address=/0008d6ba2e.com/#
 address=/000space.com/#
@@ -53,6 +53,7 @@ address=/03ab2qdorz.com/#
 address=/03bdb617ed.com/#
 address=/03e.info/#
 address=/03ed9035a0801f.com/#
+address=/03eea1b6dd.com/#
 address=/0407ba6a0a.com/#
 address=/0411dd.com/#
 address=/041353e6dd.com/#
@@ -1421,6 +1422,7 @@ address=/777partner.com/#
 address=/777seo.com/#
 address=/777zz777zz.com/#
 address=/7794.com/#
+address=/77bd7b02a8.com/#
 address=/77c4175fc7.com/#
 address=/77tracking.com/#
 address=/7807091956.com/#
@@ -21279,9 +21281,12 @@ address=/ams-usadmm-ds.dotomi.com/#
 address=/aol-match.dotomi.com/#
 address=/apnx-match.dotomi.com/#
 address=/casale-match.dotomi.com/#
+address=/contextweb-match.dotomi.com/#
 address=/dclk-match.dotomi.com/#
 address=/districtm-match.dotomi.com/#
 address=/dp-sync.dotomi.com/#
+address=/eyeota-sync.dotomi.com/#
+address=/iad-login.dotomi.com/#
 address=/iad-usadmm.dotomi.com/#
 address=/iad-usadmm-ds.dotomi.com/#
 address=/iad01-nessy-float1.dotomi.com/#
@@ -21318,6 +21323,7 @@ address=/sin-login-ds.dotomi.com/#
 address=/sjc-login.dotomi.com/#
 address=/sjc-usadmm.dotomi.com/#
 address=/sjc-usadmm-ds.dotomi.com/#
+address=/sortable-match.dotomi.com/#
 address=/spotx-match.dotomi.com/#
 address=/stx-match.dotomi.com/#
 address=/synacor-match.dotomi.com/#
@@ -45337,6 +45343,7 @@ address=/perics.com/#
 address=/t.perigold.com/#
 address=/perigshfnon.com/#
 address=/perilastronaut.com/#
+address=/perimeterx.net/#
 address=/ad.period-calendar.com/#
 address=/periodicmassageate.com/#
 address=/periodpennavigation.com/#
@@ -47344,7 +47351,7 @@ address=/ptewauta.net/#
 address=/ptffvpjhhb.com/#
 address=/ptflrj.xyz/#
 address=/ptfxh.com/#
-address=/deliver.ptgncdn.com/#
+address=/ptgncdn.com/#
 address=/ptiftols.net/#
 address=/ptirgaux.com/#
 address=/ptistyvymi.com/#
@@ -47715,7 +47722,11 @@ address=/pwrgrowthapi.com/#
 address=/pwrlkyotm.com/#
 address=/pwuiwaefts.com/#
 address=/pwxtock.com/#
+address=/px-cdn.net/#
+address=/px-client.net/#
+address=/px-cloud.net/#
 address=/pxaction.com/#
+address=/pxchk.net/#
 address=/pxi.pub/#
 address=/pxl.host/#
 address=/pxl-mailtracker.com/#
@@ -51762,11 +51773,18 @@ address=/servicetechtracker.com/#
 address=/serviciar.com/#
 address=/pub.servidoresge.com/#
 address=/serving-passthrough.com/#
+address=/activity.serving-sys.com/#
 address=/bsch.serving-sys.com/#
+address=/datacapture.serving-sys.com/#
 address=/ds.serving-sys.com/#
+address=/ds-ll.serving-sys.com/#
+address=/ds-vn.serving-sys.com/#
 address=/gizmo.serving-sys.com/#
+address=/gizmo-s.serving-sys.com/#
 address=/lm.serving-sys.com/#
+address=/msn.serving-sys.com/#
 address=/msntest.serving-sys.com/#
+address=/origin-gizmo.serving-sys.com/#
 address=/secure-ds.serving-sys.com/#
 address=/servingcdn.net/#
 address=/servinghandy.com/#

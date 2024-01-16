@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2024 00:55 UTC
-# Version: 2024.0116.0055.31
+# Last modified: 16 Jan 2024 14:04 UTC
+# Version: 2024.0116.1404.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 65170
+# Number of entries: 65188
 #
 *.0008d6ba2e.com
 *.000space.com
@@ -53,6 +53,7 @@
 *.03bdb617ed.com
 *.03e.info
 *.03ed9035a0801f.com
+*.03eea1b6dd.com
 *.0407ba6a0a.com
 *.0411dd.com
 *.041353e6dd.com
@@ -1421,6 +1422,7 @@
 *.777seo.com
 *.777zz777zz.com
 *.7794.com
+*.77bd7b02a8.com
 *.77c4175fc7.com
 *.77tracking.com
 *.7807091956.com
@@ -21279,9 +21281,12 @@
 *.aol-match.dotomi.com
 *.apnx-match.dotomi.com
 *.casale-match.dotomi.com
+*.contextweb-match.dotomi.com
 *.dclk-match.dotomi.com
 *.districtm-match.dotomi.com
 *.dp-sync.dotomi.com
+*.eyeota-sync.dotomi.com
+*.iad-login.dotomi.com
 *.iad-usadmm.dotomi.com
 *.iad-usadmm-ds.dotomi.com
 *.iad01-nessy-float1.dotomi.com
@@ -21318,6 +21323,7 @@
 *.sjc-login.dotomi.com
 *.sjc-usadmm.dotomi.com
 *.sjc-usadmm-ds.dotomi.com
+*.sortable-match.dotomi.com
 *.spotx-match.dotomi.com
 *.stx-match.dotomi.com
 *.synacor-match.dotomi.com
@@ -45337,6 +45343,7 @@
 *.t.perigold.com
 *.perigshfnon.com
 *.perilastronaut.com
+*.perimeterx.net
 *.ad.period-calendar.com
 *.periodicmassageate.com
 *.periodpennavigation.com
@@ -47344,7 +47351,7 @@
 *.ptffvpjhhb.com
 *.ptflrj.xyz
 *.ptfxh.com
-*.deliver.ptgncdn.com
+*.ptgncdn.com
 *.ptiftols.net
 *.ptirgaux.com
 *.ptistyvymi.com
@@ -47715,7 +47722,11 @@
 *.pwrlkyotm.com
 *.pwuiwaefts.com
 *.pwxtock.com
+*.px-cdn.net
+*.px-client.net
+*.px-cloud.net
 *.pxaction.com
+*.pxchk.net
 *.pxi.pub
 *.pxl.host
 *.pxl-mailtracker.com
@@ -51762,11 +51773,18 @@
 *.serviciar.com
 *.pub.servidoresge.com
 *.serving-passthrough.com
+*.activity.serving-sys.com
 *.bsch.serving-sys.com
+*.datacapture.serving-sys.com
 *.ds.serving-sys.com
+*.ds-ll.serving-sys.com
+*.ds-vn.serving-sys.com
 *.gizmo.serving-sys.com
+*.gizmo-s.serving-sys.com
 *.lm.serving-sys.com
+*.msn.serving-sys.com
 *.msntest.serving-sys.com
+*.origin-gizmo.serving-sys.com
 *.secure-ds.serving-sys.com
 *.servingcdn.net
 *.servinghandy.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705366500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705413840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2024 00:55 UTC
-; Version: 2024.0116.0055.31
+; Last modified: 16 Jan 2024 14:04 UTC
+; Version: 2024.0116.1404.35
 ; Syntax: RPZ
-; Number of entries: 130340
+; Number of entries: 130376
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -6415,6 +6415,8 @@ securite.01net.com CNAME .
 *.03bdb617ed.com CNAME .
 03ed9035a0801f.com CNAME .
 *.03ed9035a0801f.com CNAME .
+03eea1b6dd.com CNAME .
+*.03eea1b6dd.com CNAME .
 0407ba6a0a.com CNAME .
 *.0407ba6a0a.com CNAME .
 0411dd.com CNAME .
@@ -8161,6 +8163,8 @@ analytics.777.com CNAME .
 *.777zz777zz.com CNAME .
 7794.com CNAME .
 *.7794.com CNAME .
+77bd7b02a8.com CNAME .
+*.77bd7b02a8.com CNAME .
 77c4175fc7.com CNAME .
 *.77c4175fc7.com CNAME .
 77tracking.com CNAME .
@@ -29205,12 +29209,18 @@ apnx-match.dotomi.com CNAME .
 *.apnx-match.dotomi.com CNAME .
 casale-match.dotomi.com CNAME .
 *.casale-match.dotomi.com CNAME .
+contextweb-match.dotomi.com CNAME .
+*.contextweb-match.dotomi.com CNAME .
 dclk-match.dotomi.com CNAME .
 *.dclk-match.dotomi.com CNAME .
 districtm-match.dotomi.com CNAME .
 *.districtm-match.dotomi.com CNAME .
 dp-sync.dotomi.com CNAME .
 *.dp-sync.dotomi.com CNAME .
+eyeota-sync.dotomi.com CNAME .
+*.eyeota-sync.dotomi.com CNAME .
+iad-login.dotomi.com CNAME .
+*.iad-login.dotomi.com CNAME .
 iad-usadmm.dotomi.com CNAME .
 *.iad-usadmm.dotomi.com CNAME .
 iad-usadmm-ds.dotomi.com CNAME .
@@ -29283,6 +29293,8 @@ sjc-usadmm.dotomi.com CNAME .
 *.sjc-usadmm.dotomi.com CNAME .
 sjc-usadmm-ds.dotomi.com CNAME .
 *.sjc-usadmm-ds.dotomi.com CNAME .
+sortable-match.dotomi.com CNAME .
+*.sortable-match.dotomi.com CNAME .
 spotx-match.dotomi.com CNAME .
 *.spotx-match.dotomi.com CNAME .
 stx-match.dotomi.com CNAME .
@@ -61485,8 +61497,8 @@ ptffvpjhhb.com CNAME .
 *.ptffvpjhhb.com CNAME .
 ptfxh.com CNAME .
 *.ptfxh.com CNAME .
-deliver.ptgncdn.com CNAME .
-*.deliver.ptgncdn.com CNAME .
+ptgncdn.com CNAME .
+*.ptgncdn.com CNAME .
 ptirgaux.com CNAME .
 *.ptirgaux.com CNAME .
 ptistyvymi.com CNAME .
@@ -67459,16 +67471,30 @@ pub.servidoresge.com CNAME .
 *.pub.servidoresge.com CNAME .
 serving-passthrough.com CNAME .
 *.serving-passthrough.com CNAME .
+activity.serving-sys.com CNAME .
+*.activity.serving-sys.com CNAME .
 bsch.serving-sys.com CNAME .
 *.bsch.serving-sys.com CNAME .
+datacapture.serving-sys.com CNAME .
+*.datacapture.serving-sys.com CNAME .
 ds.serving-sys.com CNAME .
 *.ds.serving-sys.com CNAME .
+ds-ll.serving-sys.com CNAME .
+*.ds-ll.serving-sys.com CNAME .
+ds-vn.serving-sys.com CNAME .
+*.ds-vn.serving-sys.com CNAME .
 gizmo.serving-sys.com CNAME .
 *.gizmo.serving-sys.com CNAME .
+gizmo-s.serving-sys.com CNAME .
+*.gizmo-s.serving-sys.com CNAME .
 lm.serving-sys.com CNAME .
 *.lm.serving-sys.com CNAME .
+msn.serving-sys.com CNAME .
+*.msn.serving-sys.com CNAME .
 msntest.serving-sys.com CNAME .
 *.msntest.serving-sys.com CNAME .
+origin-gizmo.serving-sys.com CNAME .
+*.origin-gizmo.serving-sys.com CNAME .
 secure-ds.serving-sys.com CNAME .
 *.secure-ds.serving-sys.com CNAME .
 servinghandy.com CNAME .
@@ -110633,6 +110659,8 @@ performanceanalyser.net CNAME .
 *.performanceanalyser.net CNAME .
 performancevitality.net CNAME .
 *.performancevitality.net CNAME .
+perimeterx.net CNAME .
+*.perimeterx.net CNAME .
 tracker.personizely.net CNAME .
 *.tracker.personizely.net CNAME .
 pertawee.net CNAME .
@@ -110909,6 +110937,14 @@ telemetry.vg.ac.pvp.net CNAME .
 *.telemetry.vg.ac.pvp.net CNAME .
 telemetry.pvp.net CNAME .
 *.telemetry.pvp.net CNAME .
+px-cdn.net CNAME .
+*.px-cdn.net CNAME .
+px-client.net CNAME .
+*.px-client.net CNAME .
+px-cloud.net CNAME .
+*.px-cloud.net CNAME .
+pxchk.net CNAME .
+*.pxchk.net CNAME .
 pyme124.pymedns.net CNAME .
 *.pyme124.pymedns.net CNAME .
 analytic.qapitalapp.net CNAME .
