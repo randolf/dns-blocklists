@@ -8,14 +8,21 @@
   },
   "rules": [
     {
-      "PK": "email.namebase.io",
+      "PK": "track.glovoapp.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "adfoc.us",
+      "PK": "ct.impactradius.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "oa.tr.line.me",
       "action": {
         "do": 1,
         "status": 1
@@ -71,7 +78,14 @@
       }
     },
     {
-      "PK": "ct.impactradius.com",
+      "PK": "adfoc.us",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "post.spmailtechno.com",
       "action": {
         "do": 1,
         "status": 1
@@ -79,13 +93,6 @@
     },
     {
       "PK": "cj.dotomi.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "clk.boulanger.com",
       "action": {
         "do": 1,
         "status": 1
@@ -148,35 +155,35 @@
       }
     },
     {
-      "PK": "action.metaffiliation.com",
+      "PK": "clk.boulanger.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "oa.tr.line.me",
+      "PK": "click.allkeyshop.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "post.spmailtechno.com",
+      "PK": "go.redirectingat.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "hubspotemail.net",
+      "PK": "atlassbx.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "www.googleadservices.com",
+      "PK": "click.pstmrk.it",
       "action": {
         "do": 1,
         "status": 1
@@ -239,7 +246,14 @@
       }
     },
     {
-      "PK": "atlassbx.com",
+      "PK": "www.googleadservices.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "apmebf.com",
       "action": {
         "do": 1,
         "status": 1
@@ -247,13 +261,6 @@
     },
     {
       "PK": "stvkr.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "click.allkeyshop.com",
       "action": {
         "do": 1,
         "status": 1
@@ -316,35 +323,35 @@
       }
     },
     {
-      "PK": "apmebf.com",
+      "PK": "action.metaffiliation.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "go.redirectingat.com",
+      "PK": "hubspotemail.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "l.neqty.net",
+      "PK": "click.alternate.de",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "marketing.tr.netsalesmedia.pl",
+      "PK": "track.grove.co",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "t.co",
+      "PK": "lt45.net",
       "action": {
         "do": 1,
         "status": 1
@@ -400,7 +407,14 @@
       }
     },
     {
-      "PK": "track.grove.co",
+      "PK": "t.co",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cts.businesswire.com",
       "action": {
         "do": 1,
         "status": 1
@@ -408,13 +422,6 @@
     },
     {
       "PK": "app*.adjust.world",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "click.zoom.us",
       "action": {
         "do": 1,
         "status": 1
@@ -477,21 +484,28 @@
       }
     },
     {
-      "PK": "redirect.appmetrica.yandex.*",
+      "PK": "click.zoom.us",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "lt45.net",
+      "PK": "unsubscribe.*.leanplum.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "cts.businesswire.com",
+      "PK": "l.neqty.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*cdn.exponea.com",
       "action": {
         "do": 1,
         "status": 1
@@ -499,13 +513,6 @@
     },
     {
       "PK": "pi.pardot.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "track*.effiliation.com",
       "action": {
         "do": 1,
         "status": 1
@@ -568,7 +575,14 @@
       }
     },
     {
-      "PK": "*cdn.exponea.com",
+      "PK": "track*.effiliation.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "customlinks.appsflyer.com",
       "action": {
         "do": 1,
         "status": 1
@@ -576,13 +590,6 @@
     },
     {
       "PK": "d.agkn.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "unsubscribe.*.leanplum.com",
       "action": {
         "do": 1,
         "status": 1
@@ -645,35 +652,35 @@
       }
     },
     {
-      "PK": "customlinks.appsflyer.com",
+      "PK": "marketing.tr.netsalesmedia.pl",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.pstmrk.it",
+      "PK": "aylink.co",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.alternate.de",
+      "PK": "qflm.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "ch0p.darty.com",
+      "PK": "links.mkt*.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "bnc.lt",
+      "PK": "static.cleverpush.com",
       "action": {
         "do": 1,
         "status": 1
@@ -729,7 +736,14 @@
       }
     },
     {
-      "PK": "links.mkt*.net",
+      "PK": "bnc.lt",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "api*.hubapi.com",
       "action": {
         "do": 1,
         "status": 1
@@ -737,13 +751,6 @@
     },
     {
       "PK": "emjcd.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "go.blokada.org",
       "action": {
         "do": 1,
         "status": 1
@@ -806,28 +813,21 @@
       }
     },
     {
-      "PK": "prism.app-us1.com",
+      "PK": "go.blokada.org",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "static.cleverpush.com",
+      "PK": "email.namebase.io",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "api*.hubapi.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "click.em.blizzard.com",
+      "PK": "click.aliexpress.com",
       "action": {
         "do": 1,
         "status": 1
@@ -981,28 +981,35 @@
       }
     },
     {
-      "PK": "click.aliexpress.com",
+      "PK": "prism.app-us1.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "link.betclic.com",
+      "PK": "click.em.blizzard.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aylink.co",
+      "PK": "pxf.io",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.dji.com",
+      "PK": "go.nordlocker.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "l.betrad.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1065,7 +1072,14 @@
       }
     },
     {
-      "PK": "go.nordlocker.net",
+      "PK": "click.dji.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "engage.windows.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1073,13 +1087,6 @@
     },
     {
       "PK": "ndirect.ppro.de",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "p.placed.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1142,21 +1149,28 @@
       }
     },
     {
-      "PK": "pxf.io",
+      "PK": "p.placed.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "l.betrad.com",
+      "PK": "avantlink.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "engage.windows.com",
+      "PK": "link.betclic.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sites.hscoscdn*.net",
       "action": {
         "do": 1,
         "status": 1
@@ -1164,13 +1178,6 @@
     },
     {
       "PK": "rads.stackoverflow.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "analytics.barnebys.sh",
       "action": {
         "do": 1,
         "status": 1
@@ -1233,7 +1240,14 @@
       }
     },
     {
-      "PK": "sites.hscoscdn*.net",
+      "PK": "analytics.barnebys.sh",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "convertkit-mail.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1241,13 +1255,6 @@
     },
     {
       "PK": "www.partner-ads.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "avantlink.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1310,35 +1317,35 @@
       }
     },
     {
-      "PK": "convertkit-mail.com",
+      "PK": "eultech.fnac.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "track.glovoapp.com",
+      "PK": "redirect.appmetrica.yandex.*",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "qflm.net",
+      "PK": "ch0p.darty.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "goto.target.com",
+      "PK": "tp-emea.exactag.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "xg4ken.com",
+      "PK": "m.n*.e-nocibe.fr",
       "action": {
         "do": 1,
         "status": 1
@@ -1394,7 +1401,14 @@
       }
     },
     {
-      "PK": "tp-emea.exactag.com",
+      "PK": "xg4ken.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "clicks.trx-hub.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1402,13 +1416,6 @@
     },
     {
       "PK": "href.li",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cse3.chausport.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1471,35 +1478,35 @@
       }
     },
     {
-      "PK": "fr135.net",
+      "PK": "cse3.chausport.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "m.n*.e-nocibe.fr",
+      "PK": "app.appsflyer.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "clicks.trx-hub.com",
+      "PK": "campaign.adobe.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "goto.algolia.com",
+      "PK": "readdle.cmail20.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "pjtra.com",
+      "PK": "webep1.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1562,7 +1569,14 @@
       }
     },
     {
-      "PK": "readdle.cmail20.com",
+      "PK": "pjtra.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "anrdoezrs.net",
       "action": {
         "do": 1,
         "status": 1
@@ -1570,13 +1584,6 @@
     },
     {
       "PK": "hs.eloqua.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "app.appsflyer.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1639,35 +1646,35 @@
       }
     },
     {
-      "PK": "anrdoezrs.net",
+      "PK": "fr135.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "campaign.adobe.com",
+      "PK": "goto.algolia.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "createsend1.com",
+      "PK": "email-tracking.infobip.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "l.facebook.com",
+      "PK": "alitems.site",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "tracking.s24.com",
+      "PK": "tags.news.com.au",
       "action": {
         "do": 1,
         "status": 1
@@ -1723,7 +1730,14 @@
       }
     },
     {
-      "PK": "alitems.site",
+      "PK": "tracking.s24.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax*.amazon.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1731,13 +1745,6 @@
     },
     {
       "PK": "acemlnb.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "clck.yandex.ru",
       "action": {
         "do": 1,
         "status": 1
@@ -1800,21 +1807,28 @@
       }
     },
     {
-      "PK": "eultech.fnac.com",
+      "PK": "clck.yandex.ru",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "tags.news.com.au",
+      "PK": "partners*.stacksocial.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax*.amazon.com",
+      "PK": "createsend1.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "email.uber.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1822,13 +1836,6 @@
     },
     {
       "PK": "clickserve.dartsearch.net",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "recommender*.scarabresearch.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1891,7 +1898,14 @@
       }
     },
     {
-      "PK": "email.uber.com",
+      "PK": "recommender*.scarabresearch.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track.adform.net",
       "action": {
         "do": 1,
         "status": 1
@@ -1899,13 +1913,6 @@
     },
     {
       "PK": "glnk.io",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "partners*.stacksocial.com",
       "action": {
         "do": 1,
         "status": 1
@@ -1968,35 +1975,35 @@
       }
     },
     {
-      "PK": "track.adform.net",
+      "PK": "goto.target.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.e.lowes.com",
+      "PK": "l.facebook.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "webep1.com",
+      "PK": "cdn.webclicks24.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "email-tracking.infobip.com",
+      "PK": "engage.canva.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax-fe.amazon.*",
+      "PK": "gopjn.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2059,7 +2066,14 @@
       }
     },
     {
-      "PK": "engage.canva.com",
+      "PK": "aax-fe.amazon.*",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "click.*.experian.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2067,13 +2081,6 @@
     },
     {
       "PK": "go.nextiva.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "target.clickfunnels.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2136,35 +2143,35 @@
       }
     },
     {
-      "PK": "tracking.bol.com",
+      "PK": "target.clickfunnels.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "gopjn.com",
+      "PK": "aax-eu.amazon.*",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.*.experian.com",
+      "PK": "c.msn.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "r*.rs6.net",
+      "PK": "cl.exct.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.justwatch.com",
+      "PK": "click.e.lowes.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2227,7 +2234,14 @@
       }
     },
     {
-      "PK": "cl.exct.net",
+      "PK": "click.justwatch.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "adservice.google.*",
       "action": {
         "do": 1,
         "status": 1
@@ -2235,13 +2249,6 @@
     },
     {
       "PK": "links*.afterpay.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aax-eu.amazon.*",
       "action": {
         "do": 1,
         "status": 1
@@ -2304,35 +2311,35 @@
       }
     },
     {
-      "PK": "adservice.google.*",
+      "PK": "app*.salesmanago.pl",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "cdn.webclicks24.com",
+      "PK": "tracking.bol.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "c.msn.com",
+      "PK": "r*.rs6.net",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "tracking.truthfinder.com",
+      "PK": "t*.intelliad.de",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "newslink.reuters.com",
+      "PK": "t.indeed.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2395,7 +2402,14 @@
       }
     },
     {
-      "PK": "t*.intelliad.de",
+      "PK": "newslink.reuters.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tracking.truthfinder.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2403,13 +2417,6 @@
     },
     {
       "PK": "track.adtraction.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pntrac.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2472,14 +2479,14 @@
       }
     },
     {
-      "PK": "app*.salesmanago.pl",
+      "PK": "alb.reddit.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "t.indeed.com",
+      "PK": "click.mail.macmillan.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2493,14 +2500,14 @@
       }
     },
     {
-      "PK": "alb.reddit.com",
+      "PK": "ulink.adjust.*",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "click.mail.macmillan.com",
+      "PK": "pntrac.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2634,13 +2641,6 @@
     },
     {
       "PK": "micpn.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ulink.adjust.*",
       "action": {
         "do": 1,
         "status": 1

@@ -8,35 +8,14 @@
   },
   "rules": [
     {
-      "PK": "*.market",
+      "PK": "*.zone",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.phd",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.quest",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.bar",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.top",
+      "PK": "*.beauty",
       "action": {
         "do": 0,
         "status": 1
@@ -113,14 +92,14 @@
       }
     },
     {
-      "PK": "*.buzz",
+      "PK": "*.phd",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.autos",
+      "PK": "*.buzz",
       "action": {
         "do": 0,
         "status": 1
@@ -134,14 +113,14 @@
       }
     },
     {
-      "PK": "*.beauty",
+      "PK": "*.guru",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.guru",
+      "PK": "*.bar",
       "action": {
         "do": 0,
         "status": 1
@@ -225,14 +204,7 @@
       }
     },
     {
-      "PK": "*.tattoo",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "*.degree",
+      "PK": "*.market",
       "action": {
         "do": 0,
         "status": 1
@@ -246,13 +218,6 @@
       }
     },
     {
-      "PK": "*.tokyo",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "*.fyi",
       "action": {
         "do": 0,
@@ -260,7 +225,14 @@
       }
     },
     {
-      "PK": "*.zone",
+      "PK": "*.top",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.quest",
       "action": {
         "do": 0,
         "status": 1
@@ -268,6 +240,13 @@
     },
     {
       "PK": "*.wtf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.boston",
       "action": {
         "do": 0,
         "status": 1
@@ -351,14 +330,14 @@
       }
     },
     {
-      "PK": "*.rodeo",
+      "PK": "*.tokyo",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.space",
+      "PK": "*.rodeo",
       "action": {
         "do": 0,
         "status": 1
@@ -372,14 +351,14 @@
       }
     },
     {
-      "PK": "*.boston",
+      "PK": "*.haus",
       "action": {
         "do": 0,
         "status": 1
       }
     },
     {
-      "PK": "*.haus",
+      "PK": "*.tattoo",
       "action": {
         "do": 0,
         "status": 1
@@ -457,6 +436,27 @@
     },
     {
       "PK": "*.bio",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.space",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.degree",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.autos",
       "action": {
         "do": 0,
         "status": 1
