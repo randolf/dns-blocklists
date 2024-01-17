@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 22:55 UTC
-# Version: 2024.0115.2255.16
+# Last modified: 17 Jan 2024 23:51 UTC
+# Version: 2024.0117.2351.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 2639
+# Number of entries: 2645
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -796,6 +796,7 @@ fastssh.com
 fasttime.info
 fastusaproxy.com
 fastvpn.im
+fastvpn.me
 favoriteshoes.us
 dns.faze.dev
 fbproxies.info
@@ -953,6 +954,7 @@ getvpn.info
 getvpnx.com
 getxhelp.com
 getxvpn.com
+getxweb.com
 gfwvpn.com
 ghostpath.com
 gifttrees.us
@@ -1151,6 +1153,7 @@ internetcloak.com
 interssh.com
 intervpn.com
 intl-alliance.com
+iot-dns.com
 ioxy.de
 ipbuzz.net
 ipchanging.com
@@ -1256,11 +1259,14 @@ eu1.dns.lavate.ch
 us1.dns.lavate.ch
 le-vpn.com
 adguard1.leadmon.net
+leafyvpn.net
+leekemx.com
 yarp.lefolgoc.net
 legaladvisor.us
 legalweb.info
 br.servers.legat.ml
 externalmobiel.lekdijk.online
+lelux.fi
 libertyvpn.net
 doh.libredns.gr
 dot.libredns.gr

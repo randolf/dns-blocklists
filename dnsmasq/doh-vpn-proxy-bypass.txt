@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 22:55 UTC
-# Version: 2024.0115.2255.16
+# Last modified: 17 Jan 2024 23:51 UTC
+# Version: 2024.0117.2351.35
 # Syntax: DNSMasq
-# Number of entries: 2639
+# Number of entries: 2645
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -796,6 +796,7 @@ address=/fastssh.com/#
 address=/fasttime.info/#
 address=/fastusaproxy.com/#
 address=/fastvpn.im/#
+address=/fastvpn.me/#
 address=/favoriteshoes.us/#
 address=/dns.faze.dev/#
 address=/fbproxies.info/#
@@ -953,6 +954,7 @@ address=/getvpn.info/#
 address=/getvpnx.com/#
 address=/getxhelp.com/#
 address=/getxvpn.com/#
+address=/getxweb.com/#
 address=/gfwvpn.com/#
 address=/ghostpath.com/#
 address=/gifttrees.us/#
@@ -1151,6 +1153,7 @@ address=/internetcloak.com/#
 address=/interssh.com/#
 address=/intervpn.com/#
 address=/intl-alliance.com/#
+address=/iot-dns.com/#
 address=/ioxy.de/#
 address=/ipbuzz.net/#
 address=/ipchanging.com/#
@@ -1256,11 +1259,14 @@ address=/eu1.dns.lavate.ch/#
 address=/us1.dns.lavate.ch/#
 address=/le-vpn.com/#
 address=/adguard1.leadmon.net/#
+address=/leafyvpn.net/#
+address=/leekemx.com/#
 address=/yarp.lefolgoc.net/#
 address=/legaladvisor.us/#
 address=/legalweb.info/#
 address=/br.servers.legat.ml/#
 address=/externalmobiel.lekdijk.online/#
+address=/lelux.fi/#
 address=/libertyvpn.net/#
 address=/doh.libredns.gr/#
 address=/dot.libredns.gr/#
