@@ -69039,8 +69039,6 @@ stats.heyoya.com
 share.heypubstory.com
 heystaks.com
 heysuccess.com
-mdp-appconf-sg.heytapdl.com
-mdp-appconf-us.heytapdl.com
 adsfs-sdkconfig.heytapimage.com
 adx.ads.heytapmobi.com
 adx-f.ads.heytapmobi.com
@@ -69067,14 +69065,8 @@ stg-data-id.ads.heytapmobi.com
 stg-data-in.ads.heytapmobi.com
 stg-data-sg.ads.heytapmobi.com
 uapi.ads.heytapmobi.com
-conf-in.dc.heytapmobi.com
 report.uc.heytapmobi.com
 ads.heytapmobile.com
-dragate-in-dc.heytapmobile.com
-httpdns-push.heytapmobile.com
-obus-dc-us.heytapmobile.com
-omes-sec.heytapmobile.com
-push-dc-us.heytapmobile.com
 heywire.com
 heyzap.com
 dekovacka.hezkres.cz
