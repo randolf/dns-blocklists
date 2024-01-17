@@ -1,5 +1,6 @@
 # Title: HaGeZi's Allowlist Referral for Pi-hole (RegEx)
 # Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Installation: Mark all RegEx rules and copy them to Domains > tab "RegEx filter" > field "Regular Expression:". Enter "Referral" in the "Comment:" field. Click on "Add to Whitelist". 
 
 (\.|^)3cinteractive\.com$

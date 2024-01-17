@@ -1,6 +1,7 @@
 # Title: HaGeZi's Allowlist Referral
 # Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
 # Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
 # Syntax: Domains Wildcard/Asterisk (without subdomains)

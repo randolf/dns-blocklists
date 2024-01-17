@@ -4,6 +4,7 @@
 !          https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt
 !          https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list
 ! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
 ! Syntax: AdBlock

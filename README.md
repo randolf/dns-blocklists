@@ -39,7 +39,7 @@
 #### ***Blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 217730<br>66546     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
+| :green_book:[Light](#light)             | 214356<br>65821     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | 726510<br>162095     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 1000478<br>256694         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1339338<br>362555 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
@@ -52,7 +52,7 @@
 | Version | Blocking<br>level | Blocking<br>type |
 |:--------|:---------------|:--------------|
 | :green_book:[Light](#light)        | :green_book::green_book:                                                                    | Relaxed           |
-| :blue_book:[Normal](#normal)       | :blue_book::blue_book::blue_book:                                                           | Relaxed           |
+| :blue_book:[Normal](#normal)       | :blue_book::blue_book::blue_book:                                                           | Relaxed/Balanced  |
 | :ledger:[Pro](#pro)                | :ledger::ledger::ledger::ledger:                                                            | Balanced          |
 | :orange_book:[Pro++](#proplus)     | :orange_book::orange_book::orange_book::orange_book::orange_book::orange_book:              | Aggressive        |
 | :closed_book:[Ultimate](#ultimate) | :closed_book::closed_book::closed_book::closed_book::closed_book::closed_book::closed_book: | Aggressive/Strict |
@@ -67,7 +67,7 @@
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *217730 domains/hosts - 66546 compressed domains*                    
+**Entries:** *214356 domains/hosts - 65821 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -218,7 +218,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1137076 domains/hosts - 637544 compressed domains*           
+**Entries:** *1137075 domains/hosts - 637543 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -461,7 +461,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 #### :information_desk_person: Which version of the lists should I use? <a name="whatshouldiuse"></a>
 
-- *Use [Light](#light) if you have to pay attention to the size of the list, because the AdBlocker does not support large lists.*
+- *Use [Light](#light) if you have to pay attention to the size of the list, because the AdBlocker does not support large lists, or light protection is sufficient for you.*
 - *Use [Normal](#normal) if there is no admin nearby who can unblock something from time to time. E.g. for grandma and grandpa or the whole home or family network.*
 - *Use [Pro](#pro) if an admin is available who could unblock something if necessary. My personal recommendation for almost problem-free adblocking.*
 - *Use [Pro++](#proplus) if you are an experienced user, know what you are doing and privacy is important to you. This is an aggressive list and you may need to unblock things more often.*

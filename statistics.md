@@ -1,19 +1,19 @@
 ### Statistics
 #### LIGHT
 ```
-217730 (88%) included | 7118 (3%) removed | 22735 (9%) dead
+214356 (87%) included | 8492 (3%) removed | 22735 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      91% |   5% |      4% |  132877 | Personal
-  2 |      81% |   8% |     11% |    4822 | Extracted Wildcard Rules
+  1 |      90% |   5% |      5% |  132877 | Personal
+  2 |      68% |   8% |     24% |    4822 | Extracted Wildcard Rules
   3 |      99% |   0% |      1% |     258 | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |      70% |   0% |     30% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
+  5 |      62% |   0% |     38% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      33% |   0% |     67% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      75% |   4% |     21% |   11646 | Denylist Base
+ 10 |      72% |   4% |     24% |   11646 | Denylist Base
  11 |      95% |   0% |      5% |    3786 | Basic Extension
 ```
 #### MULTI
