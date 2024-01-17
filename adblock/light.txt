@@ -24475,7 +24475,6 @@
 ||video-streaming.ezoic.com^
 ||videosvc.ezoic.com^
 ||ezoicanalytics.com^
-||ezojs.com^
 ||ezozojawg.com^
 ||ezqbbqybwjbvm.top^
 ||ezrkghn.com^

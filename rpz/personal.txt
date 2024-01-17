@@ -23191,8 +23191,6 @@ videosvc.ezoic.com CNAME .
 *.videosvc.ezoic.com CNAME .
 ezoicanalytics.com CNAME .
 *.ezoicanalytics.com CNAME .
-ezojs.com CNAME .
-*.ezojs.com CNAME .
 ezozojawg.com CNAME .
 *.ezozojawg.com CNAME .
 ezsbhlpchu.com CNAME .
