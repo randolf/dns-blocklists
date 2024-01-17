@@ -1,7 +1,7 @@
 ### Statistics
 #### LIGHT
 ```
-214356 (87%) included | 8492 (3%) removed | 22735 (9%) dead
+214067 (87%) included | 8498 (3%) removed | 22735 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      90% |   5% |      5% |  132877 | Personal

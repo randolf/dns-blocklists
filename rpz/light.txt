@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705479720 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705480500 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Jan 2024 08:22 UTC
-; Version: 2024.0117.0822.22
+; Last modified: 17 Jan 2024 08:35 UTC
+; Version: 2024.0117.0835.38
 ; Syntax: RPZ
-; Number of entries: 131642
+; Number of entries: 131632
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -111495,16 +111495,6 @@ onionurl.net CNAME .
 *.onionurl.net CNAME .
 aem-kakao-collector.onkakao.net CNAME .
 *.aem-kakao-collector.onkakao.net CNAME .
-d.aa.online-metrix.net CNAME .
-*.d.aa.online-metrix.net CNAME .
-e.aa.online-metrix.net CNAME .
-*.e.aa.online-metrix.net CNAME .
-eu-aa.online-metrix.net CNAME .
-*.eu-aa.online-metrix.net CNAME .
-h.online-metrix.net CNAME .
-*.h.online-metrix.net CNAME .
-h6.online-metrix.net CNAME .
-*.h6.online-metrix.net CNAME .
 onlyry.net CNAME .
 *.onlyry.net CNAME .
 onmarketer.net CNAME .
