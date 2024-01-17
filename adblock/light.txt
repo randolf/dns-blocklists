@@ -24969,7 +24969,6 @@
 ||feedbackgive.com^
 ||feedbackresearch.com^
 ||feedbackslingnonpareil.com^
-||feedblitz.com^
 ||feedcat.net^
 ||analytics.feeder.co^
 ||feedfinder23.info^
@@ -29901,7 +29900,6 @@
 ||heymatic.com^
 ||heyos.com^
 ||heysuccess.com^
-||adsfs-sdkconfig.heytapimage.com^
 ||adx.ads.heytapmobi.com^
 ||adx-f.ads.heytapmobi.com^
 ||adx-id.ads.heytapmobi.com^

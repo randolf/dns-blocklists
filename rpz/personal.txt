@@ -23619,8 +23619,6 @@ feedbackresearch.com CNAME .
 *.feedbackresearch.com CNAME .
 feedbackslingnonpareil.com CNAME .
 *.feedbackslingnonpareil.com CNAME .
-feedblitz.com CNAME .
-*.feedblitz.com CNAME .
 feedjit.com CNAME .
 *.feedjit.com CNAME .
 feedmob.com CNAME .
@@ -28055,8 +28053,6 @@ heymatic.com CNAME .
 *.heymatic.com CNAME .
 heyos.com CNAME .
 *.heyos.com CNAME .
-adsfs-sdkconfig.heytapimage.com CNAME .
-*.adsfs-sdkconfig.heytapimage.com CNAME .
 adx.ads.heytapmobi.com CNAME .
 *.adx.ads.heytapmobi.com CNAME .
 adx-f.ads.heytapmobi.com CNAME .

@@ -17056,7 +17056,6 @@ feedad.com
 feedbackexplorer.com
 feedbackresearch.com
 feedbackslingnonpareil.com
-feedblitz.com
 feedcat.net
 analytics.feeder.co
 feedfinder23.info
@@ -20646,7 +20645,6 @@ analytics.heyhalda.com
 tag.heylink.com
 heymatic.com
 heyos.com
-adsfs-sdkconfig.heytapimage.com
 adx.ads.heytapmobi.com
 adx-f.ads.heytapmobi.com
 adx-id.ads.heytapmobi.com
