@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Jan 2024 00:31 UTC
-! Version: 2024.0118.0031.33
+! Last modified: 18 Jan 2024 23:27 UTC
+! Version: 2024.0118.2327.39
 ! Syntax: AdBlock
-! Number of entries: 15270
+! Number of entries: 15294
 !
 ||11trikots.com^
 ||12-suchen.de^
@@ -4002,6 +4002,7 @@
 ||europarealestate.eu^
 ||europatradecapital.com^
 ||europe-electro-shop.com^
+||bmw.europe-moto.com^
 ||europe-pharm.net^
 ||europe-solarstore.com^
 ||europeangeneric.com^
@@ -7310,6 +7311,7 @@
 ||kynubeauty.de^
 ||kyoshorc.com^
 ||kytoelektro.com^
+||kzp-handel.com^
 ||kzv-kirdorf.de^
 ||l6shop.pw^
 ||laarmann-brennholz.com^
@@ -7634,6 +7636,7 @@
 ||liveg-tech.de^
 ||livelearningzone.com^
 ||livetimee.com^
+||livewithoutwars.org^
 ||livingbestsellers.com^
 ||livingcatnapper.com^
 ||livinghome-shop.de^
@@ -8027,6 +8030,7 @@
 ||marktpro.de^
 ||markus-mendler.de^
 ||markusbrandstetter.at^
+||marly-amsterdam.nl^
 ||marmilano.de^
 ||marocdevt.com^
 ||marotan.de^
@@ -8062,6 +8066,7 @@
 ||matthias-koehl.de^
 ||mauermayer.com^
 ||maur-rasenmaher.com^
+||mauritius-koeln.de^
 ||mauromilana.it^
 ||mausbacher.com^
 ||mavicsale.com^
@@ -8091,6 +8096,7 @@
 ||de.mbm-cloudmining.eu^
 ||mbtosterreich.com^
 ||mbtstoredeutschland.com^
+||mcazzgrg.com^
 ||mccoyn.com^
 ||mconsap.shop^
 ||mcreinhold.com^
@@ -8175,6 +8181,7 @@
 ||megawire.de^
 ||mehsam-transport.com^
 ||meier-reifenhandel.shop^
+||meierfeld.com^
 ||meiers.eu^
 ||mein-bauhof.de^
 ||mein-buch24.de^
@@ -8354,6 +8361,7 @@
 ||milbdy.com^
 ||milchcheese.com^
 ||milchpumpede.de^
+||mildsunlight.shop^
 ||milentech.com^
 ||milleniumtradenetwork.com^
 ||millionaersuchtfrau.de^
@@ -8402,6 +8410,7 @@
 ||mixfinancing.com^
 ||mixflix.de^
 ||mizen.de^
+||mizuno-deutschland.com^
 ||mizuno-deutschland.de^
 ||mizuno-finland.com^
 ||mizuno-hungary.com^
@@ -8540,6 +8549,7 @@
 ||monarchgate.online^
 ||monarchhousekit.com^
 ||monark-kredit.com^
+||monbor.de^
 ||mondenix.com^
 ||mondofashion.de^
 ||mondschaufel.de^
@@ -8598,6 +8608,7 @@
 ||mopolodenim.de^
 ||morebicycle.com^
 ||moreflyfish.com^
+||morenius.de^
 ||morii.nl^
 ||morrcei.top^
 ||morriscofabric.com^
@@ -8638,6 +8649,7 @@
 ||mountaineering-off.com^
 ||mountainequip.de^
 ||mountaingearzone.com^
+||mountainhardweardeutschland.com^
 ||mountainhardwearoutlet.at^
 ||mountainoff.com^
 ||movatotrans.com^
@@ -8747,6 +8759,7 @@
 ||mvg-handel.com^
 ||mvpassistant.com^
 ||mvpwelpen.de^
+||mvxhdy.club^
 ||mwcutleryoff.com^
 ||my-family.bike^
 ||my-pbs.shop^
@@ -8948,8 +8961,10 @@
 ||new-bikesite.com^
 ||new-climbing.com^
 ||new-fashionshoe.com^
+||new-kitchens.com^
 ||new-lookireland.com^
 ||new-outdoors.com^
+||new-snowboard.com^
 ||new-stylish.com^
 ||new-trendfashion.com^
 ||newadultstore.com^
@@ -9151,6 +9166,7 @@
 ||nobullwinkelnederland.com^
 ||nobulprojectnederland.me^
 ||noclegipolanczyk.pl^
+||nodigvorhuis.com^
 ||noelkredit.com^
 ||nolanboutique.com^
 ||nolandsports.shop^
@@ -9402,6 +9418,7 @@
 ||oliclain.com^
 ||oliflix.de^
 ||olivefashion.nl^
+||olivegardenhouses.de^
 ||olivespielzeug.com^
 ||oliviachic.com^
 ||olkowiczcvk.com^
@@ -9425,6 +9442,7 @@
 ||omersfinance.ltd^
 ||omniebau.de^
 ||on-cloudoutletfactory.com^
+||on-runningdeutschland.de^
 ||on-runningosterreich.at^
 ||on-runningschweiz.com^
 ||on-switch.com^
@@ -9668,6 +9686,7 @@
 ||ortovoxonlineout.com^
 ||ortovoxoutdooor.com^
 ||ortovoxsport.com^
+||osamigos.de^
 ||oschuetz.de^
 ||osecrobotics.com^
 ||osellieri.com^
@@ -9686,6 +9705,7 @@
 ||ostrava.nl^
 ||otcantabuse.com^
 ||otte-autoreifen.com^
+||ottide.com^
 ||otto-angebote.de^
 ||otto-deat.de^
 ||otto-konsole.de^
@@ -9918,6 +9938,7 @@
 ||pannaholidays.com^
 ||panzer-industriebedarf.de^
 ||panzvor.com^
+||papabau.com^
 ||papageienzuchtheim.de^
 ||papawoods.com^
 ||papershredder-store.com^
@@ -9983,6 +10004,7 @@
 ||pcprime.de^
 ||pd-handel.de^
 ||pdv-bayern.de^
+||peacefulexitsworldwide.org^
 ||peaktoolhub.com^
 ||pearltoys.shop^
 ||pearlyo.de^
@@ -10089,6 +10111,7 @@
 ||pharmtownsolutions.com^
 ||phero007.shop^
 ||phoenix-elektro.com^
+||phoenix-market.com^
 ||photo-artstudio.de^
 ||photocurtis.at^
 ||photovoltaikprofis.de^
@@ -10145,6 +10168,7 @@
 ||piquadrotrendy.com^
 ||pir-gmbh.de^
 ||piranha-games.de^
+||pismaprawne.com^
 ||pitviperaustria.com^
 ||pitviperbril.com^
 ||pitviperbriller.com^
@@ -10276,6 +10300,7 @@
 ||poobia.com^
 ||poolboys-onlineshop.de^
 ||poolcosmetic.com^
+||poolfilterneu.de^
 ||poolina.de^
 ||poolshoesus.com^
 ||pop-swim.com^
@@ -15213,7 +15238,6 @@
 ||zetko-waren.com^
 ||zetko-waren.de^
 ||zettabag.com^
-||app.zety.de^
 ||zetzethaustechnik.de^
 ||zeynoa.de^
 ||zf-blog.de^
