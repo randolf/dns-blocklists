@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jan 2024 15:29 UTC
-# Version: 2024.0118.1529.02
+# Last modified: 18 Jan 2024 23:05 UTC
+# Version: 2024.0118.2305.03
 # Syntax: DNSMasq
-# Number of entries: 10596
+# Number of entries: 10609
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -2247,6 +2247,7 @@ address=/fst.omnilounge.co.uk/#
 address=/piratebae.co.uk/#
 address=/piratebaynew.co.uk/#
 address=/piratebayportal.co.uk/#
+address=/piratebays.co.uk/#
 address=/ts.populargamers.co.za/#
 address=/premiumbyleo.co.cc/#
 address=/psychocydd.co.uk/#
@@ -5717,6 +5718,7 @@ address=/lk21id.com/#
 address=/lk21official.info/#
 address=/lk21official.vip/#
 address=/tv2.lk21official.pro/#
+address=/lk21tv.com/#
 address=/lloria.fr/#
 address=/lmp3.org/#
 address=/lnx-bbc.org/#
@@ -6143,6 +6145,7 @@ address=/moviedream.ws/#
 address=/moviefiles.org/#
 address=/movieforfree.co/#
 address=/moviefreak.xyz/#
+address=/moviegaga.to/#
 address=/movieglide.com/#
 address=/moviego.site/#
 address=/moviehaat.net/#
@@ -6302,6 +6305,7 @@ address=/multicanais.cl/#
 address=/multicanais.com/#
 address=/multicanais.fans/#
 address=/multicanais.in/#
+address=/multicanais.live/#
 address=/multicanais.nu/#
 address=/multicanais.nz/#
 address=/multicanais.today/#
@@ -6360,6 +6364,7 @@ address=/myfilestash.com/#
 address=/myflixer.ac/#
 address=/myflixer.com/#
 address=/myflixer.is/#
+address=/myflixer.it/#
 address=/myflixer.link/#
 address=/myflixer.lol/#
 address=/myflixer.pw/#
@@ -6966,6 +6971,7 @@ address=/paulamues.com/#
 address=/pavv.ru/#
 address=/pb.wtf/#
 address=/pbase.com/#
+address=/pbp.rocks/#
 address=/pbproxy.com/#
 address=/thepiratebay-org.pbproxy.red/#
 address=/thepiratebay-org.pbproxy2.co/#
@@ -6992,6 +6998,7 @@ address=/peliculaswarez.net/#
 address=/pelis-plus.co/#
 address=/pelis24.se/#
 address=/pelis24.to/#
+address=/pelispelis.co/#
 address=/pelisplus.blog/#
 address=/pelisplus.co/#
 address=/pelisplus.gratis/#
@@ -7019,6 +7026,7 @@ address=/photoserver.ws/#
 address=/phyrefile.com/#
 address=/pianosheets.org/#
 address=/pic4you.ru/#
+address=/picapic.net/#
 address=/picfoco.com/#
 address=/picfor.me/#
 address=/picfront.com/#
@@ -7075,7 +7083,9 @@ address=/piratebay.surf/#
 address=/piratebay.tech/#
 address=/piratebay.to/#
 address=/piratebay.tv/#
+address=/piratebay.tw/#
 address=/piratebay.website/#
+address=/piratebay-mirrors.com/#
 address=/piratebay-proxy.net/#
 address=/piratebay-proxy.org/#
 address=/piratebay-proxy.to/#
@@ -7190,6 +7200,7 @@ address=/playseriesonline.net/#
 address=/playtvgo.com/#
 address=/playvidto.com/#
 address=/playwarez.com/#
+address=/playx.fun/#
 address=/pldm.ml/#
 address=/pleer.com/#
 address=/plexbd.net/#
@@ -8550,6 +8561,7 @@ address=/subirimagenes.com/#
 address=/subsplease.org/#
 address=/subtituladas.com/#
 address=/escorts.subventas.com/#
+address=/lima-peru.subventas.com/#
 address=/suesupriano.com/#
 address=/sugarsync.com/#
 address=/sumotorrent.com/#
@@ -10337,6 +10349,7 @@ address=/xubster.com/#
 address=/xwt-classics.net/#
 address=/xx1.online/#
 address=/img.xxfx.org/#
+address=/open.xxtor.com/#
 address=/xxx-tracker.com/#
 address=/xxxadulttorrent.org/#
 address=/xxxtor.com/#

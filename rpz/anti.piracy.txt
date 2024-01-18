@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705591740 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705619100 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jan 2024 15:29 UTC
-; Version: 2024.0118.1529.02
+; Last modified: 18 Jan 2024 23:05 UTC
+; Version: 2024.0118.2305.03
 ; Syntax: RPZ
-; Number of entries: 21192
+; Number of entries: 21218
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2197,6 +2197,8 @@ thepiratebay-org.pbproxy2.co CNAME .
 *.thepiratebay-org.pbproxy2.co CNAME .
 pelis-plus.co CNAME .
 *.pelis-plus.co CNAME .
+pelispelis.co CNAME .
+*.pelispelis.co CNAME .
 pelisplus.co CNAME .
 *.pelisplus.co CNAME .
 phaze.co CNAME .
@@ -5397,6 +5399,8 @@ lk21hd.com CNAME .
 *.lk21hd.com CNAME .
 lk21id.com CNAME .
 *.lk21id.com CNAME .
+lk21tv.com CNAME .
+*.lk21tv.com CNAME .
 loadbaba.com CNAME .
 *.loadbaba.com CNAME .
 tracker.loadbt.com CNAME .
@@ -6277,6 +6281,8 @@ pimpandhost.com CNAME .
 *.pimpandhost.com CNAME .
 tv.pipexbd.com CNAME .
 *.tv.pipexbd.com CNAME .
+piratebay-mirrors.com CNAME .
+*.piratebay-mirrors.com CNAME .
 piratebay-proxylist.com CNAME .
 *.piratebay-proxylist.com CNAME .
 piratebayblocked.com CNAME .
@@ -7157,6 +7163,8 @@ subtituladas.com CNAME .
 *.subtituladas.com CNAME .
 escorts.subventas.com CNAME .
 *.escorts.subventas.com CNAME .
+lima-peru.subventas.com CNAME .
+*.lima-peru.subventas.com CNAME .
 suesupriano.com CNAME .
 *.suesupriano.com CNAME .
 sugarsync.com CNAME .
@@ -8323,6 +8331,8 @@ xtvi.com CNAME .
 *.xtvi.com CNAME .
 xubster.com CNAME .
 *.xubster.com CNAME .
+open.xxtor.com CNAME .
+*.open.xxtor.com CNAME .
 xxx-tracker.com CNAME .
 *.xxx-tracker.com CNAME .
 xxxtor.com CNAME .
@@ -9645,6 +9655,8 @@ nomat.fun CNAME .
 *.nomat.fun CNAME .
 pirate-proxy.fun CNAME .
 *.pirate-proxy.fun CNAME .
+playx.fun CNAME .
+*.playx.fun CNAME .
 serien.fun CNAME .
 *.serien.fun CNAME .
 solarmovie.fun CNAME .
@@ -11037,6 +11049,8 @@ tracker.justseed.it CNAME .
 *.tracker.justseed.it CNAME .
 live-sport-tv.it CNAME .
 *.live-sport-tv.it CNAME .
+myflixer.it CNAME .
+*.myflixer.it CNAME .
 pegleg.it CNAME .
 *.pegleg.it CNAME .
 raulken.it CNAME .
@@ -11405,6 +11419,8 @@ moviemela.live CNAME .
 *.moviemela.live CNAME .
 movies123.live CNAME .
 *.movies123.live CNAME .
+multicanais.live CNAME .
+*.multicanais.live CNAME .
 mycricketlive.live CNAME .
 *.mycricketlive.live CNAME .
 nagordola.live CNAME .
@@ -13717,6 +13733,8 @@ peliculaswarez.net CNAME .
 *.peliculaswarez.net CNAME .
 pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
+picapic.net CNAME .
+*.picapic.net CNAME .
 picfu.net CNAME .
 *.picfu.net CNAME .
 picturesetc.net CNAME .
@@ -17481,6 +17499,8 @@ opentracker.i2p.rocks CNAME .
 *.opentracker.i2p.rocks CNAME .
 bay.maik.rocks CNAME .
 *.bay.maik.rocks CNAME .
+pbp.rocks CNAME .
+*.pbp.rocks CNAME .
 piratebayproxy.rocks CNAME .
 *.piratebayproxy.rocks CNAME .
 rawkbawx.rocks CNAME .
@@ -19067,6 +19087,8 @@ movie2k.to CNAME .
 *.movie2k.to CNAME .
 movie4k.to CNAME .
 *.movie4k.to CNAME .
+moviegaga.to CNAME .
+*.moviegaga.to CNAME .
 movies132.to CNAME .
 *.movies132.to CNAME .
 movies7.to CNAME .
@@ -19859,6 +19881,8 @@ tracker.joybomb.tw CNAME .
 *.tracker.joybomb.tw CNAME .
 mayi.tw CNAME .
 *.mayi.tw CNAME .
+piratebay.tw CNAME .
+*.piratebay.tw CNAME .
 rarbg.tw CNAME .
 *.rarbg.tw CNAME .
 unblocked.tw CNAME .
@@ -19937,6 +19961,8 @@ piratebaynew.co.uk CNAME .
 *.piratebaynew.co.uk CNAME .
 piratebayportal.co.uk CNAME .
 *.piratebayportal.co.uk CNAME .
+piratebays.co.uk CNAME .
+*.piratebays.co.uk CNAME .
 psychocydd.co.uk CNAME .
 *.psychocydd.co.uk CNAME .
 send-file.co.uk CNAME .
