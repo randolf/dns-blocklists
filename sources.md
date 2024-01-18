@@ -140,7 +140,6 @@ https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/ma
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
-https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
@@ -338,7 +337,6 @@ https://raw.githubusercontent.com/xRuffKez/Cyber-Landfill/main/blocklist
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
