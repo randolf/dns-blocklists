@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jan 2024 00:07 UTC
-# Version: 2024.0118.0007.27
+# Last modified: 18 Jan 2024 23:07 UTC
+# Version: 2024.0118.2307.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 151741
+# Number of entries: 151835
 #
 *.000000.com
 *.000000hd.com
@@ -119588,11 +119588,13 @@
 *.live77.org
 *.live777.biz
 *.live777slot.org
+*.live79bet.com
 *.live7mvn.com
 *.live88.biz
 *.live99.biz
 *.liveang.xyz
 *.livebasedcasinos.com
+*.livebestblackjacks.com
 *.livebet9.com
 *.livebetting.com
 *.livebingo.com
@@ -119632,6 +119634,7 @@
 *.livetv260.me
 *.livetv270.me
 *.livetv273.me
+*.livetv356.me
 *.livetv364.me
 *.livetv369.me
 *.livetv407.me
@@ -119643,6 +119646,7 @@
 *.lixi88.club
 *.lixi88.com
 *.lixi88.info
+*.lixi88.kim
 *.lixi88.net
 *.lixi888.online
 *.lixi888.store
@@ -120045,6 +120049,7 @@
 *.lt154m.com
 *.lt15794m.com
 *.lt1918.online
+*.lt2022.xyz
 *.lt2233.online
 *.lt2345.vip
 *.lt3399.online
@@ -120331,6 +120336,7 @@
 *.luxslot88.net
 *.luxury11.net
 *.luxury33.org
+*.luxury86.com
 *.luxury88.asia
 *.luxurycasino.com
 *.luxuryloungecasino.com
@@ -120810,10 +120816,12 @@
 *.lyty48.app
 *.lyvault.xyz
 *.lyville.xyz
+*.lywhhg.com
 *.lyx676519.com
 *.lyyyrr.xyz
 *.lzl3322.com
 *.lzl3366.com
+*.lzl55.com
 *.lzs95598.com
 *.lzy290197.vip
 *.lzyis86g.com
@@ -120838,6 +120846,7 @@
 *.aaa.m1cdn.com
 *.t1.m1cdn.com
 *.zzz.m1cdn.com
+*.m2222.vip
 *.m22260.com
 *.m23023.com
 *.m2305.com
@@ -120848,6 +120857,7 @@
 *.m2698.com
 *.m271809.vip
 *.m33033m.com
+*.m3333.vip
 *.m34034.com
 *.m34ysqb9g.com
 *.m3555e.com
@@ -120862,6 +120872,7 @@
 *.m4z402.com
 *.m51.bet
 *.m555000.com
+*.m5555.vip
 *.m56gg.com
 *.m5n9mq.com
 *.m5or8.com
@@ -120878,6 +120889,7 @@
 *.m6m.com
 *.m6t7912.com
 *.m746e.com
+*.m7777.vip
 *.m78456t.com
 *.m7854f.com
 *.m78785.com
@@ -120967,6 +120979,7 @@
 *.m9973.com
 *.m999365.com
 *.m99m.net
+*.m9eyy.com
 *.m9k9u.com
 *.m9u6s.com
 *.m9v83.com
@@ -121056,6 +121069,7 @@
 *.mago.bet
 *.mahjongwaysgacor.com
 *.mahongbet.com
+*.mai188.com
 *.mai568.com
 *.maibo-live.com
 *.maibo-mall.com
@@ -121102,6 +121116,7 @@
 *.malaydafa.com
 *.malaysia-forex.com
 *.malinasports.com
+*.mall27.com
 *.mama-system.com
 *.mamamiabingo.com
 *.man.club
@@ -121302,6 +121317,7 @@
 *.maximinacasino.com
 *.maximumbulten.com
 *.maxitip.cz
+*.maxpharm.net
 *.maxproslot.com
 *.maxslot.biz
 *.maxslot138.net
@@ -121398,6 +121414,7 @@
 *.mcasinobet.com
 *.mcat68.com
 *.mcb7x7.com
+*.mcbgg.com
 *.mcbookie.com
 *.mcc43.com
 *.mcj100.com
@@ -121831,6 +121848,7 @@
 *.megapari8.com
 *.megapari9.com
 *.megaparipartners.com
+*.megaparipartners.net
 *.megaprojectfx-forex.com
 *.megaslot.com
 *.megaslot.io
@@ -122058,6 +122076,7 @@
 *.mg-pb.com
 *.mg188.com
 *.mg21.com
+*.mg883.com
 *.mg95996.com
 *.mgclub888.com
 *.mgdhhm.xyz
@@ -122160,16 +122179,25 @@
 *.mgm2335.com
 *.mgm2338.com
 *.mgm2355.com
+*.mgm236.com
 *.mgm2367.com
 *.mgm2373.com
 *.mgm2384.com
+*.mgm239.com
 *.mgm2394.com
 *.mgm2400.com
+*.mgm241.com
+*.mgm242.com
+*.mgm243.com
 *.mgm2435.com
+*.mgm244.com
 *.mgm2444.com
+*.mgm245.com
+*.mgm246.com
 *.mgm2464.com
 *.mgm2471.com
 *.mgm2487.com
+*.mgm249.com
 *.mgm2505.com
 *.mgm2544.com
 *.mgm2546.com
@@ -122178,11 +122206,15 @@
 *.mgm2587.com
 *.mgm2591.com
 *.mgm2608.com
+*.mgm261.com
 *.mgm2610.com
 *.mgm2620.com
+*.mgm263.com
 *.mgm2643.com
+*.mgm267.com
 *.mgm2675.com
 *.mgm2685.com
+*.mgm269.com
 *.mgm2690.com
 *.mgm2697.com
 *.mgm2702.com
@@ -122193,10 +122225,12 @@
 *.mgm2769.com
 *.mgm2781.com
 *.mgm2793.com
+*.mgm292.com
 *.mgm2920.com
 *.mgm2936.com
 *.mgm2938.com
 *.mgm2948.com
+*.mgm295.com
 *.mgm2957.com
 *.mgm2961.com
 *.mgm2965.com
@@ -122706,6 +122740,7 @@
 *.mkbet.com
 *.mkgamble.com
 *.mkjoioq.buzz
+*.mkknn.com
 *.mko7pza1.com
 *.ml8730.com
 *.mlb66.ir
@@ -123033,6 +123068,7 @@
 *.mostbet564.ru
 *.mostbet566.ru
 *.mostbet88.ru
+*.mostbetuz-kirish.com
 *.mostpartner.com
 *.mot88a.com
 *.mot88b3et.com
@@ -123140,6 +123176,7 @@
 *.mrjack.bet
 *.mrjackpotspins.com
 *.mrjne.win
+*.mrkrt.com
 *.mrmega.com
 *.mrmobi.com
 *.mrmr77.com
@@ -123203,6 +123240,7 @@
 *.mscaffiliate.com
 *.mscccx.com
 *.msehqo.com
+*.mshljtnc.com
 *.fonbet.msk.ru
 *.msklre.com
 *.msl.ua
@@ -123650,6 +123688,7 @@
 *.n4883.com
 *.n4885.com
 *.n4889.com
+*.n4tru.com
 *.n50aa.com
 *.n50cc.com
 *.n51.bet
@@ -123782,6 +123821,7 @@
 *.n697.net
 *.n6973.com
 *.n6978.com
+*.n6m8.one
 *.n6qkx.com
 *.n6qqi0kw.vip
 *.n7121.com
@@ -124011,6 +124051,8 @@
 *.nanoshe.xyz
 *.nanoter.xyz
 *.nanyangcs.com
+*.nao188.com
+*.nao1888.com
 *.naplesbook.net
 *.napoleongames.be
 *.napoli77.com
@@ -124229,6 +124271,7 @@
 *.net-casino.online
 *.net777.org
 *.origin.net88.asia
+*.netapp66893.com
 *.netbet.com
 *.netbet.de
 *.netbet.fr
@@ -124325,6 +124368,7 @@
 *.nghtu.win
 *.ngoaihang88.com
 *.ngoaihang88.net
+*.ngsej.com
 *.ngu8d.com
 *.nguyen22.com
 *.nguyen55.com
@@ -124374,6 +124418,8 @@
 *.nhgjfu.net
 *.nhgmhgj.buzz
 *.nhgud.com
+*.nhhst.win
+*.nhht2r.com
 *.nhlottery.com
 *.nhnpy.win
 *.nhyc88.com
@@ -124440,6 +124486,7 @@
 *.niuducj.com
 *.niwise.xyz
 *.njddx.win
+*.njhengtongjixie.com
 *.njhuazhang.com
 *.njkozo.com
 *.njkzrfs.com
@@ -124450,6 +124497,7 @@
 *.nk36y.com
 *.nk402pp.com
 *.nke5y.com
+*.nkkyy.com
 *.nksgl.org
 *.nlb.lk
 *.nlftjcyc.vip
@@ -125101,6 +125149,7 @@
 *.nvuret.com
 *.nvuty.com
 *.nwbpx.win
+*.nwdz8.com
 *.nwg2u.com
 *.nwrw6.com
 *.nwwv5v3b.com
@@ -125142,6 +125191,8 @@
 *.nzfai128.net
 *.nzxlzw.com
 *.o-poker.net
+*.o002342.com
+*.o011513.com
 *.o0309.com
 *.o034034.com
 *.o03641.com
@@ -125599,6 +125650,7 @@
 *.one88fajia.com
 *.one88gqzj.com
 *.one88lanqiu.com
+*.one88online.com
 *.one88sanook.com
 *.one88shijiebei.com
 *.one88th.com
@@ -125617,6 +125669,7 @@
 *.onecasino.com
 *.onecityonehire.org
 *.oneeightvip.com
+*.onefantasy88.com
 *.onegame1.net
 *.onegame10.net
 *.onegame2.net
@@ -126972,6 +127025,7 @@
 *.pb36599.com
 *.pb36599.net
 *.pb5bu.com
+*.pb6rzd.com
 *.pbcvc.com
 *.pbvw62qr2.com
 *.pc-hifi.com
@@ -127034,6 +127088,7 @@
 *.pc9595.vip
 *.pc99s.com
 *.pcdnlt.com
+*.pcftp3.com
 *.pcmem5.com
 *.pcmem6.com
 *.pcmem7.com
@@ -127765,6 +127820,7 @@
 *.pinbo95.com
 *.pinbo98.com
 *.pinbovip.com
+*.pingfangtuan.com
 *.pingguo-app.com
 *.pingguo22.com
 *.pingtai4556.com
@@ -127957,7 +128013,9 @@
 *.pj68888.net
 *.pj68t.com
 *.pj69779.com
+*.pj6p5.com
 *.pj6qq.com
+*.pj6yp.com
 *.pj70376.com
 *.pj72449.com
 *.pj729app.com
@@ -128008,6 +128066,7 @@
 *.pjapp358d.com
 *.pjapp863s.com
 *.pjapp963a.com
+*.pjc98.com
 *.pjckk.win
 *.pjdl48.com
 *.pjdl94a.com
@@ -128128,6 +128187,7 @@
 *.platformapiygh.com
 *.platformvbd.com
 *.platincasino.com
+*.platinumcasinoonline.net
 *.platinumplaycasino.com
 *.play-1xslots609.ru
 *.play-admiral777.biz
@@ -128821,6 +128881,7 @@
 *.pp777.bet
 *.pp777.online
 *.pp7776.com
+*.pp7dp.com
 *.pp8087.com
 *.pp81866.com
 *.pp83455.com
@@ -128848,6 +128909,7 @@
 *.ppfangyu88.com
 *.ppgamingpro.bet
 *.pph777.com
+*.pphg8.com
 *.pphhhh.xyz
 *.ppke5402.com
 *.ppkp888.com
@@ -129090,6 +129152,7 @@
 *.pvgyf.win
 *.pvn2.com
 *.pvn4.com
+*.pvoso.win
 *.pvvqaho.xyz
 *.pw1456.com
 *.pw1717.com
@@ -129301,6 +129364,7 @@
 *.qbbtbq.com
 *.qbet.com
 *.qbetway.com
+*.qbkr38.com
 *.qbqe6s.com
 *.qbvip1.com
 *.qbvip2.com
@@ -129327,6 +129391,7 @@
 *.qcjfig.com
 *.qcpq9v3qcbmlpq9d2s3qx0qe.com
 *.qctfu.com
+*.qcwysd.com
 *.qd011.com
 *.qd022.com
 *.qd033.com
@@ -129381,6 +129446,7 @@
 *.qd8452e8fb.com
 *.qd8452e9fb.com
 *.qd852369.com
+*.qd9659.com
 *.qdcj120.com
 *.qdcp0808.com
 *.qdcp0880.com
@@ -129492,21 +129558,39 @@
 *.qg9.com
 *.qgbqv4av.online
 *.qgc00.com
+*.qgc001.com
+*.qgc002.com
+*.qgc003.com
+*.qgc005.com
+*.qgc006.com
+*.qgc007.com
+*.qgc008.com
+*.qgc009.com
 *.qgc1111.com
+*.qgc123.com
+*.qgc188.com
 *.qgc22.com
 *.qgc2222.com
+*.qgc234.com
 *.qgc33.com
 *.qgc3333.com
+*.qgc345.com
 *.qgc44.com
 *.qgc4444.com
+*.qgc456.com
 *.qgc55.com
+*.qgc555.com
 *.qgc5555.com
+*.qgc567.com
 *.qgc66.com
 *.qgc6666.com
+*.qgc688.com
 *.qgc77.com
 *.qgc7777.com
+*.qgc789.com
 *.qgc8888.com
 *.qgc99.com
+*.qgc999.com
 *.qgc9999.com
 *.qgfqncx.xyz
 *.qgsugfcg.buzz
@@ -129718,6 +129802,7 @@
 *.qnbpartners.com
 *.qnp9n.com
 *.qnrkp.com
+*.qnzbh.win
 *.qo1u9s5n.vip
 *.qoeyrdfajj.buzz
 *.qojoqo.xyz
@@ -129759,6 +129844,7 @@
 *.qq288.com
 *.qq288yh.com
 *.qq3114.com
+*.qq3313.com
 *.qq3526vip.com
 *.qq3527vip.com
 *.qq3528vip.com
@@ -129771,8 +129857,11 @@
 *.qq3535vip.com
 *.qq3699.com
 *.qq4766.com
+*.qq5632.com
 *.qq5856.com
 *.qq628.live
+*.qq6375.com
+*.qq6715.com
 *.qq7669.com
 *.qq77.asia
 *.qq77100.com
@@ -129931,14 +130020,18 @@
 *.qq77887.com
 *.qq77889.com
 *.qq77890.com
+*.qq7798.com
 *.qq8087.com
 *.qq81866.com
 *.qq828.com
 *.qq83455.com
+*.qq8698.com
 *.qq8788viet.com
 *.qq882.com
 *.qq92226.com
 *.qq9448.com
+*.qq9899.com
+*.qq9912.com
 *.qq999rr777bb555.com
 *.qqbet77bet.com
 *.qqbola.biz
@@ -130100,6 +130193,7 @@
 *.qwv5r.com
 *.qwvn18.com
 *.qwwetnb.buzz
+*.qwwxwy.com
 *.qwx123.com
 *.qx306.com
 *.qx574f.com
