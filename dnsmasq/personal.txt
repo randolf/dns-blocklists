@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jan 2024 01:50 UTC
-# Version: 2024.0118.0150.08
+# Last modified: 18 Jan 2024 10:22 UTC
+# Version: 2024.0118.1022.13
 # Syntax: DNSMasq
-# Number of entries: 46412
+# Number of entries: 46408
 #
 address=/0008d6ba2e.com/#
 address=/000webhost.info/#
@@ -2754,7 +2754,6 @@ address=/pixel.adswizz.com/#
 address=/pixelg.adswizz.com/#
 address=/sonar.adswizz.com/#
 address=/staging.adswizz.com/#
-address=/streaming.adswizz.com/#
 address=/synchrobox.adswizz.com/#
 address=/tunein.adswizz.com/#
 address=/zc.adswizz.com/#
@@ -3216,7 +3215,6 @@ address=/agiledata7.com/#
 address=/fh-main.measure.agilemeasure.com/#
 address=/agilemedia.jp/#
 address=/analytics.agilenavi.com/#
-address=/explore.agilent.com/#
 address=/seahorseinfo.agilent.com/#
 address=/agillic.eu/#
 address=/agilone.com/#
@@ -12028,15 +12026,12 @@ address=/cwqljsecvr.com/#
 address=/cwrxgb.icu/#
 address=/cxapio.xyz/#
 address=/tx.cxcprime.com/#
-address=/api.cxense.com/#
-address=/cdn.cxense.com/#
 address=/comcluster.cxense.com/#
 address=/csyn.cxense.com/#
 address=/csyn-r.cxense.com/#
 address=/cxad.cxense.com/#
 address=/id.cxense.com/#
 address=/p1cluster.cxense.com/#
-address=/scdn.cxense.com/#
 address=/scomcluster.cxense.com/#
 address=/sp1cluster.cxense.com/#
 address=/stats-collector.cxense.com/#
@@ -12047,7 +12042,10 @@ address=/cxkhadk.com/#
 address=/cxmnsbrbdmxoyd.com/#
 address=/cxnadcribh.com/#
 address=/cxpjrqa.cn/#
-address=/cxpublic.com/#
+address=/cdn.cxpublic.com/#
+address=/cdn-content-production.cxpublic.com/#
+address=/content.cxpublic.com/#
+address=/csm.cxpublic.com/#
 address=/execution-360-cicolusp.cxtrvl.com/#
 address=/cxwqeehw.com/#
 address=/cy5kr.fun/#
@@ -18268,7 +18266,6 @@ address=/fw.nu/#
 address=/api.fw.tv/#
 address=/matomo.ncbr.fwc.pl/#
 address=/fwcdn1.com/#
-address=/fwcdn2.com/#
 address=/fwcdn3.com/#
 address=/fwepd.xyz/#
 address=/fwffa.cn/#
@@ -28553,7 +28550,6 @@ address=/logapi.tv.naver.com/#
 address=/tveta.naver.net/#
 address=/veta.naver.com/#
 address=/wcs.naver.com/#
-address=/wcs.naver.net/#
 address=/blog.naverblogwidget.com/#
 address=/analytics.navexone.com/#
 address=/navicast.jp/#

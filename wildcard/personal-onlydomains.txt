@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jan 2024 01:50 UTC
-# Version: 2024.0118.0150.08
+# Last modified: 18 Jan 2024 10:22 UTC
+# Version: 2024.0118.1022.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 46412
+# Number of entries: 46408
 #
 0008d6ba2e.com
 000webhost.info
@@ -2754,7 +2754,6 @@ pixel.adswizz.com
 pixelg.adswizz.com
 sonar.adswizz.com
 staging.adswizz.com
-streaming.adswizz.com
 synchrobox.adswizz.com
 tunein.adswizz.com
 zc.adswizz.com
@@ -3216,7 +3215,6 @@ agiledata7.com
 fh-main.measure.agilemeasure.com
 agilemedia.jp
 analytics.agilenavi.com
-explore.agilent.com
 seahorseinfo.agilent.com
 agillic.eu
 agilone.com
@@ -12028,15 +12026,12 @@ cwqljsecvr.com
 cwrxgb.icu
 cxapio.xyz
 tx.cxcprime.com
-api.cxense.com
-cdn.cxense.com
 comcluster.cxense.com
 csyn.cxense.com
 csyn-r.cxense.com
 cxad.cxense.com
 id.cxense.com
 p1cluster.cxense.com
-scdn.cxense.com
 scomcluster.cxense.com
 sp1cluster.cxense.com
 stats-collector.cxense.com
@@ -12047,7 +12042,10 @@ cxkhadk.com
 cxmnsbrbdmxoyd.com
 cxnadcribh.com
 cxpjrqa.cn
-cxpublic.com
+cdn.cxpublic.com
+cdn-content-production.cxpublic.com
+content.cxpublic.com
+csm.cxpublic.com
 execution-360-cicolusp.cxtrvl.com
 cxwqeehw.com
 cy5kr.fun
@@ -18268,7 +18266,6 @@ fw.nu
 api.fw.tv
 matomo.ncbr.fwc.pl
 fwcdn1.com
-fwcdn2.com
 fwcdn3.com
 fwepd.xyz
 fwffa.cn
@@ -28553,7 +28550,6 @@ logapi.tv.naver.com
 tveta.naver.net
 veta.naver.com
 wcs.naver.com
-wcs.naver.net
 blog.naverblogwidget.com
 analytics.navexone.com
 navicast.jp

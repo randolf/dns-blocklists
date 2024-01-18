@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705543140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705573860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Jan 2024 01:59 UTC
-; Version: 2024.0118.0159.18
+; Last modified: 18 Jan 2024 10:31 UTC
+; Version: 2024.0118.1031.29
 ; Syntax: RPZ
-; Number of entries: 131808
+; Number of entries: 131800
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -11023,8 +11023,6 @@ sonar.adswizz.com CNAME .
 *.sonar.adswizz.com CNAME .
 staging.adswizz.com CNAME .
 *.staging.adswizz.com CNAME .
-streaming.adswizz.com CNAME .
-*.streaming.adswizz.com CNAME .
 synchrobox.adswizz.com CNAME .
 *.synchrobox.adswizz.com CNAME .
 tunein.adswizz.com CNAME .
@@ -11909,8 +11907,6 @@ fh-main.measure.agilemeasure.com CNAME .
 *.fh-main.measure.agilemeasure.com CNAME .
 analytics.agilenavi.com CNAME .
 *.analytics.agilenavi.com CNAME .
-explore.agilent.com CNAME .
-*.explore.agilent.com CNAME .
 seahorseinfo.agilent.com CNAME .
 *.seahorseinfo.agilent.com CNAME .
 agilone.com CNAME .
@@ -26581,10 +26577,6 @@ cwxluaq.com CNAME .
 *.cwxluaq.com CNAME .
 tx.cxcprime.com CNAME .
 *.tx.cxcprime.com CNAME .
-api.cxense.com CNAME .
-*.api.cxense.com CNAME .
-cdn.cxense.com CNAME .
-*.cdn.cxense.com CNAME .
 comcluster.cxense.com CNAME .
 *.comcluster.cxense.com CNAME .
 csyn.cxense.com CNAME .
@@ -26597,8 +26589,6 @@ id.cxense.com CNAME .
 *.id.cxense.com CNAME .
 p1cluster.cxense.com CNAME .
 *.p1cluster.cxense.com CNAME .
-scdn.cxense.com CNAME .
-*.scdn.cxense.com CNAME .
 scomcluster.cxense.com CNAME .
 *.scomcluster.cxense.com CNAME .
 sp1cluster.cxense.com CNAME .
@@ -26619,8 +26609,14 @@ cxnadcribh.com CNAME .
 *.cxnadcribh.com CNAME .
 cxpalfa.com CNAME .
 *.cxpalfa.com CNAME .
-cxpublic.com CNAME .
-*.cxpublic.com CNAME .
+cdn.cxpublic.com CNAME .
+*.cdn.cxpublic.com CNAME .
+cdn-content-production.cxpublic.com CNAME .
+*.cdn-content-production.cxpublic.com CNAME .
+content.cxpublic.com CNAME .
+*.content.cxpublic.com CNAME .
+csm.cxpublic.com CNAME .
+*.csm.cxpublic.com CNAME .
 execution-360-cicolusp.cxtrvl.com CNAME .
 *.execution-360-cicolusp.cxtrvl.com CNAME .
 cxwqeehw.com CNAME .
@@ -29741,6 +29737,8 @@ dressedfund.com CNAME .
 *.dressedfund.com CNAME .
 dresserderange.com CNAME .
 *.dresserderange.com CNAME .
+dressingdedicatedmeeting.com CNAME .
+*.dressingdedicatedmeeting.com CNAME .
 dressmakerdisturb.com CNAME .
 *.dressmakerdisturb.com CNAME .
 dressupwho.com CNAME .
@@ -35907,8 +35905,6 @@ fvzhenljkw.com CNAME .
 *.fvzhenljkw.com CNAME .
 fwcdn1.com CNAME .
 *.fwcdn1.com CNAME .
-fwcdn2.com CNAME .
-*.fwcdn2.com CNAME .
 fwcdn3.com CNAME .
 *.fwcdn3.com CNAME .
 fwdservice.com CNAME .
@@ -107507,8 +107503,6 @@ convertexperiments.com.edgekey.net CNAME .
 *.convertexperiments.com.edgekey.net CNAME .
 crispadvertising.com.edgekey.net CNAME .
 *.crispadvertising.com.edgekey.net CNAME .
-cdn.cxense.com.edgekey.net CNAME .
-*.cdn.cxense.com.edgekey.net CNAME .
 grs.dbankcloud.com.edgekey.net CNAME .
 *.grs.dbankcloud.com.edgekey.net CNAME .
 adx-dre.op.dbankcloud.com.edgekey.net CNAME .
@@ -111429,8 +111423,6 @@ native-ad.net CNAME .
 *.native-ad.net CNAME .
 tveta.naver.net CNAME .
 *.tveta.naver.net CNAME .
-wcs.naver.net CNAME .
-*.wcs.naver.net CNAME .
 nbnxlgf.net CNAME .
 *.nbnxlgf.net CNAME .
 nbzq.net CNAME .
