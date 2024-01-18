@@ -22261,7 +22261,6 @@
 ||smetrics.bmspaf.org^
 ||smetrics.bmsstudyconnect.com^
 ||bmst.pw^
-||hbbtv-tracking.bmt-technik.de^
 ||matomo.bmt-tierschutz.de^
 ||bmtfka93.xyz^
 ||bmtracks.com^
@@ -162272,3 +162271,6 @@
 ||s1.zzz.vn^
 ||a8.zzz-land.com^
 ||metric.zzzquil.com^
+||hbbtv-pixel.bmt-technik.de^
+||stats.mytvscout.de^
+||tvstats.telvi.de^

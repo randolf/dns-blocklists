@@ -62847,8 +62847,6 @@ bloggerei.de CNAME .
 *.bloggerei.de CNAME .
 blogtraffic.de CNAME .
 *.blogtraffic.de CNAME .
-hbbtv-tracking.bmt-technik.de CNAME .
-*.hbbtv-tracking.bmt-technik.de CNAME .
 bonitrust.de CNAME .
 *.bonitrust.de CNAME .
 nsedgj.bonprix.de CNAME .
@@ -92829,3 +92827,9 @@ telemetry.marketcircle.zone CNAME .
 *.telemetry.marketcircle.zone CNAME .
 propertybook.co.zw CNAME .
 *.propertybook.co.zw CNAME .
+hbbtv-pixel.bmt-technik.de CNAME .
+*.hbbtv-pixel.bmt-technik.de CNAME .
+stats.mytvscout.de CNAME .
+*.stats.mytvscout.de CNAME .
+tvstats.telvi.de CNAME .
+*.tvstats.telvi.de CNAME .

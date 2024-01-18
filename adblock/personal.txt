@@ -7305,7 +7305,6 @@
 ||smetrics.bms.com^
 ||smetrics.bmscustomerconnect.com^
 ||smetrics.bmspaf.org^
-||hbbtv-tracking.bmt-technik.de^
 ||bmtfka93.xyz^
 ||countly.bmwgroup.com^
 ||countly-preprod.bmwgroup.com^
@@ -46417,3 +46416,6 @@
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy20.top^
+||hbbtv-pixel.bmt-technik.de^
+||stats.mytvscout.de^
+||tvstats.telvi.de^

@@ -9978,7 +9978,6 @@ smetrics.bms.com
 smetrics.bmscustomerconnect.com
 smetrics.bmspaf.org
 bmst.pw
-hbbtv-tracking.bmt-technik.de
 matomo.bmt-tierschutz.de
 bmtfka93.xyz
 bmwebm.org
@@ -65909,3 +65908,6 @@ zzxmcp.com
 zzyy17.top
 zzyy18.top
 zzyy20.top
+hbbtv-pixel.bmt-technik.de
+stats.mytvscout.de
+tvstats.telvi.de
