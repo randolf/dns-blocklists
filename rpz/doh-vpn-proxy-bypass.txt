@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705618620 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705705020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jan 2024 22:57 UTC
-; Version: 2024.0118.2257.28
+; Last modified: 19 Jan 2024 22:57 UTC
+; Version: 2024.0119.2257.48
 ; Syntax: RPZ
-; Number of entries: 5288
+; Number of entries: 5300
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1030,6 +1030,8 @@ gizlibaglanti.com CNAME .
 *.gizlibaglanti.com CNAME .
 globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 goldenfrog.com CNAME .
@@ -2086,6 +2088,8 @@ tuvpn.com CNAME .
 *.tuvpn.com CNAME .
 tuxlervpn.com CNAME .
 *.tuxlervpn.com CNAME .
+typaza.com CNAME .
+*.typaza.com CNAME .
 u8sj3.com CNAME .
 *.u8sj3.com CNAME .
 uas2.com CNAME .
@@ -2206,6 +2210,8 @@ vobas.com CNAME .
 *.vobas.com CNAME .
 vonvpn.com CNAME .
 *.vonvpn.com CNAME .
+vornz.com CNAME .
+*.vornz.com CNAME .
 vpernet.com CNAME .
 *.vpernet.com CNAME .
 vpn-account.com CNAME .
@@ -2854,8 +2860,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .
 *.vpnto.bhadrikais.my.id CNAME .
-dns.feldy.my.id CNAME .
-*.dns.feldy.my.id CNAME .
 id.terra.my.id CNAME .
 *.id.terra.my.id CNAME .
 dns.vmath.my.id CNAME .
@@ -4314,6 +4318,8 @@ dns.theres.one CNAME .
 *.dns.theres.one CNAME .
 unblockit.one CNAME .
 *.unblockit.one CNAME .
+unblockweb.one CNAME .
+*.unblockweb.one CNAME .
 unblockit.onl CNAME .
 *.unblockit.onl CNAME .
 dns.apigw.online CNAME .
@@ -4328,6 +4334,8 @@ unblockwebsite.online CNAME .
 *.unblockwebsite.online CNAME .
 uproxy.online CNAME .
 *.uproxy.online CNAME .
+vpnproxy.online CNAME .
+*.vpnproxy.online CNAME .
 webproxy.online CNAME .
 *.webproxy.online CNAME .
 123-proxy.org CNAME .
@@ -4976,6 +4984,8 @@ proxyserverlist24.top CNAME .
 *.proxyserverlist24.top CNAME .
 proxysite.top CNAME .
 *.proxysite.top CNAME .
+supervpn.top CNAME .
+*.supervpn.top CNAME .
 vpnmaster.top CNAME .
 *.vpnmaster.top CNAME .
 agh.xinfeng16m.top CNAME .
@@ -5286,6 +5296,8 @@ securedns.vendorvista.xyz CNAME .
 *.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
+vpn-server.xyz CNAME .
+*.vpn-server.xyz CNAME .
 webpro.xyz CNAME .
 *.webpro.xyz CNAME .
 proxy.yt CNAME .
