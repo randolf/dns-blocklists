@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jan 2024 23:27 UTC
-# Version: 2024.0118.2327.39
+# Last modified: 19 Jan 2024 23:29 UTC
+# Version: 2024.0119.2329.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 15294
+# Number of entries: 15345
 #
 11trikots.com
 12-suchen.de
@@ -957,6 +957,7 @@ ayahayfoundation.org
 aybl.at
 aybl.pl
 ayblsuomi.com
+shopde.aygul-hotel.com
 aynosa.de
 ayr-bike.com
 ayurreadpro.com
@@ -1179,6 +1180,7 @@ bayswater-bath.com
 bb-consult.net
 bb-marktforschung.com
 bb25.de
+bbgadget.de
 bbimprovements.com
 bboda.xyz
 bbq-qonix.de
@@ -2972,6 +2974,7 @@ degomet.net
 degussa-goldhandell.com
 dehens.fr
 dehnerverkauf.de
+deichmannoutlet.shop
 deichmannsale.shop
 deichmannshoe.com
 dein-croozer.de
@@ -9523,6 +9526,8 @@ shop5.onlinesale2022.ru
 shop6.onlinesale2022.ru
 shop8.onlinesale2022.ru
 onlineskitchen.com
+shop10.onlinestoresoutlet.ru
+shop8.onlinestoresoutlet.ru
 cheaper.onlinestoresoutlet2021.ru
 onlineusbike.com
 onlinewalldecor.com
@@ -10793,6 +10798,7 @@ redwingoslo.com
 redwingsfactoryoutlet.com
 redwingsuomi.com
 redzac-game.com
+redzacgame.com
 redzacgame-at.com
 redzacservice.com
 reebokaustralia.com
@@ -10832,6 +10838,7 @@ reifen-beier.com
 reifen-berger.com
 reifen-bertram.com
 reifen-brand.com
+reifen-burghardt.com
 reifen-decker.com
 reifen-digon.com
 reifen-dinamo.com
@@ -10885,6 +10892,7 @@ reifen-matra.com
 reifen-mayer.com
 reifen-meier.com
 reifen-metz.com
+reifen-motredu.de
 reifen-neubauer.com
 reifen-neumann.com
 reifen-niemann.com
@@ -11132,6 +11140,7 @@ rerems.com
 reservationstays.com
 resid3ncy.com
 residez.de
+resonateclothing.com
 restaurantnamaskar.de
 restdiablo.com
 restliss.com
@@ -11295,6 +11304,7 @@ ronaldjpnmann.shop
 roncartoons.de
 ronctly.com
 roniry.co
+rontis.de
 roomeverything.com
 roomflix.de
 roomylivingroom.com
@@ -11333,6 +11343,7 @@ trade.royaldimex.com
 royalinvestmentconsortium.com
 lps.royalle-network.com
 royalrobpascher.de
+rreplace.com
 rromaakt.de
 rs2-finance.com
 rsf-services.de
@@ -11509,6 +11520,7 @@ saleiceclimbing.com
 saleimluxury.com
 saleitemhome.com
 salejerseysshop.com
+salejoycarpet.com
 saleknitwear.com
 saleladyfad.com
 saleladyfashion.com
@@ -11641,6 +11653,7 @@ sandalo.shop
 sandberger.net
 sander-autoreifen.shop
 sandkproject.com
+sandra-und-tobias.de
 sanebo.net
 sanierungs-profi.at
 sanitamalaysia.com
@@ -11677,6 +11690,7 @@ sarditinera.it
 sargashandel.com
 saringa.de
 sarreidhome.com
+sarvamits.com
 saskiabader.de
 sassier-invests.com
 satarakharedi.com
@@ -11762,6 +11776,7 @@ schneeelll.de
 schnefie.de
 schneider-reifen.com
 schnell-finanx.com
+schnell-markt.de
 schnell-reifenhandel.shop
 schnell-schwanger-werden.com
 schnell-shop.com
@@ -11772,6 +11787,7 @@ schnellkredits.com
 schober-autoreifen.shop
 schober-reifenhandel.com
 schodrok-bochum.de
+schoenen-korting.nl
 schoenmeester.nl
 scholarathelite.com
 scholl-elektro.com
@@ -11818,6 +11834,7 @@ schusselprada.com
 schuster-autoreifen.shop
 schuster-wien.at
 schwab-reifenhandel.com
+schwabissimos.de
 schwabler.com
 schwanhaus.de
 schwarz-autoreifen.com
@@ -11936,6 +11953,7 @@ seriouswatches.shop
 serishirts.com
 seronia.de
 server-gsm.com
+service-dathe.de
 service-finanzen-kredit.com
 service-standesamt.de
 serviceheft24.com
@@ -12231,6 +12249,7 @@ skechediscounts.de
 skecheroutlets.shop
 skechers-osterreich.at
 skechersaustria.at
+skechersdeutschland.de
 skechersoutlet.at
 skechersoutletdeutschland.de
 skechersshop.at
@@ -12312,6 +12331,7 @@ smarthomerabatt.de
 smarthomevi.com
 smartokid.com
 smartstoy.shop
+smarty-shop24.de
 smiffyscostume.com
 smilewallpapersell.com
 smitdeals.de
@@ -12327,6 +12347,7 @@ wwd.sneaker2020a.com
 sneakergirlsblog.de
 sneakernews79.top
 sneakers-shoessales.com
+sneakers4you.eu
 sneakershopswien.com
 sneakerspalette-de.com
 sneakerway.nl
@@ -12381,6 +12402,7 @@ solanex.de
 solar-claussen.de
 solar-dc.de
 solar-ecke.com
+solar-energie24.com
 solar-erhard.com
 solar-helden.com
 solar-liquid.de
@@ -12437,6 +12459,7 @@ song-creator.com
 sonnenheld.at
 sonnenlit.de
 sonnesucht.de
+sonninstr-stock.com
 sonnyapparel.com
 sonnyquality.com
 sonoransurplus.com
@@ -12464,6 +12487,7 @@ souxan.com
 sowaswillichauch.de
 sozial-kredits.com
 sozialer-kredit48.com
+sozialrecht-sh.de
 sozialweltkredit.com
 space-fighting.com
 space-tennis.com
@@ -12585,6 +12609,7 @@ sportusshopping.com
 sportusspace.com
 sportwearchic.com
 sportyglobe.com
+sportyline.de
 sportymenswear.com
 sportyraiment.com
 spowo.at
@@ -12593,6 +12618,7 @@ spravi.us
 sprayitonyou.com
 spreadersetshop.com
 sptlego.de
+spyder-outlet.com
 spyderkids.com
 spydersale.de
 spyshop.at
@@ -12724,6 +12750,7 @@ storeaustria.com
 storeautoparts.com
 storebathrooms.com
 storebauble.com
+storebbb.com
 storebikeaccessory.com
 storebikeequip.com
 storebisgaard.de
@@ -12772,6 +12799,7 @@ stornierenbei.de
 storoque.de
 storynchampion.com
 stouttrim.com
+stoxdc.com
 stralsunder-taxi.de
 strand-tresor.de
 strandkorbia.com
@@ -12807,6 +12835,7 @@ strongerski.com
 strowcrue.net
 stubling.de
 studiolavela.com
+studiominq.com
 studiomrb.it
 studioy.de
 studiummaris.com
@@ -12920,6 +12949,7 @@ superia.shop
 superie.de
 superiorwilderdog.com
 supermeds24.com
+supernele.de
 superpostalservice.com
 supersapparel.com
 supersocken.de
@@ -13002,6 +13032,7 @@ susiecapaldi.com
 suspendercorsetofficial.com
 sustagon.com
 sv-blaschke.de
+svgbarbis.de
 swagpflege.de
 swarmgreat.club
 swatchaustria.at
@@ -13229,6 +13260,7 @@ teller-store.com
 tellersale.com
 tellerschritte.de
 tellwalkandtalk.com
+telnegozio.com
 tempe-ro.com
 temperaent.com
 templeofoblivion.de
@@ -13360,6 +13392,7 @@ thefurniturelayout.com
 thegmbh.de
 thegoodlamps.com
 thegoodpillsstore.com
+thegoodsite.store
 thegreatfurniture.com
 thegroundedtree.com
 thegypsybulldog.com
@@ -13382,6 +13415,7 @@ thekitchengears.com
 thekneehighproject.com
 thelacybra.com
 thelampafford.com
+thelike.top
 thelucybra.com
 theluminousliving.com
 themaddengirl.com
@@ -13598,6 +13632,7 @@ tomsskotilbud.com
 tomtailorsneakerdamen.com
 tomundeddi.de
 ton-form-color.com
+tonda-reifen.com
 tonedo.de
 toni-greif.de
 tonspy.com
@@ -13687,6 +13722,7 @@ toolwd.com
 toolworldopt.com
 toolzonedeal.com
 toolzoneshop.com
+toonix.store
 top-apotheke.at
 top-apotheke.com
 top-apotheke.net
@@ -13764,6 +13800,7 @@ toys-trendy.com
 toysems.com
 toyshobbiesworld.com
 toyslandus.com
+toysly.store
 toysoptdeal.com
 toyssitefun.com
 toystom.com
@@ -13789,6 +13826,7 @@ tradewomenshoe.com
 trading-activity.com
 trading-fashion.com
 trading-gift.com
+tradingbotpro.com
 tradingrugby.com
 tradingscorporations.com
 tradingstylish.com
@@ -13916,6 +13954,7 @@ truthaboutyem.com
 try-camping.com
 try-pulsetech.com
 tryapp.de
+ts23.net
 tshirtbetter.com
 tshirtfinest.com
 tshirtnow.net
@@ -13925,6 +13964,7 @@ tsptheshop.com
 tsv-erste.de
 tsvansbachpiranhas.de
 tsz-stadtilm.de
+ttnfremovals.shop
 ttpmsz.com
 tucsononevisitcrowns.com
 tudio.de
@@ -14050,6 +14090,7 @@ uniqueclothus.com
 uniquetrendiness.com
 unitechnica.com
 uniteddeliveryagency.com
+universalbundle.com
 universalprotection.de
 univragri.com
 unjkvn.com
@@ -14401,10 +14442,12 @@ veloberlin.de
 velurio.com
 vemaxx.de
 venacquaro.it
+vendorzelte.de
 vendusa.de
 veneracrea.com
 venessashop.com
 venino-handel.de
+ventboro.nl
 venuefashion.com
 veonaskincare.com
 vera-mode.com
@@ -14422,6 +14465,7 @@ verkaufbike.com
 verkauffahrradbike.com
 verkaufmode.de
 verkaufschuhe.de
+verkaufsmarkt.com
 verkaufsportmode.com
 verlockungnachrichten.com
 i28tud1e6.vermoegensberatung-baumann.de
@@ -14494,6 +14538,7 @@ vidadelballes.top
 vidageneral.com
 videeda.com
 videoastrum.net
+videospiel-markt.de
 vielke.de
 viennaapartments.org
 viennagroup.at
@@ -14531,6 +14576,7 @@ vipoli-reifen.com
 vipreplica.de
 shop.vipsshop.ga
 virany.de
+virdos.de
 virenmaske.de
 virenstop.com
 virep.net
@@ -14576,6 +14622,7 @@ vivobarefootde.de
 vivobarefootosterreich.at
 vivobarefootoutlet.at
 vivobarefootoutlet.de
+vivobarefootoutletportugal.com
 vivobarefootportugaloutlet.com
 vivobarefootsale.at
 vivobarefootsaleoutlet.de
@@ -14596,6 +14643,7 @@ vlonede.com
 vlshaulage.com
 vmegarexs.top
 vndance.info
+vnews.at
 vobishop.de
 vocaequa.com
 vochaussures.com
@@ -14648,6 +14696,7 @@ volcomaustria.at
 volcomeu.shop
 volcomopen-air.com
 volcomwien.at
+volex.io
 volina.de
 volini.de
 volini-shop.de
@@ -14673,6 +14722,7 @@ vongano.com
 vonoehsen-hifi.com
 vonpundl.de
 voodoo-cable.de
+vooglabor.com
 vooldpoeal.com
 voordeeldagen.com
 voorthuistore.shop
@@ -14685,6 +14735,7 @@ voss-reifenversand.com
 ujbtn.votremaisoninterieure.fr
 yssr.votremaisoninterieure.fr
 vozuda-shop.de
+vphami.top
 vpselektro.com
 vraodorld.com
 vrenergy.de
