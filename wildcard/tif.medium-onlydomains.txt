@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jan 2024 00:46 UTC
-# Version: 2024.0118.0046.03
+# Last modified: 18 Jan 2024 23:42 UTC
+# Version: 2024.0118.2342.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 6635
+# Number of entries: 6622
 #
 deviltelegram.000webhostapp.com
 pepelu-staging.01staging.site
@@ -45,7 +45,7 @@ onlines.3utilities.com
 500000wordswithpictures.com
 api.52kkg.com
 542199235l.com
-hacker.548848.xyz
+dl.1003b.56a.com
 58dukkan.com
 5bchem.ae
 70northair.com
@@ -66,7 +66,6 @@ aarishahanif.com
 aaronkaleeba.com
 aasaepul.com
 aasanionline.com
-aaslab.org
 ab-pensiones.com
 abcdelectricity.com
 abcdserver.com
@@ -199,6 +198,7 @@ alibabashop.pk
 alibasi.com
 alie3ksgbb.com
 ji.alie3ksgdd.com
+ji.alie3ksggg.com
 aliessxut.com
 alinac.ca
 126sand.oss-accelerate.aliyuncs.com
@@ -352,7 +352,6 @@ arihantinfrastructure.com
 arinosolidale.org
 aristonbentre.com
 arkinfonet.com
-arm-cc.com
 arnsms.ir
 arquitectosdca.com
 arsalanfilms.com
@@ -653,6 +652,7 @@ cafedesmots.com
 cafeduetazze.com
 cahierdujour.fr
 cahitefendi.com
+download.caihong.com
 cakapriau.com
 cal-liberty.com
 test.calcanto.de
@@ -671,6 +671,7 @@ capstone-ds.com
 carahue.cl
 careercompanion.au
 careersreach.com
+cargoconnect.online
 carolinafm.pe
 carragheen.com
 carrepairdubai.ae
@@ -797,7 +798,6 @@ accurateflooring.co.uk
 aesthetic-ag.co.uk
 africanresponse.co.za
 afriski-holimo.co.za
-agemn.co.za
 allday.co.id
 amanispa.co.ke
 ame.co.id
@@ -809,7 +809,6 @@ arenaone.co.ke
 aryaninterior.co.in
 ascsolutions.co.za
 associatedwindowcleaners.co.uk
-atiasado.co.il
 awana.co.zw
 azurasuperheroes.co.id
 beachamptonmotors.co.uk
@@ -1010,7 +1009,6 @@ royalprinters.co.in
 rspetukangan.co.id
 rsums.co.id
 s5agencyworld.co.uk
-sainzim.co.za
 sampieselectrical.co.za
 scaindia.co.in
 scproducts.co.za
@@ -1531,7 +1529,6 @@ ranifood.com.bd
 recoveryoptions.com.au
 recubplast.com.co
 remar.com.co
-remisat.com.uy
 rener.com.uy
 reutercontabilidade.com.br
 rgcapital.com.mx
@@ -1637,7 +1634,6 @@ viraldata.com.ng
 viramar.com.br
 visoft.com.my
 vkengcivil.com.br
-vollfisioterapia.com.br
 vrport.com.au
 wahseaharowana.com.my
 waresagroup.com.pk
@@ -1766,6 +1762,7 @@ datasystembolivia.com
 dates-king.com
 daughtersofkenya.org
 daughtersofmotherindia.com
+cfs10.blog.daum.net
 cfs7.blog.daum.net
 cfs9.blog.daum.net
 davidsuclea.ro
@@ -1885,7 +1882,6 @@ fcb.dns05.com
 fms.dns05.com
 htc.dns05.com
 iran-hh.dns05.com
-iran-vz.dns05.com
 rdc.dns05.com
 rsc.dns05.com
 sahmanb.dns05.com
@@ -1946,7 +1942,6 @@ dti.lk
 dubaiblindscurtains.ae
 dubaishop.site
 dubbed.space
-dubovoy.news
 remccoss2023.duckdns.org
 remcoss2023.duckdns.org
 tfdko3okrs.duckdns.org
@@ -2263,7 +2258,6 @@ cfb.faqserv.com
 cfv.faqserv.com
 csn.faqserv.com
 cvm.faqserv.com
-daf.faqserv.com
 das.faqserv.com
 deb.faqserv.com
 des.faqserv.com
@@ -2286,11 +2280,9 @@ esb.faqserv.com
 esd.faqserv.com
 fda.faqserv.com
 fsa.faqserv.com
-iran-qa.faqserv.com
 irhsh.faqserv.com
 lliean.faqserv.com
 rbm.faqserv.com
-ref.faqserv.com
 res.faqserv.com
 rsc.faqserv.com
 sah.faqserv.com
@@ -2330,7 +2322,6 @@ tes.faqserv.com
 tfs.faqserv.com
 tsa.faqserv.com
 tsm.faqserv.com
-ves.faqserv.com
 zds.faqserv.com
 a-iran.fartit.com
 adf-za.fartit.com
@@ -2354,7 +2345,6 @@ esc.fartit.com
 ir-az.fartit.com
 iran-hhs.fartit.com
 iran-hj.fartit.com
-iran-qe.fartit.com
 iran-sh.fartit.com
 irhg.fartit.com
 sahadl.fartit.com
@@ -2768,7 +2758,6 @@ hiro-af.org
 historiasdelescarabajo.com
 hitechhomes.ca
 hitstation.nl
-stoon.hitsturbo.com
 running.hkcosmo.com
 hmhconnect.ng
 yp.hnggzyjy.cn
@@ -2875,6 +2864,7 @@ ingematchile.cl
 ingeniadyd.com
 ingenieriainsitu.com
 ingerev.cl
+ingonherbal.com
 iniofer.com
 initiative-td.org
 inivex.lk
@@ -3234,6 +3224,7 @@ limecom.pk
 limperus.com
 limpromex.com
 lindenprofessionalservices.com
+lindnerelektroanlagen.de
 linearcomunicacao.com
 linksumuthokirtp.info
 linkvilleplayers.org
@@ -3245,7 +3236,6 @@ litestudios.us
 littlecoveresort.com
 littlestarcasting.com
 juntadeconfrariesdese.live-website.com
-livetrack.in
 livework.in
 livmesilovess.pro
 livverr.com
@@ -3258,7 +3248,6 @@ locksmithsmidrand.com
 lodoschart.com
 logisticspierias.com
 lolatag.com
-lollyjayconcepts.com
 lombokoriginal.com
 londonmart-noida.com
 lookkiero.com
@@ -3349,6 +3338,7 @@ mauriciosuarezfotografia.com
 mavrosdrive.gr
 maxcounsellingservices.com
 maxman.shop
+maxmoney.com
 maxximbrasil.com
 mayanmexico.travel
 mayesuperior.com
@@ -3496,13 +3486,11 @@ adq.mrbasic.com
 adsqe.mrbasic.com
 als.mrbasic.com
 asldg.mrbasic.com
-des.mrbasic.com
 dsb.mrbasic.com
 dsm.mrbasic.com
 eda.mrbasic.com
 edm.mrbasic.com
 iranda.mrbasic.com
-tes.mrbasic.com
 adlsgh.mrbonus.com
 sahmns.mrbonus.com
 sdc.mrbonus.com
@@ -3534,7 +3522,6 @@ musicaondemand.com
 mustasharcom.ae
 muzzumilruheel.com
 mxspy.com
-mxzexlog95.xyz
 arfaktech.my.id
 bendaharasbs.my.id
 budiutomo.my.id
@@ -3741,6 +3728,7 @@ onursondaj.com
 onyebinimefoundation.com
 24help.ooguy.com
 opal.rw
+opesjk.ug
 opolis.io
 opticienregard.com
 optimacosmetics.rs
@@ -5339,7 +5327,6 @@ partotaprayan.com
 partotaprayan.ir
 parves.xyz
 pasta-mania.it
-paste-bin.xyz
 path4hosts.com
 patmypets.com
 patos.mx
@@ -5676,7 +5663,6 @@ sabdankur.com
 sabiacademy.com
 sabor-redondo.es
 saeedalkarmi.com
-saf-oil.ru
 safarpanda.com
 safawear.com
 saferelocationpackers.com
@@ -5757,6 +5743,7 @@ smpitbu.sch.id
 smpn12dumai.sch.id
 smpn3petarukan.sch.id
 scheiff.eu
+scientific.pk
 scoutsjalisco.org
 screeninghive.com
 sds.pe
@@ -5808,7 +5795,6 @@ shahab.pk
 shahabians.com
 shahadotonline.net
 shahnazbeautyclinic.com
-shahu66.com
 shardastationery.com
 shareboosting.com
 sharifiandigital.com
@@ -6139,6 +6125,7 @@ tellodesk.com
 temes-tw.co
 tempfiles.ninja
 tempocf.com
+temptmag.com
 tenetservice.it
 tengfeidn.com
 pan.tenire.com
@@ -6320,6 +6307,7 @@ ucakbiletsorgulama.com
 udaanfound.com
 udakurtani.com
 d1.udashi.com
+down.udashi.com
 udef.fr
 hackathons.uem.mz
 ufe-section-indonesie.org
@@ -6463,7 +6451,6 @@ adsh.vizvaz.com
 adsqq.vizvaz.com
 azxs.vizvaz.com
 ir-irn.vizvaz.com
-iran-gz.vizvaz.com
 sah.vizvaz.com
 vladferoiu.com
 vlandvn.com
