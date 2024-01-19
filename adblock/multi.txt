@@ -118661,7 +118661,6 @@
 ||powertools.nz^
 ||smetrics.powertracagri.com^
 ||powertraf.com^
-||app.powerwatch.io^
 ||poweyus.com^
 ||powferads.com^
 ||powjoui.com^
@@ -140319,7 +140318,6 @@
 ||tapdb.net^
 ||analytics.tapesupply.eu^
 ||analytics.shop.tapesupply.eu^
-||tapfiliate.com^
 ||tapgen.com^
 ||tapheetsat.com^
 ||tapi2.jp^

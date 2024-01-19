@@ -73371,8 +73371,6 @@ tapdaq.com CNAME .
 *.tapdaq.com CNAME .
 tapdb.com CNAME .
 *.tapdb.com CNAME .
-tapfiliate.com CNAME .
-*.tapfiliate.com CNAME .
 tapinfluence.com CNAME .
 *.tapinfluence.com CNAME .
 tapingauthenticemulation.com CNAME .

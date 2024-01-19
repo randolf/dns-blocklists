@@ -56284,7 +56284,6 @@
 ||tapdaq.com^
 ||tapdb.com^
 ||tapdb.net^
-||tapfiliate.com^
 ||tapinfluence.com^
 ||tapingauthenticemulation.com^
 ||tapingdynasty.com^
