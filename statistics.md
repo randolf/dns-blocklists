@@ -1,7 +1,7 @@
 ### Statistics
 #### LIGHT
 ```
-214822 (87%) included | 8552 (3%) removed | 22361 (9%) dead
+214782 (87%) included | 8589 (3%) removed | 22361 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      90% |   5% |      5% |  133030 | Personal
@@ -13,15 +13,15 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      33% |   0% |     67% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      72% |   4% |     24% |   11722 | Denylist Base
+ 10 |      72% |   4% |     24% |   11724 | Denylist Base
  11 |      95% |   0% |      5% |    3787 | Basic Extension
 ```
 #### MULTI
 ```
-727083 (88%) included | 17934 (2%) removed | 81083 (10%) dead
+725624 (88%) included | 17974 (2%) removed | 81083 (10%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  214822 | Predecessor: Multi Light
+  1 |     100% |   0% |      0% |  214782 | Predecessor: Multi Light
   2 |      92% |   5% |      3% |  133030 | Personal
   3 |      81% |   8% |     11% |    4830 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -30,7 +30,7 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      33% |   0% |     67% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      92% |   4% |      4% |   11722 | Denylist Base
+ 10 |      92% |   4% |      4% |   11724 | Denylist Base
  11 |      95% |   0% |      5% |    3787 | Basic Extension
  12 |     100% |   0% |      0% |    4947 | Fake Light
  13 |      83% |  13% |      4% |  124127 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)

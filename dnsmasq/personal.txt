@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2024 00:43 UTC
-# Version: 2024.0119.0043.19
+# Last modified: 19 Jan 2024 14:52 UTC
+# Version: 2024.0119.1452.22
 # Syntax: DNSMasq
-# Number of entries: 46430
+# Number of entries: 46477
 #
 address=/0008d6ba2e.com/#
 address=/000webhost.info/#
@@ -7678,18 +7678,66 @@ address=/bravobusboy.com/#
 address=/bravospots.com/#
 address=/ijaabm.bravotv.com/#
 address=/analytics.braze.com/#
-address=/dashboard-01.braze.eu/#
-address=/dashboard-02.braze.eu/#
-address=/fra-01.braze.eu/#
-address=/fra-02.braze.eu/#
-address=/iad-01.braze.com/#
-address=/iad-02.braze.com/#
-address=/iad-03.braze.com/#
-address=/iad-04.braze.com/#
-address=/iad-05.braze.com/#
-address=/iad-06.braze.com/#
-address=/iad-07.braze.com/#
-address=/iad-08.braze.com/#
+address=/clusava.fra-01.braze.eu/#
+address=/customer.fra-01.braze.eu/#
+address=/embarks.fra-01.braze.eu/#
+address=/hollithron.fra-01.braze.eu/#
+address=/mempa.fra-01.braze.eu/#
+address=/rest.fra-01.braze.eu/#
+address=/schiff.fra-01.braze.eu/#
+address=/slemula.fra-01.braze.eu/#
+address=/upratihun.fra-01.braze.eu/#
+address=/fastly.fra-02.braze.eu/#
+address=/rest.fra-02.braze.eu/#
+address=/andromeda.iad-01.braze.com/#
+address=/ibilisk.iad-01.braze.com/#
+address=/indus.iad-01.braze.com/#
+address=/muliphein.iad-01.braze.com/#
+address=/rest.iad-01.braze.com/#
+address=/serpens.iad-01.braze.com/#
+address=/vela.iad-01.braze.com/#
+address=/gudja.iad-02.braze.com/#
+address=/himbrecha.iad-02.braze.com/#
+address=/rest.iad-02.braze.com/#
+address=/viddermux.iad-02.braze.com/#
+address=/atlas.iad-03.braze.com/#
+address=/belgikanst.iad-03.braze.com/#
+address=/carinus.iad-03.braze.com/#
+address=/ceres.iad-03.braze.com/#
+address=/clair.iad-03.braze.com/#
+address=/customer.iad-03.braze.com/#
+address=/daviik.iad-03.braze.com/#
+address=/epsilon.iad-03.braze.com/#
+address=/gaspra.iad-03.braze.com/#
+address=/giausar.iad-03.braze.com/#
+address=/graf.iad-03.braze.com/#
+address=/hassaleh.iad-03.braze.com/#
+address=/hiram.iad-03.braze.com/#
+address=/horus.iad-03.braze.com/#
+address=/inari.iad-03.braze.com/#
+address=/inferna.iad-03.braze.com/#
+address=/izar.iad-03.braze.com/#
+address=/markab.iad-03.braze.com/#
+address=/pali.iad-03.braze.com/#
+address=/phillateemis.iad-03.braze.com/#
+address=/regor.iad-03.braze.com/#
+address=/rest.iad-03.braze.com/#
+address=/rotanev.iad-03.braze.com/#
+address=/sagan.iad-03.braze.com/#
+address=/sargas.iad-03.braze.com/#
+address=/seginus.iad-03.braze.com/#
+address=/sirius.iad-03.braze.com/#
+address=/tali.iad-03.braze.com/#
+address=/taukibreez.iad-03.braze.com/#
+address=/uemelia.iad-03.braze.com/#
+address=/wahacondrax.iad-03.braze.com/#
+address=/wurren.iad-03.braze.com/#
+address=/yildun.iad-03.braze.com/#
+address=/fastly.iad-05.braze.com/#
+address=/rest.iad-05.braze.com/#
+address=/rest.iad-06.braze.com/#
+address=/virgin-self-serve-apps.iad-06.braze.com/#
+address=/fastly.iad-07.braze.com/#
 address=/p-euc-1.braze.eu/#
 address=/ads.brazzers.com/#
 address=/ads2.brazzers.com/#
@@ -41232,6 +41280,8 @@ address=/ads.production-public.tubi.io/#
 address=/ads-image.production-public.tubi.io/#
 address=/ads4.production-public.tubi.io/#
 address=/analytics-ingestion.production-public.tubi.io/#
+address=/pixel.production-public.tubi.io/#
+address=/pixel4.production-public.tubi.io/#
 address=/plus.tubroaffs.org/#
 address=/tubsougn.com/#
 address=/tucess.com/#
