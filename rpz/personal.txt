@@ -92967,3 +92967,5 @@ telemetry.marketcircle.zone CNAME .
 *.telemetry.marketcircle.zone CNAME .
 propertybook.co.zw CNAME .
 *.propertybook.co.zw CNAME .
+ta.tokopedia.com CNAME .
+*.ta.tokopedia.com CNAME .

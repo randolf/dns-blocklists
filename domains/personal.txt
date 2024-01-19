@@ -3,3 +3,4 @@ stats.mytvscout.de
 tvstats.telvi.de
 pixel.production-public.tubi.io
 pixel4.production-public.tubi.io
+ta.tokopedia.com

@@ -162441,3 +162441,4 @@
 ||s1.zzz.vn^
 ||a8.zzz-land.com^
 ||metric.zzzquil.com^
+||ta.tokopedia.com^
