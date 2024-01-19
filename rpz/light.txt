@@ -95837,10 +95837,6 @@ ads4.production-public.tubi.io CNAME .
 *.ads4.production-public.tubi.io CNAME .
 analytics-ingestion.production-public.tubi.io CNAME .
 *.analytics-ingestion.production-public.tubi.io CNAME .
-pixel.production-public.tubi.io CNAME .
-*.pixel.production-public.tubi.io CNAME .
-pixel4.production-public.tubi.io CNAME .
-*.pixel4.production-public.tubi.io CNAME .
 turbolion.io CNAME .
 *.turbolion.io CNAME .
 uiz.io CNAME .

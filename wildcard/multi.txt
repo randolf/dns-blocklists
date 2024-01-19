@@ -146930,8 +146930,6 @@
 *.ads-image.production-public.tubi.io
 *.ads4.production-public.tubi.io
 *.analytics-ingestion.production-public.tubi.io
-*.pixel.production-public.tubi.io
-*.pixel4.production-public.tubi.io
 *.tuboaxen.com
 *.cool.tubous.com
 *.tubroaffs.org
