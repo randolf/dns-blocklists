@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 18 Jan 2024 22:59 UTC
-# Version: 2024.0118.2259.53
+# Last modified: 19 Jan 2024 23:00 UTC
+# Version: 2024.0119.2300.18
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 973
+# Number of entries: 974
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -497,6 +497,7 @@
 0.0.0.0 dns.api.sandbox.globuscs.info
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
+0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
@@ -657,7 +658,6 @@
 0.0.0.0 muxyuji.ru
 0.0.0.0 www.muxyuji.ru
 0.0.0.0 d.apemlegit.my.id
-0.0.0.0 dns.feldy.my.id
 0.0.0.0 id.terra.my.id
 0.0.0.0 dns.vmath.my.id
 0.0.0.0 adblock.mydns.network
@@ -925,6 +925,7 @@
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 nat64.tuxis.nl
 0.0.0.0 dns.twnic.tw
+0.0.0.0 typaza.com
 0.0.0.0 adguard-ironhide.ultima-thule.ru
 0.0.0.0 dns.umbrella.com
 0.0.0.0 anycast.uncensoreddns.org
