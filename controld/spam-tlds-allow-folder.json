@@ -211,14 +211,14 @@
       }
     },
     {
-      "PK": "webdev189.tk",
+      "PK": "three60.degree",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "cliq.buzz",
+      "PK": "webdev189.tk",
       "action": {
         "do": 1,
         "status": 1
@@ -743,7 +743,7 @@
       }
     },
     {
-      "PK": "three60.degree",
+      "PK": "cliq.buzz",
       "action": {
         "do": 1,
         "status": 1
@@ -897,14 +897,14 @@
       }
     },
     {
-      "PK": "gotofap.tk",
+      "PK": "userscript.zone",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "userscript.zone",
+      "PK": "beatbump.ml",
       "action": {
         "do": 1,
         "status": 1
@@ -1114,7 +1114,7 @@
       }
     },
     {
-      "PK": "beatbump.ml",
+      "PK": "gotofap.tk",
       "action": {
         "do": 1,
         "status": 1
@@ -1387,14 +1387,14 @@
       }
     },
     {
-      "PK": "akamaicdn.life",
+      "PK": "cloudns.biz",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "cloudns.biz",
+      "PK": "akamaicdn.life",
       "action": {
         "do": 1,
         "status": 1
@@ -1535,6 +1535,13 @@
     },
     {
       "PK": "yiff.life",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bird.makeup",
       "action": {
         "do": 1,
         "status": 1

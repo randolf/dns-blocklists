@@ -15,7 +15,7 @@
       }
     },
     {
-      "PK": "usercentrics.eu",
+      "PK": "cookie-bar.eu",
       "action": {
         "do": 1,
         "status": 1
@@ -92,14 +92,14 @@
       }
     },
     {
-      "PK": "cookiepro.com",
+      "PK": "usercentrics.eu",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "cookie-bar.eu",
+      "PK": "cookiepro.com",
       "action": {
         "do": 1,
         "status": 1
@@ -191,6 +191,13 @@
     },
     {
       "PK": "cookies.*",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cookieinformation.com",
       "action": {
         "do": 1,
         "status": 1
