@@ -116779,8 +116779,6 @@ rtbsystem.org CNAME .
 *.rtbsystem.org CNAME .
 rutrk.org CNAME .
 *.rutrk.org CNAME .
-discount.s3blog.org CNAME .
-*.discount.s3blog.org CNAME .
 s99i.org CNAME .
 *.s99i.org CNAME .
 response.sagaftra.org CNAME .

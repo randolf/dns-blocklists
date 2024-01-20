@@ -127923,7 +127923,6 @@
 *.s3-8388725.com
 *.s3-ap-southeast-1-amazonaws.com
 *.s34me.com
-*.discount.s3blog.org
 *.s3cp.xyz
 *.s3network1.com
 *.s3nycv.xyz
