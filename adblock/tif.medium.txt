@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Jan 2024 23:42 UTC
-! Version: 2024.0118.2342.09
+! Last modified: 19 Jan 2024 23:44 UTC
+! Version: 2024.0119.2344.04
 ! Syntax: AdBlock
-! Number of entries: 6622
+! Number of entries: 6621
 !
 ||deviltelegram.000webhostapp.com^
 ||pepelu-staging.01staging.site^
@@ -128,6 +128,7 @@
 ||adultbox.club^
 ||thiagocampos.adv.br^
 ||advitdentalclinic.com^
+||advokatkraleva.com^
 ||adzllp.com^
 ||aeisunugal.com^
 ||aestheticscc.com^
@@ -261,6 +262,10 @@
 ||amanet-sector-6-zeus.ro^
 ||amarfoods.com^
 ||amaxtravel.com^
+||abode-dashboard-media.s3.ap-south-1.amazonaws.com^
+||archivevalley-media.s3.amazonaws.com^
+||blooming.s3.amazonaws.com^
+||shapefiles.fews.net.s3.amazonaws.com^
 ||files-ld.s3.us-east-2.amazonaws.com^
 ||ambalaje-cerasela.ro^
 ||ambitiousapeperfume.com^
@@ -746,7 +751,6 @@
 ||chinarhospitalanddailysiscenter.com^
 ||chingman.net^
 ||chiphiduhoc.com^
-||chiptune.com^
 ||chiroterapi.com^
 ||chitrasansar.com^
 ||chrg4u.com^
@@ -798,6 +802,7 @@
 ||aesthetic-ag.co.uk^
 ||africanresponse.co.za^
 ||afriski-holimo.co.za^
+||agemn.co.za^
 ||allday.co.id^
 ||amanispa.co.ke^
 ||ame.co.id^
@@ -857,6 +862,7 @@
 ||demofunnel.co.uk^
 ||dentalanalytics.co.uk^
 ||dentalartistry.co.nz^
+||destinymc.co.za^
 ||dfsroofing.co.uk^
 ||dgmobilewelding.co.uk^
 ||hrms.dif.co.id^
@@ -1669,6 +1675,7 @@
 ||comunidadinclusiva.cl^
 ||concept4arc.com^
 ||conjureup.ca^
+||constamp.net^
 ||constructorarise.com^
 ||consultasnfc.club^
 ||consulting-azimut.net^
@@ -1870,7 +1877,6 @@
 ||adlsj.dns05.com^
 ||adlss.dns05.com^
 ||adq.dns05.com^
-||asq.dns05.com^
 ||c-iran.dns05.com^
 ||dgfh.dns05.com^
 ||dmc.dns05.com^
@@ -2226,7 +2232,6 @@
 ||fantasticmall.net^
 ||acb.faqserv.com^
 ||acm.faqserv.com^
-||adf.faqserv.com^
 ||adffs.faqserv.com^
 ||adl-shm.faqserv.com^
 ||adla.faqserv.com^
@@ -2265,7 +2270,6 @@
 ||dnc.faqserv.com^
 ||dsc.faqserv.com^
 ||dsf.faqserv.com^
-||dsm.faqserv.com^
 ||dst.faqserv.com^
 ||e.faqserv.com^
 ||ebc.faqserv.com^
@@ -2345,12 +2349,9 @@
 ||ir-az.fartit.com^
 ||iran-hhs.fartit.com^
 ||iran-hj.fartit.com^
-||iran-sh.fartit.com^
-||irhg.fartit.com^
 ||sahadl.fartit.com^
 ||sahdm.fartit.com^
 ||sahmbe.fartit.com^
-||sahmn.fartit.com^
 ||scv.fartit.com^
 ||sdc.fartit.com^
 ||sdhm.fartit.com^
@@ -2627,6 +2628,7 @@
 ||gostudents.fr^
 ||catbaloganwd.gov.ph^
 ||esecentro1.gov.co^
+||luziania.go.gov.br^
 ||cshms.kp.gov.pk^
 ||hd.kp.gov.pk^
 ||mpcp.kp.gov.pk^
@@ -2847,7 +2849,6 @@
 ||indohcf.com^
 ||indokopp.com^
 ||indomarineshipchandler.com^
-||indonesias.me^
 ||industrialoutlook.in^
 ||infaccocr.com^
 ||infinitymetalcoating.com^
@@ -2911,7 +2912,6 @@
 ||arenterprese2023.is-a-caterer.com^
 ||402.isasecret.com^
 ||adldfs.isasecret.com^
-||asd.isasecret.com^
 ||iran-ha.isasecret.com^
 ||ladl.isasecret.com^
 ||ishahcouture.com^
@@ -2940,7 +2940,6 @@
 ||adlihh.itsaol.com^
 ||adlwh.itsaol.com^
 ||asahm.itsaol.com^
-||asc.itsaol.com^
 ||asqs.itsaol.com^
 ||csa.itsaol.com^
 ||dmns.itsaol.com^
@@ -3076,6 +3075,7 @@
 ||kclub.pk^
 ||the-hope-foundation.kdconnect.uk^
 ||keenanholding.com^
+||free.keep.sh^
 ||kenal.link^
 ||kenesrakishev.net^
 ||kevinley.com^
@@ -3103,6 +3103,7 @@
 ||kipthedolphin.com^
 ||kitabsuperjp.net^
 ||kivucloud.com^
+||klotheeenlogin.com^
 ||klu4home.com^
 ||kncapitalguru.com^
 ||knoxwestern.com^
@@ -3224,7 +3225,6 @@
 ||limperus.com^
 ||limpromex.com^
 ||lindenprofessionalservices.com^
-||lindnerelektroanlagen.de^
 ||linearcomunicacao.com^
 ||linksumuthokirtp.info^
 ||linkvilleplayers.org^
@@ -3236,6 +3236,7 @@
 ||littlecoveresort.com^
 ||littlestarcasting.com^
 ||juntadeconfrariesdese.live-website.com^
+||livetrack.in^
 ||livework.in^
 ||livmesilovess.pro^
 ||livverr.com^
@@ -3309,7 +3310,6 @@
 ||marketingguruzz.com^
 ||markgov.id^
 ||markokarolahair.com^
-||marksidfgs.ug^
 ||marnite.co^
 ||marquesvogt.com^
 ||marrakechchoralmeeting.ma^
@@ -3484,10 +3484,8 @@
 ||adlr.mrbasic.com^
 ||adq.mrbasic.com^
 ||adsqe.mrbasic.com^
-||als.mrbasic.com^
 ||asldg.mrbasic.com^
 ||dsb.mrbasic.com^
-||dsm.mrbasic.com^
 ||eda.mrbasic.com^
 ||edm.mrbasic.com^
 ||iranda.mrbasic.com^
@@ -3672,7 +3670,6 @@
 ||notaire-gay-friendly.fr^
 ||opencart.notebookparcalari.com^
 ||novedadesyartesaniaslupita.com^
-||novostiua.info^
 ||noytral24.no^
 ||szkolenie-gtm.devagroup.nq.pl^
 ||uczestnik.devagroup.nq.pl^
@@ -4204,7 +4201,6 @@
 ||gsewvbgz.page.link^
 ||gsmcwuyr.page.link^
 ||gsrwhyus.page.link^
-||gsslofxh.page.link^
 ||guldtmzc.page.link^
 ||guonagln.page.link^
 ||gurskbhu.page.link^
@@ -5327,6 +5323,7 @@
 ||partotaprayan.ir^
 ||parves.xyz^
 ||pasta-mania.it^
+||paste-bin.xyz^
 ||path4hosts.com^
 ||patmypets.com^
 ||patos.mx^
@@ -5507,6 +5504,7 @@
 ||quizbn.com^
 ||quolocations.com^
 ||quraninsoul.com^
+||pub-97694a1358de4edbb16efd939f516a29.r2.dev^
 ||rachabusinessgroup.com^
 ||racingclub-saintcernin.fr^
 ||rackoon.net^
@@ -5795,6 +5793,7 @@
 ||shahabians.com^
 ||shahadotonline.net^
 ||shahnazbeautyclinic.com^
+||shahu66.com^
 ||shardastationery.com^
 ||shareboosting.com^
 ||sharifiandigital.com^
@@ -5837,7 +5836,6 @@
 ||file.silentsilas.com^
 ||siliconsquad.in^
 ||silulo.com^
-||silveracre.com^
 ||silvertribebyajewels.com^
 ||silverytips.com^
 ||silverzone.pk^
@@ -5897,6 +5895,7 @@
 ||sncfashionbeats.com^
 ||snfpk.com^
 ||sngie.ml^
+||snnclermontprojects.com^
 ||snoopza.com^
 ||snopro.eu^
 ||socialnap.com^
@@ -6277,6 +6276,7 @@
 ||triphutt.com^
 ||triplepromise.org^
 ||triskeliumhub.com^
+||trmpc.com^
 ||tropicanarestaurants.com^
 ||tropiclean.vn^
 ||truckslele.com^
@@ -6482,7 +6482,6 @@
 ||wahahsolutions.net^
 ||wajihaattique.com^
 ||waldorfenergy.com^
-||walkinglate.com^
 ||wallysgarageandtowing.com^
 ||waresachemicals.com^
 ||waresagroup.com^
