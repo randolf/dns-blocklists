@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jan 2024 23:29 UTC
-# Version: 2024.0119.2329.28
+# Last modified: 20 Jan 2024 23:28 UTC
+# Version: 2024.0120.2328.39
 # Syntax: DNSMasq
-# Number of entries: 15345
+# Number of entries: 15351
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -511,6 +511,7 @@ address=/animalsupplys.com/#
 address=/animaltoys-shop.com/#
 address=/animestorify.com/#
 address=/ankotec.de/#
+address=/anmachholz.com/#
 address=/annafieldonlineshop.de/#
 address=/annafieldshop.fr/#
 address=/annafmodern.com/#
@@ -1770,7 +1771,7 @@ address=/bradfordcutlery.com/#
 address=/bradyplaza.com/#
 address=/bragreservecooperation.com/#
 address=/brain-metric.com/#
-address=/support.brainety.com/#
+address=/brainety.com/#
 address=/brakediscshop.com/#
 address=/bralettesstore.com/#
 address=/brandbauer.de/#
@@ -2878,6 +2879,7 @@ address=/dashausimgarten.de/#
 address=/daskarnevalkostuem.de/#
 address=/datenwerft-tech.de/#
 address=/datook-de.com/#
+address=/daumueller-friseur.de/#
 address=/daunenjacken-shop.com/#
 address=/daveintheshop.com/#
 address=/davesaunderscfo.com/#
@@ -3071,6 +3073,7 @@ address=/derabattfahrrad.com/#
 address=/deregresoalafuente.com/#
 address=/derfairmieter.de/#
 address=/derfamilientisch.de/#
+address=/derila.com/#
 address=/derkatzenshop.de/#
 address=/dermahershop.com/#
 address=/dersupertiger.de/#
@@ -14929,6 +14932,7 @@ address=/werkzeugprada.com/#
 address=/werkzeugschritte-de.com/#
 address=/wernerhilft.de/#
 address=/wernerzapp.de/#
+address=/wertvollewelpenzuradoption.com/#
 address=/wescofinanceinc.com/#
 address=/wessmarkt.de/#
 address=/westcinch.com/#
@@ -14953,6 +14957,7 @@ address=/wheelgearpro.com/#
 address=/wheelskit.com/#
 address=/wheelsprint.com/#
 address=/whiindia.org/#
+address=/whlshop.com/#
 address=/whoinns.com/#
 address=/wholesalerkitchen.com/#
 address=/wholesaleroutside.com/#
@@ -15289,6 +15294,7 @@ address=/zeroplay.de/#
 address=/zetko-waren.com/#
 address=/zetko-waren.de/#
 address=/zettabag.com/#
+address=/app.zety.de/#
 address=/zetzethaustechnik.de/#
 address=/zeynoa.de/#
 address=/zf-blog.de/#
