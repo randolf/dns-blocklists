@@ -365,7 +365,6 @@ https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://www.usom.gov.tr/url-list.txt
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
