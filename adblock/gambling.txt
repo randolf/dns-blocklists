@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 21 Jan 2024 06:07 UTC
-! Version: 2024.0121.0607.08
+! Last modified: 21 Jan 2024 23:10 UTC
+! Version: 2024.0121.2310.10
 ! Syntax: AdBlock
-! Number of entries: 153761
+! Number of entries: 153803
 !
 ||000000.com^
 ||000000hd.com^
@@ -100617,6 +100617,10 @@
 ||dt298.com^
 ||dt424.com^
 ||dt49.com^
+||dt5255.com^
+||dt5265.com^
+||dt5285.com^
+||dt5288.com^
 ||dt56.com^
 ||dt585.com^
 ||dt656.com^
@@ -100949,6 +100953,7 @@
 ||e2337.com^
 ||e25gz.com^
 ||e2788.com^
+||e2885.com^
 ||e2t2s.com^
 ||e30019.com^
 ||e32lkjw4kjr9cksf98sm4wf3s.com^
@@ -101620,6 +101625,7 @@
 ||eee9416.com^
 ||eeedwe.xyz^
 ||eeee5454.com^
+||eeey.one^
 ||eemadalhx.com^
 ||eemwew.xyz^
 ||eeos.vip^
@@ -102159,6 +102165,7 @@
 ||f148.com^
 ||f1496688.com^
 ||f151f.com^
+||f1586f.com^
 ||f16.site^
 ||f1677.com^
 ||f16888.vip^
@@ -103306,6 +103313,8 @@
 ||fgbjlsfkdgngkjdnvzxmfbamnfbasds.com^
 ||fgfox.com^
 ||fgh7.com^
+||fgjtfhthtrhtrh--aegrsrsr.com^
+||fgjtfhthtrhtrh--dtgrsg.com^
 ||fgkxvngkjdsgnasjvnmdsnfabfgnsafs.com^
 ||fgmoq.win^
 ||fgrma.win^
@@ -107156,6 +107165,7 @@
 ||gvntj.com^
 ||gvprv.com^
 ||gvxcl.xyz^
+||gvyc5.com^
 ||gw132b8x8.com^
 ||gw2kv.xyz^
 ||gwbet.com^
@@ -107844,6 +107854,7 @@
 ||h6245.com^
 ||h6249.com^
 ||h6254.com^
+||h625h.com^
 ||h6313.com^
 ||h6345.com^
 ||h6417.com^
@@ -108086,6 +108097,7 @@
 ||h9601.com^
 ||h9608.com^
 ||h9619.com^
+||h961a.com^
 ||h9624.com^
 ||h9627.com^
 ||h9636.com^
@@ -108552,6 +108564,9 @@
 ||hddxcd2j.xyz^
 ||hde8j.com^
 ||hderv.com^
+||hdgbh1.com^
+||hdgbh3.com^
+||hdgbh8.com^
 ||hdkhdd.xyz^
 ||hdndq.win^
 ||hdsyd.xyz^
@@ -109585,6 +109600,7 @@
 ||hhvip69.com^
 ||hhvip70.com^
 ||hhvip75.com^
+||hhx26.com^
 ||hhy900.com^
 ||hi77.com^
 ||hi88.top^
@@ -109927,6 +109943,7 @@
 ||hjc9191.com^
 ||hjc923.com^
 ||hjcp20.com^
+||hjcp211.com^
 ||hjcp32.com^
 ||hjcp35.com^
 ||hjcp41.com^
@@ -110347,6 +110364,7 @@
 ||hsx82.com^
 ||hsx976.com^
 ||hsx98.com^
+||ht1711.com^
 ||ht2337.com^
 ||ht2338.com^
 ||ht2339.com^
@@ -110935,8 +110953,23 @@
 ||hy875.com^
 ||hy8768.com^
 ||hy8785.com^
+||hy99666.com^
+||hy99667.com^
+||hy99682.com^
+||hy99683.com^
+||hy99684.com^
+||hy99685.com^
+||hy99686.com^
+||hy99688.com^
+||hy99689.com^
+||hy99690.com^
 ||hy99691.com^
+||hy99694.com^
 ||hy99695.com^
+||hy99696.com^
+||hy99697.com^
+||hy99698.com^
+||hy99699.com^
 ||hybet.com^
 ||hybet.net^
 ||hybrand.live^
@@ -111680,6 +111713,7 @@
 ||indo138.org^
 ||indobola338ku.com^
 ||indobola77.casa^
+||indomoneytalk.com^
 ||indosbo.co^
 ||indosbobet.com^
 ||indosbotop.com^
@@ -112269,6 +112303,7 @@
 ||j1498.com^
 ||j1534.com^
 ||j1542.com^
+||j157a.com^
 ||j1614.com^
 ||j1641.com^
 ||j1644.com^
@@ -115298,6 +115333,10 @@
 ||jsylc8.net^
 ||jsylc9.net^
 ||jsymgc.com^
+||jt-28.com^
+||jt28.vip^
+||jt2811.com^
+||jt2822.com^
 ||jt2833.com^
 ||jt2855.com^
 ||jt5us.com^
@@ -119807,6 +119846,7 @@
 ||kosmonautcasino2.com^
 ||kou4yx4fu.com^
 ||kougrgre2523.com^
+||kouyunli.com^
 ||kp2023.com^
 ||kp32k.com^
 ||kp5r2.com^
@@ -121743,6 +121783,7 @@
 ||love88angel.com^
 ||love89.net^
 ||loveball88.com^
+||lovecxasfasagt656877.top^
 ||lovefun12.com^
 ||lovefun22.com^
 ||lovefun32.com^
@@ -122978,6 +123019,7 @@
 ||markas168.org^
 ||markas388.org^
 ||markjarvisbet.com^
+||marlasvegas.com^
 ||maroonwater238.com^
 ||marparty.xyz^
 ||marsbetter.com^
