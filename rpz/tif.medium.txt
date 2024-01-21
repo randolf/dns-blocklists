@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705707840 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705794120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - medium version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jan 2024 23:44 UTC
-; Version: 2024.0119.2344.04
+; Last modified: 20 Jan 2024 23:42 UTC
+; Version: 2024.0120.2342.58
 ; Syntax: RPZ
-; Number of entries: 13242
+; Number of entries: 13250
 ;
 annihilate.ac CNAME .
 *.annihilate.ac CNAME .
@@ -87,12 +87,18 @@ bluelemon.ao CNAME .
 *.bluelemon.ao CNAME .
 fornudkaza.ao CNAME .
 *.fornudkaza.ao CNAME .
+coyn.app CNAME .
+*.coyn.app CNAME .
 doodlesz.app CNAME .
 *.doodlesz.app CNAME .
 alive-chipmunk-precisely.ngrok-free.app CNAME .
 *.alive-chipmunk-precisely.ngrok-free.app CNAME .
+humbly-clean-unicorn.ngrok-free.app CNAME .
+*.humbly-clean-unicorn.ngrok-free.app CNAME .
 skilled-stingray-gladly.ngrok-free.app CNAME .
 *.skilled-stingray-gladly.ngrok-free.app CNAME .
+supreme-eminently-lionfish.ngrok-free.app CNAME .
+*.supreme-eminently-lionfish.ngrok-free.app CNAME .
 pantiwilasa.app CNAME .
 *.pantiwilasa.app CNAME .
 powerpal.app CNAME .
@@ -287,6 +293,8 @@ sapid.net.au CNAME .
 *.sapid.net.au CNAME .
 tcaservices.net.au CNAME .
 *.tcaservices.net.au CNAME .
+visionchallenge.org.au CNAME .
+*.visionchallenge.org.au CNAME .
 trezona.au CNAME .
 *.trezona.au CNAME .
 arxeologiya.az CNAME .
@@ -617,6 +625,8 @@ ligadoaraguaia.com.br CNAME .
 *.ligadoaraguaia.com.br CNAME .
 ligavalinhensefutsal.com.br CNAME .
 *.ligavalinhensefutsal.com.br CNAME .
+emailmarketing.locaweb.com.br CNAME .
+*.emailmarketing.locaweb.com.br CNAME .
 luicomercial.com.br CNAME .
 *.luicomercial.com.br CNAME .
 luterlab.com.br CNAME .
@@ -1039,6 +1049,8 @@ lostheaven.com.cn CNAME .
 *.lostheaven.com.cn CNAME .
 static.cz01.cn CNAME .
 *.static.cz01.cn CNAME .
+dnslog.cn CNAME .
+*.dnslog.cn CNAME .
 download.doumaibiji.cn CNAME .
 *.download.doumaibiji.cn CNAME .
 yp.hnggzyjy.cn CNAME .
@@ -1217,8 +1229,6 @@ tintin.coffee CNAME .
 *.tintin.coffee CNAME .
 deviltelegram.000webhostapp.com CNAME .
 *.deviltelegram.000webhostapp.com CNAME .
-1717.1000uc.com CNAME .
-*.1717.1000uc.com CNAME .
 soft.110route.com CNAME .
 *.soft.110route.com CNAME .
 dl.198424.com CNAME .
@@ -1239,8 +1249,6 @@ wzswbw.dm.files.1drv.com CNAME .
 *.24lottospromo.com CNAME .
 25clouds.com CNAME .
 *.25clouds.com CNAME .
-33rdderryscouts.com CNAME .
-*.33rdderryscouts.com CNAME .
 360coffeemaker.com CNAME .
 *.360coffeemaker.com CNAME .
 softdl.360tpcdn.com CNAME .
@@ -1263,8 +1271,6 @@ api.52kkg.com CNAME .
 *.api.52kkg.com CNAME .
 542199235l.com CNAME .
 *.542199235l.com CNAME .
-dl.1003b.56a.com CNAME .
-*.dl.1003b.56a.com CNAME .
 58dukkan.com CNAME .
 *.58dukkan.com CNAME .
 70northair.com CNAME .
@@ -4157,8 +4163,6 @@ maxcounsellingservices.com CNAME .
 *.maxcounsellingservices.com CNAME .
 maxmoney.com CNAME .
 *.maxmoney.com CNAME .
-maxximbrasil.com CNAME .
-*.maxximbrasil.com CNAME .
 mayesuperior.com CNAME .
 *.mayesuperior.com CNAME .
 mayraf.com CNAME .
@@ -4939,8 +4943,6 @@ quiikly.com CNAME .
 *.quiikly.com CNAME .
 quintacamelot.com CNAME .
 *.quintacamelot.com CNAME .
-quizbn.com CNAME .
-*.quizbn.com CNAME .
 quolocations.com CNAME .
 *.quolocations.com CNAME .
 quraninsoul.com CNAME .
@@ -5381,6 +5383,8 @@ skomad.com CNAME .
 *.skomad.com CNAME .
 skybeeglobal.com CNAME .
 *.skybeeglobal.com CNAME .
+skybornsaga.com CNAME .
+*.skybornsaga.com CNAME .
 download.skycn.com CNAME .
 *.download.skycn.com CNAME .
 skylinemetrics.com CNAME .
@@ -5447,6 +5451,8 @@ souq-alshashat.com CNAME .
 *.souq-alshashat.com CNAME .
 souqaleasr.com CNAME .
 *.souqaleasr.com CNAME .
+southpawflo.com CNAME .
+*.southpawflo.com CNAME .
 soyparaiso.com CNAME .
 *.soyparaiso.com CNAME .
 soypatricioespinoza.com CNAME .
@@ -5931,8 +5937,6 @@ underlogo.com CNAME .
 *.underlogo.com CNAME .
 unicomg.com CNAME .
 *.unicomg.com CNAME .
-unicorpbrunei.com CNAME .
-*.unicorpbrunei.com CNAME .
 uniformescorporativos.com CNAME .
 *.uniformescorporativos.com CNAME .
 test.uniformmarkets.com CNAME .
@@ -6127,6 +6131,8 @@ wajihaattique.com CNAME .
 *.wajihaattique.com CNAME .
 waldorfenergy.com CNAME .
 *.waldorfenergy.com CNAME .
+walkinglate.com CNAME .
+*.walkinglate.com CNAME .
 wallysgarageandtowing.com CNAME .
 *.wallysgarageandtowing.com CNAME .
 waresachemicals.com CNAME .
@@ -6339,6 +6345,8 @@ instantviral.de CNAME .
 *.instantviral.de CNAME .
 lacomunion.de CNAME .
 *.lacomunion.de CNAME .
+lindnerelektroanlagen.de CNAME .
+*.lindnerelektroanlagen.de CNAME .
 losdatos.de CNAME .
 *.losdatos.de CNAME .
 rechtsanwalt-wucherpfennig.de CNAME .
@@ -6759,8 +6767,6 @@ friendstivity.id CNAME .
 *.friendstivity.id CNAME .
 pa-sampit.go.id CNAME .
 *.pa-sampit.go.id CNAME .
-pn-raha.go.id CNAME .
-*.pn-raha.go.id CNAME .
 pt-bali.go.id CNAME .
 *.pt-bali.go.id CNAME .
 smpn41.semarangkota.go.id CNAME .
@@ -7381,8 +7387,6 @@ webamadeh.ir CNAME .
 *.webamadeh.ir CNAME .
 toss.is CNAME .
 *.toss.is CNAME .
-1ecosolution.it CNAME .
-*.1ecosolution.it CNAME .
 blueseapalinuro.it CNAME .
 *.blueseapalinuro.it CNAME .
 borgomaira.it CNAME .
@@ -8301,6 +8305,8 @@ gsmcwuyr.page.link CNAME .
 *.gsmcwuyr.page.link CNAME .
 gsrwhyus.page.link CNAME .
 *.gsrwhyus.page.link CNAME .
+gsslofxh.page.link CNAME .
+*.gsslofxh.page.link CNAME .
 guldtmzc.page.link CNAME .
 *.guldtmzc.page.link CNAME .
 guonagln.page.link CNAME .
@@ -12005,8 +12011,6 @@ safetygear.pk CNAME .
 *.safetygear.pk CNAME .
 sayaq.pk CNAME .
 *.sayaq.pk CNAME .
-scientific.pk CNAME .
-*.scientific.pk CNAME .
 shaffaf.pk CNAME .
 *.shaffaf.pk CNAME .
 shahab.pk CNAME .
@@ -12295,6 +12299,8 @@ downloads.media-talk.ru CNAME .
 *.downloads.media-talk.ru CNAME .
 myjino.ru CNAME .
 *.myjino.ru CNAME .
+saf-oil.ru CNAME .
+*.saf-oil.ru CNAME .
 saukpgp.ru CNAME .
 *.saukpgp.ru CNAME .
 sibcomputer.ru CNAME .
@@ -12585,6 +12591,8 @@ jaimemcgee.top CNAME .
 *.jaimemcgee.top CNAME .
 jesuscolin.top CNAME .
 *.jesuscolin.top CNAME .
+tan.kalnet.top CNAME .
+*.tan.kalnet.top CNAME .
 robertcook.top CNAME .
 *.robertcook.top CNAME .
 sagheur.top CNAME .
@@ -12767,6 +12775,8 @@ urafc.co.ug CNAME .
 *.urafc.co.ug CNAME .
 lastimaners.ug CNAME .
 *.lastimaners.ug CNAME .
+marksidfgs.ug CNAME .
+*.marksidfgs.ug CNAME .
 opesjk.ug CNAME .
 *.opesjk.ug CNAME .
 1et.uk CNAME .
@@ -13099,8 +13109,6 @@ paingta.xyz CNAME .
 *.paingta.xyz CNAME .
 parves.xyz CNAME .
 *.parves.xyz CNAME .
-paste-bin.xyz CNAME .
-*.paste-bin.xyz CNAME .
 projectdemo.xyz CNAME .
 *.projectdemo.xyz CNAME .
 dd.qngxgw.xyz CNAME .
