@@ -28,6 +28,7 @@
 *.ad.dyntracker.de
 *.adfoc.us
 *.adj.st
+*.admarkt.kleinanzeigen.de
 *.adorama.rfvk.net
 *.adservice.google.*
 *.adzerk.com

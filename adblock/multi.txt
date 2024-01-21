@@ -70431,7 +70431,6 @@
 ||icare-handel.com^
 ||sc.icarly.com^
 ||fast.icars.cc^
-||ka.images.icas.io^
 ||icasinos.es^
 ||track.ra.icast.cn^
 ||analytics.supracms.icbtech.net^

@@ -68191,8 +68191,6 @@ analytics.hypeinnovation.io CNAME .
 *.analytics.hypeinnovation.io CNAME .
 geoinfo.i2w.io CNAME .
 *.geoinfo.i2w.io CNAME .
-ka.images.icas.io CNAME .
-*.ka.images.icas.io CNAME .
 idealmedia.io CNAME .
 *.idealmedia.io CNAME .
 igaming-service.io CNAME .

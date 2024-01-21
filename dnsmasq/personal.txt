@@ -21578,7 +21578,6 @@ address=/ic-live.com/#
 address=/analytics.ica.se/#
 address=/web-analytics.ica.se/#
 address=/icalnormaticalacyc.info/#
-address=/ka.images.icas.io/#
 address=/metric.iccu.com/#
 address=/icdns.net/#
 address=/ice-casino-online.com/#

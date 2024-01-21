@@ -21578,7 +21578,6 @@
 ||analytics.ica.se^
 ||web-analytics.ica.se^
 ||icalnormaticalacyc.info^
-||ka.images.icas.io^
 ||metric.iccu.com^
 ||icdns.net^
 ||ice-casino-online.com^
