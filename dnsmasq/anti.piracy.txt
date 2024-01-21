@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 20 Jan 2024 23:06 UTC
-# Version: 2024.0120.2306.00
+# Last modified: 21 Jan 2024 23:07 UTC
+# Version: 2024.0121.2307.27
 # Syntax: DNSMasq
-# Number of entries: 10645
+# Number of entries: 10653
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -3058,6 +3058,7 @@ address=/ebooks-gratuit.com/#
 address=/ebookshare.net/#
 address=/ebooksshares.org/#
 address=/ebookvortex.com/#
+address=/ebookvortex.net/#
 address=/ebox.live/#
 address=/economyofsound.com/#
 address=/ectlink.com/#
@@ -3671,6 +3672,7 @@ address=/filmpertutti.co/#
 address=/filmpertutti.com/#
 address=/filmpertutti.cool/#
 address=/filmpertutti.cyou/#
+address=/filmpertutti.dance/#
 address=/filmpertutti.day/#
 address=/filmpertutti.de/#
 address=/filmpertutti.digital/#
@@ -3697,6 +3699,7 @@ address=/filmpertutti.live/#
 address=/filmpertutti.loan/#
 address=/filmpertutti.lol/#
 address=/filmpertutti.love/#
+address=/filmpertutti.media/#
 address=/filmpertutti.mobi/#
 address=/filmpertutti.mom/#
 address=/filmpertutti.music/#
@@ -3706,6 +3709,7 @@ address=/filmpertutti.ooo/#
 address=/filmpertutti.org/#
 address=/filmpertutti.ph/#
 address=/filmpertutti.pics/#
+address=/filmpertutti.pub/#
 address=/filmpertutti.pw/#
 address=/filmpertutti.report/#
 address=/filmpertutti.rest/#
@@ -4556,6 +4560,7 @@ address=/guardaserie.online/#
 address=/guardaserie.org/#
 address=/guardaserie.page/#
 address=/guardaserie.parts/#
+address=/guardaserie.pink/#
 address=/guardaserie.pizza/#
 address=/guardaserie.place/#
 address=/guardaserie.plus/#
@@ -5214,6 +5219,7 @@ address=/italia-film.cc/#
 address=/italia-film.click/#
 address=/italia-film.co/#
 address=/italia-film.com/#
+address=/italia-film.de/#
 address=/italia-film.eu/#
 address=/italia-film.fm/#
 address=/italia-film.fun/#
@@ -5245,6 +5251,7 @@ address=/itcnbd.com/#
 address=/itera.bz/#
 address=/itmn.org/#
 address=/itnetzone.com/#
+address=/itoma.info/#
 address=/itorrent.io/#
 address=/itorrent.tv/#
 address=/itorrent.ws/#
@@ -6072,6 +6079,7 @@ address=/modok.ru/#
 address=/modovideo.com/#
 address=/modpure.tv/#
 address=/modradar.cc/#
+address=/mods4u.in/#
 address=/modsofapk.com/#
 address=/modyolo.com/#
 address=/moe4sale.in/#
