@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 21 Jan 2024 23:10 UTC
-# Version: 2024.0121.2310.10
+# Last modified: 22 Jan 2024 23:11 UTC
+# Version: 2024.0122.2311.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 153803
+# Number of entries: 153887
 #
 000000.com
 000000hd.com
@@ -85858,6 +85858,7 @@ allcasino.org
 allcasinorating.com
 allforexbonus.com
 allgames365.com
+allgemcasinos.com
 allhorseracing.ag
 allhyipmonitors.com
 alliageniccasino.xyz
@@ -91693,6 +91694,7 @@ betsound42.com
 betspawn.com
 betsport.it
 betsportskr.com
+betsquare.com
 betss69.com
 betss97.com
 betsson.com
@@ -96121,6 +96123,7 @@ canadacasinosonline.com
 canadasbookie.com
 canadian-casino-bonuses.com
 canadian-soccer.com
+canadiancasinos.ca
 canadiancasinosonline.ca
 canadiansportsbetting.ca
 canadscasinos.info
@@ -96217,8 +96220,10 @@ casino.casino
 casino.com
 casino.guru
 casino.help
+casino.info
 casino.net
 casino.org
+casino.zone
 casino-1-win.fun
 casino-1-win.pw
 casino-1-win.website
@@ -96262,6 +96267,7 @@ casino-navigator4.online
 casino-navigator6.online
 casino-on-line.com
 casino-on-net.com
+casino-online.com
 casino-online-bet.info
 casino-online-on-line.com
 casino-pariswin.com
@@ -96289,6 +96295,7 @@ casino-star.info
 casino-stavki.com
 casino-titanic.com
 casino-trade.com
+casino-uden-rofus.co
 casino-utan-konto.se
 casino-v.site
 casino-virtuelle.com
@@ -96329,6 +96336,7 @@ casino888vn.com
 casinoadrenaline.com
 casinoadviser.net
 casinoae888.com
+casinoaffiliateprograms.com
 casinoagents.com
 casinoalitalia.com
 casinoalley.xyz
@@ -96342,7 +96350,9 @@ casinoastral.com
 casinoastral.me
 casinoaustralia.com
 casinoaustralia-zh.org
+casinoaustraliaonline.com
 casinoavalanche.com
+casinobankingmethods.com
 casinobas.info
 casinobeats.com
 casinobeauty.com
@@ -96442,6 +96452,7 @@ casinofreak.com
 casinofredag.com
 casinofreebonus.com
 casinofreebonuses.info
+casinofy.com
 casinogambl.com
 casinogambleblog.com
 casinogambler.net
@@ -96473,11 +96484,13 @@ casinogurunl.com
 casinoguy.info
 casinogy.com
 casinoheroes.com
+casinohipster.com
 casinohits.info
 casinoholdem.info
 casinohunt.com
 casinoid.in
 casinoinc.com
+casinoinfinity.com
 casinoinform.info
 casinoinn.com
 casinointense.com
@@ -96499,12 +96512,14 @@ casinokakadu.com
 casinokats.com
 casinoki.com
 casinoking.com
+casinokix.com
 casinoklr.com
 casinoklub.ru
 casinokosmopole.com
 casinoku.net
 casinolager.com
 casinoland.com
+casinolandia.com
 casinolasvegas.com
 casinolasvegas.no
 casinolatinos.com
@@ -96594,6 +96609,7 @@ casinorankings.com
 casinorarities.com
 casinorates.online
 casinorealmoneyy.com
+casinoreports.ca
 casinorevolution.net
 casinorewards.com
 casinorex.com
@@ -96634,6 +96650,7 @@ casinosflash.com
 casinosforfun.com
 casinoshare.eu
 casinoshub.com
+casinoshunter.com
 casinosindian.com
 casinosingapore.online
 casinosinners.com
@@ -97849,6 +97866,7 @@ coinadder.com
 coinadster.com
 coinam.io
 coinbuzz.com
+coingambling.info
 coinhits.com
 coinlion.com
 coinntracking.info
@@ -97970,6 +97988,7 @@ topodds.com.au
 topsport.com.au
 unibet.com.au
 chatter.uol.com.br
+vegasexpert.com.ua
 xcasino.com.ph
 zebrabet.com.au
 zonadeazar.com.ar
@@ -98458,6 +98477,7 @@ cryptofans.news
 cryptofans.ru
 cryptofiveo.com
 cryptogamble.tips
+cryptogambling.com
 cryptogazette.com
 cryptomagic.ru
 cryptomining-blog.com
@@ -99310,6 +99330,7 @@ danko58.com
 danko77.bet
 danko77.vip
 danludangambler.com
+dansk.casino
 danskespil.dk
 dantoto.dk
 daocao.vip
@@ -99765,6 +99786,7 @@ denisecoatesfoundation.com
 depeslot.net
 depfile.us
 deportesenlaboulaye.com
+deposit-withdraw.com
 depositbetplace88.com
 depositphp.com
 derevya2sh8ka09.com
@@ -101982,6 +102004,7 @@ euroslots.com
 eurosportbet.fr
 eurovision.bet
 eurovore.com
+euslot.com
 euy63.org
 euyyd.win
 ev3fn.com
@@ -101994,6 +102017,7 @@ eveppv.xyz
 everestpoker.com
 everestpoker.fr
 everestpoker.net
+everycasinobonus.com
 everygame.eu
 everygame247.com
 everymatrix.com
@@ -102006,6 +102030,7 @@ evexrp.xyz
 evnakliyat.com
 evobet.com
 evolvecasino2.com
+evospin.com
 evouhs.com
 ew21t.com
 ew7766.com
@@ -102794,6 +102819,7 @@ fan8818.com
 fan88bt.com
 fan890.com
 fanballth.com
+fancasinos.com
 fancode.com
 fancyto.xyz
 fanday.net
@@ -104026,6 +104052,7 @@ freeslotgames.com
 freeslotscentral.com
 freeslotshub.com
 freespins-casino.top
+freespinx.com
 fresh.casino
 fresh-casino-m.top
 fresh-casino-m-mz.com
@@ -105523,6 +105550,7 @@ gambledaway.com
 gambledesign.com
 gambledude.com
 gambleglimpse.com
+gambleguys.com
 gamblehouse.org
 gambleinsights.com
 gambleinthesun.com
@@ -105572,6 +105600,7 @@ gamblersvardag.se
 gamblersworld.com
 gamblerszoo.com
 gamblertt.com
+gamblerush.com
 gamblesex.com
 gamblesite.com
 gambleslotsonline.com
@@ -105596,6 +105625,7 @@ gambling-strategy.net
 gambling-trade.com
 gambling-tutorial.com
 gambling4you.org
+gamblingaffiliatevoice.com
 gamblingbuilder.com
 gamblingcentral.info
 gamblingcity.net
@@ -105773,6 +105803,7 @@ gamingclubcasino.com
 gamingdf.com
 gaminginternational.online
 gamingmedia.ru
+gamingnewsroom.com
 gamingqq.net
 gamingsafely.com
 gamingslots.xyz
@@ -106834,6 +106865,7 @@ goroyalvegascasino.com
 gosloto.app
 gosloto.ru
 gospin.xyz
+gospincasino.com
 gossipbingo.com
 gostergec.org
 gotcasino77.com
@@ -107127,6 +107159,7 @@ guide-blackjack.com
 guide-casino.com
 guide2poker.com
 guide4blackjack.com
+guidetogamblingonline.com
 guidetoonlinecasinogambling.com
 guildgo.xyz
 guiren88.vip
@@ -107139,6 +107172,7 @@ gunapex.xyz
 gunbliss.xyz
 gunnersgaming.com
 gunqiu520.com
+gunsbet.co
 gunsbet.com
 gunsbet35.com
 gunung123.com
@@ -110147,6 +110181,7 @@ hopepit.xyz
 hopray.xyz
 horey4d.net
 horuscasino.com
+hostingrain.com
 hostjan.xyz
 hot118.com
 hot51.com
@@ -111727,6 +111762,7 @@ infini8.bet
 infini8.online
 infini8ph.net
 infinitybet.com
+infinityslots.com
 infobasketseru.com
 infobetting.com
 infobookies.com
@@ -120904,6 +120940,7 @@ lc8zt.com
 lc9258.com
 lc99.club
 lc99.fun
+lcb.org
 lch28.com
 lchvn.com
 lclz.live
@@ -121366,6 +121403,7 @@ lisboanavigation.com
 lisboaslots.com
 lishcom.xyz
 lispice.xyz
+list.casino
 listen288.com
 listnhacai.com
 litap88.com
@@ -123717,6 +123755,7 @@ meja13pokerv.org
 meja13slot.art
 meja13slot.xyz
 meja13vip.link
+mejorescriptocasinos.com
 mekinglove.com
 mel-bet.com
 mel-bet.mobi
@@ -126050,11 +126089,16 @@ nemo.vin
 nemo88.com
 nen77.com
 nengslot.biz
+neo-spincasino.com
 neoczy.xyz
 neogames.com
 neojbo.com
 neonslots.com
 neopoker.fr
+neospin.app
+neospin.com
+neospin66.com
+neospincasino.com
 neoyuer.xyz
 nerdysport.com
 nesine.com
@@ -126119,6 +126163,7 @@ new88cop.com
 newbankroll.bet
 newbook88.com
 newbuildband.com
+newcasinonodeposit.com
 newcasinorank.in
 newcasinos.ie
 newcasinos.nz
@@ -126533,6 +126578,7 @@ nobuslot.net
 nodeposit.org
 nodeposit-casinos.com
 nodepositcasino.net
+nodepositcasino.org
 nodepositonlinecasinos.net
 nogamble-nolife.com
 nogp.net
@@ -127504,6 +127550,7 @@ onexcasino.com
 onextwo.com
 onkpoker.nl
 onlicasinoaussi24.com
+online.casino
 online-casino.in
 online-casino-001.com
 online-casino-1win.cfd
@@ -127556,6 +127603,7 @@ onlinecasino-ph.com
 onlinecasino4u.com
 onlinecasino68.com
 onlinecasinobonus.dk
+onlinecasinobuddy.com
 onlinecasinocanada5.com
 onlinecasinoclub.com
 onlinecasinodollar.com
@@ -127565,6 +127613,7 @@ onlinecasinogg.com
 onlinecasinogids.com
 onlinecasinogoldenpalace.com
 onlinecasinoground.nl
+onlinecasinogroups.com
 onlinecasinohex.ph
 onlinecasinoinfo.eu
 onlinecasinonederland.nl
@@ -127608,6 +127657,7 @@ onlinetopplaycasino.com
 onlinetopslotcasino.com
 onlinevegas.com
 onlinewedden24.com
+onluck.com
 only188.net
 onlywinners.com
 onnnyn.xyz
@@ -129846,6 +129896,7 @@ pj77vip8.com
 pj798app.com
 pj79c.com
 pj79f.com
+pj7d6.com
 pj7td.tech
 pj8-2338.com
 pj81a.com
@@ -129855,6 +129906,7 @@ pj85r.com
 pj863t.com
 pj87124.com
 pj876a.com
+pj879h.com
 pj88119.com
 pj8813.com
 pj8814.com
@@ -129865,6 +129917,7 @@ pj8855.com
 pj888.xyz
 pj88qe.com
 pj88xapp.com
+pj8t3.com
 pj9006.com
 pj938.net
 pj95.com
@@ -129890,6 +129943,7 @@ pjpjapp.com
 pjt855.com
 pjtmyh.com
 pju365a.com
+pju88.com
 pjx699.com
 pjx968.com
 pk2138.com
@@ -132462,6 +132516,7 @@ rajawin777.asia
 rajbet.com
 rajbets.com
 rakebacksafe.com
+rakoocasino.com
 raksasaslot.com
 rakz3h.top
 ralive.net
@@ -132701,6 +132756,7 @@ realcasinosonline.com
 realdealbet.com
 realdept.xyz
 realer.info
+realmoneyaction.com
 realmoneycasinos.org
 realonlineblackjack.com
 realsou.xyz
@@ -133239,6 +133295,7 @@ roketbet101.com
 roketbet102.com
 roketbet103.com
 roketbet107.com
+rokubet.com
 rolla.com
 rollbit.com
 rolletto.com
@@ -133420,6 +133477,7 @@ ruleta77argentina.com
 rumaxbet.ru
 rummy24.com
 runaces.com
+runposters.com
 ruoudo.com
 ruounau.com
 ruounau88.com
@@ -133993,6 +134051,7 @@ s999365.com
 s9996.com
 s9997.com
 s99975.com
+s99977.com
 s99997.com
 s999b.com
 s999c.com
@@ -135356,6 +135415,7 @@ slotceri77.com
 slotcrazy.com
 slotdafa.com
 slotddg.com
+slotdepopulsa.net
 slotdolar77.com
 slotdolar777.com
 slotdolar88.com
@@ -135552,6 +135612,7 @@ slotsgopay.com
 slotsheaven.com
 slotshopee.net
 slotsjackpot.asia
+slotsjudge.com
 slotsmagic.com
 slotsmaven.com
 slotsmaxbet.ru
@@ -135622,6 +135683,7 @@ smartbway.com
 smartcatn.com
 smarthotstock.com
 smartplay77.live
+smartpokies.com
 smarttradecoin.com
 smashsportsbetting.com
 smd26.vip
@@ -135792,9 +135854,11 @@ speedybet.com
 spela.com
 spelpunt.nl
 spgslots.com
+spicycasinos.com
 spieleblackjack.de
 spigo.it
 spilblackjack.com
+spiludenomrofus.casino
 spin247.com
 spin2spin.com
 spin4play.com
@@ -135802,6 +135866,11 @@ spin77.asia
 spinago.com
 spinbertuah.com
 spincasino.com
+spinch.casino
+spinch1.com
+spinch2.com
+spinch3.com
+spinch4.com
 spindipity.com
 spingalaxy.com
 spinia.com
@@ -136029,6 +136098,17 @@ ss9448.com
 ss997.com
 ssbet07.com
 ssbet08.com
+ssbet31.com
+ssbet32.com
+ssbet33.com
+ssbet34.com
+ssbet35.com
+ssbet36.com
+ssbet37.com
+ssbet38.com
+ssbet39.com
+ssbet40.com
+ssbetpay4.com
 ssd56a.com
 ssd900.com
 ssf33.com
@@ -137751,6 +137831,7 @@ tb8221.com
 tb8227.com
 tb8848.com
 tb9001vip.com
+tbab395.com
 tbab535.com
 tbab595.com
 tbab679.com
@@ -138286,6 +138367,7 @@ the52co.com
 theasiangambler.com
 thebescasino.com
 thebestbinaryoptionsbrokers.net
+thebet.info
 thebetarena.com
 thebetting.net
 thebitcoincode.com
@@ -139138,6 +139220,7 @@ trendbet532.com
 trendbet533.com
 trendbet534.com
 trendbet535.com
+trendingsportstoday.com
 trexbingo.com
 trhed.com
 tribe77.com
@@ -141844,6 +141927,7 @@ vega19.com
 vega79.com
 vegabet.net
 vegas.hu
+vegas-expert.com
 vegas11.biz
 vegas11.live
 vegas388slot.com
