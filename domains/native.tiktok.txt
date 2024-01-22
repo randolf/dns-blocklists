@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Jan 2024 23:16 UTC
-# Version: 2024.0115.2316.38
+# Last modified: 22 Jan 2024 23:21 UTC
+# Version: 2024.0122.2321.46
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 239
+# Number of entries: 240
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -162,6 +162,7 @@ log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
 mcs-sg.tiktokv.com
 mcs-va.tiktokv.com
+ipv4-c100-ord001-dev-ix.mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
 mon-i18n.tiktokv.com
