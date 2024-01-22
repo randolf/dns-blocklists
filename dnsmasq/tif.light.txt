@@ -162,7 +162,6 @@ address=/justplay.asia/#
 address=/tan.kalnet.top/#
 address=/kalp-s.com/#
 address=/karer.by/#
-address=/free.keep.sh/#
 address=/kevinley.com/#
 address=/kimyen.net/#
 address=/klotheeenlogin.com/#

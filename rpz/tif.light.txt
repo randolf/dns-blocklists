@@ -481,8 +481,6 @@ spices.com.sg CNAME .
 *.spices.com.sg CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
-free.keep.sh CNAME .
-*.free.keep.sh CNAME .
 test-hf.su CNAME .
 *.test-hf.su CNAME .
 server.easysalepage.in.th CNAME .

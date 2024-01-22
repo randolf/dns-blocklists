@@ -92491,3 +92491,5 @@ telemetry.marketcircle.zone CNAME .
 *.telemetry.marketcircle.zone CNAME .
 propertybook.co.zw CNAME .
 *.propertybook.co.zw CNAME .
+analysis.gboxlab.com CNAME .
+*.analysis.gboxlab.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705878420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705934280 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Jan 2024 23:07 UTC
-; Version: 2024.0121.2307.27
+; Last modified: 22 Jan 2024 14:38 UTC
+; Version: 2024.0122.1438.08
 ; Syntax: RPZ
-; Number of entries: 21306
+; Number of entries: 21338
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -199,6 +199,8 @@ viprow.theproxy.app CNAME .
 *.viprow.theproxy.app CNAME .
 torrentkitty.app CNAME .
 *.torrentkitty.app CNAME .
+tweakhome.app CNAME .
+*.tweakhome.app CNAME .
 piracy.vercel.app CNAME .
 *.piracy.vercel.app CNAME .
 btarg.com.ar CNAME .
@@ -2805,6 +2807,8 @@ apkmodea.com CNAME .
 *.apkmodea.com CNAME .
 apkmody.com CNAME .
 *.apkmody.com CNAME .
+apkmolo.com CNAME .
+*.apkmolo.com CNAME .
 apkpure.com CNAME .
 *.apkpure.com CNAME .
 apksum.com CNAME .
@@ -3127,6 +3131,8 @@ blackcats-games.com CNAME .
 *.blackcats-games.com CNAME .
 blackhatprotools.com CNAME .
 *.blackhatprotools.com CNAME .
+blackmartappz.com CNAME .
+*.blackmartappz.com CNAME .
 bladimix.com CNAME .
 *.bladimix.com CNAME .
 blinkyou.com CNAME .
@@ -4675,6 +4681,8 @@ get-mu.com CNAME .
 *.get-mu.com CNAME .
 getintopc.com CNAME .
 *.getintopc.com CNAME .
+getjar.com CNAME .
+*.getjar.com CNAME .
 getkeepsafe.com CNAME .
 *.getkeepsafe.com CNAME .
 getpirate.com CNAME .
@@ -4733,6 +4741,8 @@ goldenshara.com CNAME .
 *.goldenshara.com CNAME .
 goloady.com CNAME .
 *.goloady.com CNAME .
+gomodapk.com CNAME .
+*.gomodapk.com CNAME .
 gomovies-online.com CNAME .
 *.gomovies-online.com CNAME .
 goodjobmedia.com CNAME .
@@ -4793,6 +4803,8 @@ hakwara.com CNAME .
 *.hakwara.com CNAME .
 hanjutv2020.com CNAME .
 *.hanjutv2020.com CNAME .
+happy-mod.com CNAME .
+*.happy-mod.com CNAME .
 happymod.com CNAME .
 *.happymod.com CNAME .
 hardstresser.com CNAME .
@@ -5091,6 +5103,8 @@ intrepidbd.com CNAME .
 *.intrepidbd.com CNAME .
 ionbooter.com CNAME .
 *.ionbooter.com CNAME .
+app.iosgods.com CNAME .
+*.app.iosgods.com CNAME .
 ioshaven.com CNAME .
 *.ioshaven.com CNAME .
 iosvizor.com CNAME .
@@ -5663,8 +5677,12 @@ moddroid.com CNAME .
 *.moddroid.com CNAME .
 moddude.com CNAME .
 *.moddude.com CNAME .
+modhihe.com CNAME .
+*.modhihe.com CNAME .
 modovideo.com CNAME .
 *.modovideo.com CNAME .
+mods-app.com CNAME .
+*.mods-app.com CNAME .
 modsofapk.com CNAME .
 *.modsofapk.com CNAME .
 modyolo.com CNAME .
@@ -7807,6 +7825,8 @@ tvtorrents.com CNAME .
 *.tvtorrents.com CNAME .
 tvzion.com CNAME .
 *.tvzion.com CNAME .
+tweakspy.com CNAME .
+*.tweakspy.com CNAME .
 twilightsporn.com CNAME .
 *.twilightsporn.com CNAME .
 u2torrents.com CNAME .
@@ -10783,6 +10803,8 @@ italia-film.io CNAME .
 *.italia-film.io CNAME .
 itorrent.io CNAME .
 *.itorrent.io CNAME .
+jojoy.io CNAME .
+*.jojoy.io CNAME .
 kinox.io CNAME .
 *.kinox.io CNAME .
 letsupload.io CNAME .
@@ -11885,6 +11907,8 @@ inboot.me CNAME .
 *.inboot.me CNAME .
 indoxx1film.me CNAME .
 *.indoxx1film.me CNAME .
+ipalibrary.me CNAME .
+*.ipalibrary.me CNAME .
 italia-film.me CNAME .
 *.italia-film.me CNAME .
 javtorrent.me CNAME .
@@ -14313,6 +14337,8 @@ turbobit.net CNAME .
 *.turbobit.net CNAME .
 tvron.net CNAME .
 *.tvron.net CNAME .
+tweakshub.net CNAME .
+*.tweakshub.net CNAME .
 two-movies.net CNAME .
 *.two-movies.net CNAME .
 uatracker.net CNAME .
@@ -15015,6 +15041,8 @@ filmsenzalimiti.ooo CNAME .
 *.7track.org CNAME .
 abcproxy.org CNAME .
 *.abcproxy.org CNAME .
+ac-market.org CNAME .
+*.ac-market.org CNAME .
 activationkeys.org CNAME .
 *.activationkeys.org CNAME .
 afdah.org CNAME .
@@ -15869,10 +15897,14 @@ mitorrent.org CNAME .
 *.mitorrent.org CNAME .
 mma-tracker.org CNAME .
 *.mma-tracker.org CNAME .
+mob.org CNAME .
+*.mob.org CNAME .
 mobilesites.org CNAME .
 *.mobilesites.org CNAME .
 mobilism.org CNAME .
 *.mobilism.org CNAME .
+modapp.org CNAME .
+*.modapp.org CNAME .
 mononoke-bt.org CNAME .
 *.mononoke-bt.org CNAME .
 movdl.org CNAME .

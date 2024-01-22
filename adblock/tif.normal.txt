@@ -9070,7 +9070,6 @@
 ||hermes-auto.pl^
 ||botfusion1-8f4913f37609.herokuapp.com^
 ||mis-correos-express-es.herokuapp.co^
-||link.heropost.io^
 ||coop-online.herospark.co^
 ||credlcoops.herospark.co^
 ||hexaxis.ru^
@@ -10088,7 +10087,6 @@
 ||kdom.ru^
 ||kedgingdemob.uno^
 ||keenanholding.com^
-||free.keep.sh^
 ||kek-technik.com^
 ||kela77.com^
 ||kellitour.com^

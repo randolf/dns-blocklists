@@ -4,3 +4,4 @@
 0.0.0.0 pixel.production-public.tubi.io
 0.0.0.0 pixel4.production-public.tubi.io
 0.0.0.0 ta.tokopedia.com
+0.0.0.0 analysis.gboxlab.com

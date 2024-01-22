@@ -42723,8 +42723,6 @@ jam-023d.gitlab.io CNAME .
 *.jam-023d.gitlab.io CNAME .
 glumotrustfinance.io CNAME .
 *.glumotrustfinance.io CNAME .
-link.heropost.io CNAME .
-*.link.heropost.io CNAME .
 d8a.infinitydata.io CNAME .
 *.d8a.infinitydata.io CNAME .
 inflatablez.io CNAME .
@@ -52005,8 +52003,6 @@ sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
 jio.sh CNAME .
 *.jio.sh CNAME .
-free.keep.sh CNAME .
-*.free.keep.sh CNAME .
 a0sreadn.surge.sh CNAME .
 *.a0sreadn.surge.sh CNAME .
 ads-noreply-user.surge.sh CNAME .

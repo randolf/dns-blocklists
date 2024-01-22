@@ -120537,8 +120537,6 @@ analytics.bka.sh CNAME .
 *.analytics.bka.sh CNAME .
 hits.sh CNAME .
 *.hits.sh CNAME .
-free.keep.sh CNAME .
-*.free.keep.sh CNAME .
 megapu.sh CNAME .
 *.megapu.sh CNAME .
 nim.sh CNAME .
@@ -131695,3 +131693,5 @@ telemetry.marketcircle.zone CNAME .
 *.telemetry.marketcircle.zone CNAME .
 propertybook.co.zw CNAME .
 *.propertybook.co.zw CNAME .
+analysis.gboxlab.com CNAME .
+*.analysis.gboxlab.com CNAME .

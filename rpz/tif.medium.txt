@@ -12331,8 +12331,6 @@ stellar-ai.sg CNAME .
 *.stellar-ai.sg CNAME .
 sos.vivi.sg CNAME .
 *.sos.vivi.sg CNAME .
-free.keep.sh CNAME .
-*.free.keep.sh CNAME .
 99belowcbd.shop CNAME .
 *.99belowcbd.shop CNAME .
 dapoermbae.shop CNAME .
