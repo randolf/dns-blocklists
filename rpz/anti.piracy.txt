@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705934280 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705964940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jan 2024 14:38 UTC
-; Version: 2024.0122.1438.08
+; Last modified: 22 Jan 2024 23:09 UTC
+; Version: 2024.0122.2309.04
 ; Syntax: RPZ
-; Number of entries: 21338
+; Number of entries: 21346
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1681,6 +1681,8 @@ guardaserie.chat CNAME .
 *.guardaserie.chat CNAME .
 altadefinizione.cheap CNAME .
 *.altadefinizione.cheap CNAME .
+streamingcommunity.cheap CNAME .
+*.streamingcommunity.cheap CNAME .
 altadefinizione.christmas CNAME .
 *.altadefinizione.christmas CNAME .
 123movies.church CNAME .
@@ -6753,6 +6755,8 @@ savebt.com CNAME .
 *.savebt.com CNAME .
 savefile.com CNAME .
 *.savefile.com CNAME .
+sbaofficial.com CNAME .
+*.sbaofficial.com CNAME .
 sbnetworkbd.com CNAME .
 *.sbnetworkbd.com CNAME .
 tracker.sbsub.com CNAME .
@@ -14821,6 +14825,8 @@ moviebuzz.one CNAME .
 *.moviebuzz.one CNAME .
 moviesjoy.one CNAME .
 *.moviesjoy.one CNAME .
+tracker.picotorrent.one CNAME .
+*.tracker.picotorrent.one CNAME .
 piratbaytpb.one CNAME .
 *.piratbaytpb.one CNAME .
 piratebay.one CNAME .
@@ -16967,6 +16973,8 @@ torrentleech.pl CNAME .
 *.torrentleech.pl CNAME .
 torrentyorg.pl CNAME .
 *.torrentyorg.pl CNAME .
+tv-zalukaj.pl CNAME .
+*.tv-zalukaj.pl CNAME .
 tylkohd.pl CNAME .
 *.tylkohd.pl CNAME .
 viptorrent.pl CNAME .
