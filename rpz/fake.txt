@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705966260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706052420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Jan 2024 23:31 UTC
-; Version: 2024.0122.2331.55
+; Last modified: 23 Jan 2024 23:27 UTC
+; Version: 2024.0123.2327.09
 ; Syntax: RPZ
-; Number of entries: 31008
+; Number of entries: 31022
 ;
 altra.ae CNAME .
 *.altra.ae CNAME .
@@ -21103,6 +21103,8 @@ zaful.com CNAME .
 *.zaful.com CNAME .
 zagose.com CNAME .
 *.zagose.com CNAME .
+zainabchemicals.com CNAME .
+*.zainabchemicals.com CNAME .
 zalandorio.com CNAME .
 *.zalandorio.com CNAME .
 zalvori.com CNAME .
@@ -21127,6 +21129,8 @@ zasamo.com CNAME .
 *.zasamo.com CNAME .
 zasnek.com CNAME .
 *.zasnek.com CNAME .
+zaurias.com CNAME .
+*.zaurias.com CNAME .
 zavettiireland.com CNAME .
 *.zavettiireland.com CNAME .
 zawmyohtut.com CNAME .
@@ -22197,6 +22201,8 @@ columbi.de CNAME .
 *.columbi.de CNAME .
 columbiashopdeutschland.de CNAME .
 *.columbiashopdeutschland.de CNAME .
+airjordan.com.de CNAME .
+*.airjordan.com.de CNAME .
 guterkauf.com.de CNAME .
 *.guterkauf.com.de CNAME .
 idealo.com.de CNAME .
@@ -27113,12 +27119,16 @@ zalieroo.de CNAME .
 *.zalieroo.de CNAME .
 zami-gbr.de CNAME .
 *.zami-gbr.de CNAME .
+zangenprince.de CNAME .
+*.zangenprince.de CNAME .
 zarana.de CNAME .
 *.zarana.de CNAME .
 zartefrau.de CNAME .
 *.zartefrau.de CNAME .
 zeegerstech.de CNAME .
 *.zeegerstech.de CNAME .
+zeitlosliebe.de CNAME .
+*.zeitlosliebe.de CNAME .
 zeleso.de CNAME .
 *.zeleso.de CNAME .
 zeroplay.de CNAME .
@@ -30229,8 +30239,12 @@ wolkeksunst.shop CNAME .
 *.wolkeksunst.shop CNAME .
 xios-store.shop CNAME .
 *.xios-store.shop CNAME .
+xwbrt.shop CNAME .
+*.xwbrt.shop CNAME .
 yaykids.shop CNAME .
 *.yaykids.shop CNAME .
+zhrtasarimf.shop CNAME .
+*.zhrtasarimf.shop CNAME .
 zschech.shop CNAME .
 *.zschech.shop CNAME .
 zukunftshelden.shop CNAME .
