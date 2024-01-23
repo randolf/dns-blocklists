@@ -1,14 +1,14 @@
 ### Statistics
 #### LIGHT
 ```
-219068 (87%) included | 9465 (4%) removed | 21980 (9%) dead
+221830 (88%) included | 8693 (3%) removed | 21983 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      90% |   5% |      5% |  137867 | Personal
-  2 |      68% |   8% |     24% |    4870 | Extracted Wildcard Rules
+  1 |      91% |   5% |      4% |  137867 | Personal
+  2 |      69% |   8% |     23% |    4870 | Extracted Wildcard Rules
   3 |      99% |   0% |      1% |     268 | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
-  5 |      62% |   0% |     38% |     344 | Native Tracker Amazon (Devices, Shopping, Video)
+  5 |      70% |   0% |     30% |     344 | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% |      58 | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     240 | Native Tracker TikTok (Fingerprinting)
