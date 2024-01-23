@@ -183,6 +183,7 @@
 (\.|^)events\.release\.narrativ\.com$
 (\.|^)evyy\.net$
 (\.|^)fr135\.net$
+(\.|^)gate\-ag\.first\-id\.fr$
 (\.|^)geo.*\.presslabs\.net$
 (\.|^)ggopjn\.com$
 (\.|^)glnk\.io$

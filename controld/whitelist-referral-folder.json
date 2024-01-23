@@ -470,14 +470,14 @@
       }
     },
     {
-      "PK": "link.digitaladvisor.dk",
+      "PK": "tracking.s24.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "tracking.s24.com",
+      "PK": "track.grove.co",
       "action": {
         "do": 1,
         "status": 1
@@ -1324,7 +1324,7 @@
       }
     },
     {
-      "PK": "track.grove.co",
+      "PK": "link.digitaladvisor.dk",
       "action": {
         "do": 1,
         "status": 1
@@ -2136,7 +2136,7 @@
       }
     },
     {
-      "PK": "ablink.email.etsy.com",
+      "PK": "t*.intelliad.de",
       "action": {
         "do": 1,
         "status": 1
@@ -2311,14 +2311,14 @@
       }
     },
     {
-      "PK": "t*.intelliad.de",
+      "PK": "engage.canva.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "engage.canva.com",
+      "PK": "ablink.email.etsy.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2584,28 +2584,21 @@
       }
     },
     {
-      "PK": "pntrac.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "api.bam-x.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "track.shoparize.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "track.productsup.io",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "atimaze.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "slickdeals.net",
       "action": {
         "do": 1,
         "status": 1
@@ -2626,14 +2619,21 @@
       }
     },
     {
-      "PK": "slickdeals.net",
+      "PK": "track.shoparize.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "atimaze.com",
+      "PK": "api.bam-x.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pntrac.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2683,6 +2683,13 @@
     },
     {
       "PK": "ww*.affinity.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gate-ag.first-id.fr",
       "action": {
         "do": 1,
         "status": 1
