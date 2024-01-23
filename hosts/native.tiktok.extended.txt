@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Jan 2024 23:23 UTC
-# Version: 2024.0122.2323.32
+# Last modified: 23 Jan 2024 23:18 UTC
+# Version: 2024.0123.2318.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 408
+# Number of entries: 421
 #
 0.0.0.0 docs-frontier-sg.byteoversea.com
 0.0.0.0 frontier.byteoversea.com
@@ -140,6 +140,8 @@
 0.0.0.0 dr.healthyworkplaceproject.analytics-edgecom.developer-sg.tiktok.com
 0.0.0.0 www1.dr.healthyworkplaceproject.analytics-edgecom.developer-sg.tiktok.com
 0.0.0.0 server3.www1.dr.healthyworkplaceproject.analytics-edgecom.developer-sg.tiktok.com
+0.0.0.0 frontier-creatormarketplace.tiktok.com
+0.0.0.0 frontier-test-creatormarketplace.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
@@ -154,18 +156,29 @@
 0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 mssdk-ttp2.us.tiktok.com
 0.0.0.0 lf-main-gecko-source.tiktokcdn.com
+0.0.0.0 lf15-geckocdn.tiktokcdn.com
+0.0.0.0 lf16-common-tos.tiktokcdn.com
 0.0.0.0 lf16-gecko-source.tiktokcdn.com
+0.0.0.0 lf16-gecko-source-sg.tiktokcdn.com
+0.0.0.0 lf16-gecko-source-va.tiktokcdn.com
 0.0.0.0 lf16-geckocdn-sg.tiktokcdn.com
 0.0.0.0 lf16-pitayacdn.tiktokcdn.com
 0.0.0.0 lf19-gecko-source.tiktokcdn.com
+0.0.0.0 lf19-gecko-source-sg.tiktokcdn.com
+0.0.0.0 lf19-gecko-source-va.tiktokcdn.com
 0.0.0.0 lf19-geckocdn-sg.tiktokcdn.com
 0.0.0.0 lf19-pitayacdn.tiktokcdn.com
 0.0.0.0 lf21-gecko-source.tiktokcdn.com
+0.0.0.0 lf21-geckocdn-sg.tiktokcdn.com
 0.0.0.0 lf77-gecko-source.tiktokcdn.com
+0.0.0.0 lf77-geckocdn.tiktokcdn.com
+0.0.0.0 lf9-common-tos.tiktokcdn.com
 0.0.0.0 lf9-geckocdn.tiktokcdn.com
 0.0.0.0 sf16-geckocdn.tiktokcdn.com
 0.0.0.0 sf16m-geckocdn.tiktokcdn.com
 0.0.0.0 sf19-geckocdn.tiktokcdn.com
+0.0.0.0 v16-common.tiktokcdn.com
+0.0.0.0 v19-web-common.tiktokcdn.com
 0.0.0.0 frontier.tiktokv.com
 0.0.0.0 frontier-i18n.tiktokv.com
 0.0.0.0 frontier-my.tiktokv.com

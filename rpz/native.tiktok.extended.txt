@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705965780 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706051880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jan 2024 23:23 UTC
-; Version: 2024.0122.2323.32
+; Last modified: 23 Jan 2024 23:18 UTC
+; Version: 2024.0123.2318.48
 ; Syntax: RPZ
-; Number of entries: 794
+; Number of entries: 820
 ;
 docs-frontier-sg.byteoversea.com CNAME .
 *.docs-frontier-sg.byteoversea.com CNAME .
@@ -255,6 +255,10 @@ eurekaanalytics-attribution.012gh.developer-sg.tiktok.com CNAME .
 *.eurekaanalytics-attribution.012gh.developer-sg.tiktok.com CNAME .
 analytics-edgecom.developer-sg.tiktok.com CNAME .
 *.analytics-edgecom.developer-sg.tiktok.com CNAME .
+frontier-creatormarketplace.tiktok.com CNAME .
+*.frontier-creatormarketplace.tiktok.com CNAME .
+frontier-test-creatormarketplace.tiktok.com CNAME .
+*.frontier-test-creatormarketplace.tiktok.com CNAME .
 mcs-i18n.tiktok.com CNAME .
 *.mcs-i18n.tiktok.com CNAME .
 mcs-sg.tiktok.com CNAME .
@@ -283,22 +287,40 @@ mssdk-ttp2.us.tiktok.com CNAME .
 *.mssdk-ttp2.us.tiktok.com CNAME .
 lf-main-gecko-source.tiktokcdn.com CNAME .
 *.lf-main-gecko-source.tiktokcdn.com CNAME .
+lf15-geckocdn.tiktokcdn.com CNAME .
+*.lf15-geckocdn.tiktokcdn.com CNAME .
+lf16-common-tos.tiktokcdn.com CNAME .
+*.lf16-common-tos.tiktokcdn.com CNAME .
 lf16-gecko-source.tiktokcdn.com CNAME .
 *.lf16-gecko-source.tiktokcdn.com CNAME .
+lf16-gecko-source-sg.tiktokcdn.com CNAME .
+*.lf16-gecko-source-sg.tiktokcdn.com CNAME .
+lf16-gecko-source-va.tiktokcdn.com CNAME .
+*.lf16-gecko-source-va.tiktokcdn.com CNAME .
 lf16-geckocdn-sg.tiktokcdn.com CNAME .
 *.lf16-geckocdn-sg.tiktokcdn.com CNAME .
 lf16-pitayacdn.tiktokcdn.com CNAME .
 *.lf16-pitayacdn.tiktokcdn.com CNAME .
 lf19-gecko-source.tiktokcdn.com CNAME .
 *.lf19-gecko-source.tiktokcdn.com CNAME .
+lf19-gecko-source-sg.tiktokcdn.com CNAME .
+*.lf19-gecko-source-sg.tiktokcdn.com CNAME .
+lf19-gecko-source-va.tiktokcdn.com CNAME .
+*.lf19-gecko-source-va.tiktokcdn.com CNAME .
 lf19-geckocdn-sg.tiktokcdn.com CNAME .
 *.lf19-geckocdn-sg.tiktokcdn.com CNAME .
 lf19-pitayacdn.tiktokcdn.com CNAME .
 *.lf19-pitayacdn.tiktokcdn.com CNAME .
 lf21-gecko-source.tiktokcdn.com CNAME .
 *.lf21-gecko-source.tiktokcdn.com CNAME .
+lf21-geckocdn-sg.tiktokcdn.com CNAME .
+*.lf21-geckocdn-sg.tiktokcdn.com CNAME .
 lf77-gecko-source.tiktokcdn.com CNAME .
 *.lf77-gecko-source.tiktokcdn.com CNAME .
+lf77-geckocdn.tiktokcdn.com CNAME .
+*.lf77-geckocdn.tiktokcdn.com CNAME .
+lf9-common-tos.tiktokcdn.com CNAME .
+*.lf9-common-tos.tiktokcdn.com CNAME .
 lf9-geckocdn.tiktokcdn.com CNAME .
 *.lf9-geckocdn.tiktokcdn.com CNAME .
 sf16-geckocdn.tiktokcdn.com CNAME .
@@ -307,6 +329,10 @@ sf16m-geckocdn.tiktokcdn.com CNAME .
 *.sf16m-geckocdn.tiktokcdn.com CNAME .
 sf19-geckocdn.tiktokcdn.com CNAME .
 *.sf19-geckocdn.tiktokcdn.com CNAME .
+v16-common.tiktokcdn.com CNAME .
+*.v16-common.tiktokcdn.com CNAME .
+v19-web-common.tiktokcdn.com CNAME .
+*.v19-web-common.tiktokcdn.com CNAME .
 frontier.tiktokv.com CNAME .
 *.frontier.tiktokv.com CNAME .
 frontier-i18n.tiktokv.com CNAME .

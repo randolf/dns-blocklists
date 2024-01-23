@@ -4,10 +4,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 22 Jan 2024 23:23 UTC
-! Version: 2024.0122.2323.32
+! Last modified: 23 Jan 2024 23:18 UTC
+! Version: 2024.0123.2318.48
 ! Syntax: AdBlock
-! Number of entries: 397
+! Number of entries: 410
 !
 ||docs-frontier-sg.byteoversea.com^
 ||frontier.byteoversea.com^
@@ -130,6 +130,8 @@
 ||business-api.tiktok.com^
 ||eurekaanalytics-attribution.012gh.developer-sg.tiktok.com^
 ||analytics-edgecom.developer-sg.tiktok.com^
+||frontier-creatormarketplace.tiktok.com^
+||frontier-test-creatormarketplace.tiktok.com^
 ||mcs-i18n.tiktok.com^
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktok.com^
@@ -144,18 +146,29 @@
 ||mssdk.us.tiktok.com^
 ||mssdk-ttp2.us.tiktok.com^
 ||lf-main-gecko-source.tiktokcdn.com^
+||lf15-geckocdn.tiktokcdn.com^
+||lf16-common-tos.tiktokcdn.com^
 ||lf16-gecko-source.tiktokcdn.com^
+||lf16-gecko-source-sg.tiktokcdn.com^
+||lf16-gecko-source-va.tiktokcdn.com^
 ||lf16-geckocdn-sg.tiktokcdn.com^
 ||lf16-pitayacdn.tiktokcdn.com^
 ||lf19-gecko-source.tiktokcdn.com^
+||lf19-gecko-source-sg.tiktokcdn.com^
+||lf19-gecko-source-va.tiktokcdn.com^
 ||lf19-geckocdn-sg.tiktokcdn.com^
 ||lf19-pitayacdn.tiktokcdn.com^
 ||lf21-gecko-source.tiktokcdn.com^
+||lf21-geckocdn-sg.tiktokcdn.com^
 ||lf77-gecko-source.tiktokcdn.com^
+||lf77-geckocdn.tiktokcdn.com^
+||lf9-common-tos.tiktokcdn.com^
 ||lf9-geckocdn.tiktokcdn.com^
 ||sf16-geckocdn.tiktokcdn.com^
 ||sf16m-geckocdn.tiktokcdn.com^
 ||sf19-geckocdn.tiktokcdn.com^
+||v16-common.tiktokcdn.com^
+||v19-web-common.tiktokcdn.com^
 ||frontier.tiktokv.com^
 ||frontier-i18n.tiktokv.com^
 ||frontier-my.tiktokv.com^
