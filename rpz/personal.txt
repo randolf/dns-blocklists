@@ -39845,8 +39845,6 @@ nudczusipbu.com CNAME .
 *.nudczusipbu.com CNAME .
 nudedworld.com CNAME .
 *.nudedworld.com CNAME .
-click.nudevista.com CNAME .
-*.click.nudevista.com CNAME .
 analytics.nudiejeans.com CNAME .
 *.analytics.nudiejeans.com CNAME .
 nuevonoelmid.com CNAME .

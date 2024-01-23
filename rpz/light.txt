@@ -57819,8 +57819,6 @@ nudczusipbu.com CNAME .
 *.nudczusipbu.com CNAME .
 nudedworld.com CNAME .
 *.nudedworld.com CNAME .
-click.nudevista.com CNAME .
-*.click.nudevista.com CNAME .
 nudgedfardel.com CNAME .
 *.nudgedfardel.com CNAME .
 nudgeworry.com CNAME .
