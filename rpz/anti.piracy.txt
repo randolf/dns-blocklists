@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1706051040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706088960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Jan 2024 23:04 UTC
-; Version: 2024.0123.2304.34
+; Last modified: 24 Jan 2024 09:36 UTC
+; Version: 2024.0124.0936.46
 ; Syntax: RPZ
-; Number of entries: 21352
+; Number of entries: 21406
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -137,6 +137,10 @@ yts.am CNAME .
 *.yts.am CNAME .
 1337x.app CNAME .
 *.1337x.app CNAME .
+aeroinsta.app CNAME .
+*.aeroinsta.app CNAME .
+aeromods.app CNAME .
+*.aeromods.app CNAME .
 allstreaming.app CNAME .
 *.allstreaming.app CNAME .
 altadefinizione01.app CNAME .
@@ -167,6 +171,8 @@ ilgeniodellostreaming.app CNAME .
 *.ilgeniodellostreaming.app CNAME .
 imoim.app CNAME .
 *.imoim.app CNAME .
+instander.app CNAME .
+*.instander.app CNAME .
 isohunt.app CNAME .
 *.isohunt.app CNAME .
 losmovies.app CNAME .
@@ -1213,6 +1219,8 @@ cb01.catering CNAME .
 *.2kmovie.cc CNAME .
 7torrents.cc CNAME .
 *.7torrents.cc CNAME .
+aerowa.cc CNAME .
+*.aerowa.cc CNAME .
 alpharatio.cc CNAME .
 *.alpharatio.cc CNAME .
 altadefinizione.cc CNAME .
@@ -2609,6 +2617,8 @@ adrive.com CNAME .
 *.adrive.com CNAME .
 aelitis.com CNAME .
 *.aelitis.com CNAME .
+aerotwitter.com CNAME .
+*.aerotwitter.com CNAME .
 afdah.com CNAME .
 *.afdah.com CNAME .
 afdah2.com CNAME .
@@ -4495,6 +4505,8 @@ fotoredactor.com CNAME .
 *.fotoredactor.com CNAME .
 fotosupload.com CNAME .
 *.fotosupload.com CNAME .
+down.fouadmod.com CNAME .
+*.down.fouadmod.com CNAME .
 frboard.com CNAME .
 *.frboard.com CNAME .
 freakshare.com CNAME .
@@ -4657,6 +4669,8 @@ gatachannel.com CNAME .
 *.gatachannel.com CNAME .
 gazipurns.com CNAME .
 *.gazipurns.com CNAME .
+gbwhatspro.com CNAME .
+*.gbwhatspro.com CNAME .
 tracker.gcvchp.com CNAME .
 *.tracker.gcvchp.com CNAME .
 gdtorrent.com CNAME .
@@ -5525,6 +5539,8 @@ majomparade.com CNAME .
 *.majomparade.com CNAME .
 malacka.com CNAME .
 *.malacka.com CNAME .
+malavida.com CNAME .
+*.malavida.com CNAME .
 mamba-jamba.com CNAME .
 *.mamba-jamba.com CNAME .
 mangogamers.com CNAME .
@@ -7351,6 +7367,8 @@ thejigsawpuzzles.com CNAME .
 *.thejigsawpuzzles.com CNAME .
 thekickasstorrents.com CNAME .
 *.thekickasstorrents.com CNAME .
+theleaker.com CNAME .
+*.theleaker.com CNAME .
 thelinuxcode.com CNAME .
 *.thelinuxcode.com CNAME .
 themaninashed.com CNAME .
@@ -8011,6 +8029,8 @@ uutor.com CNAME .
 *.uutor.com CNAME .
 frp.v2fy.com CNAME .
 *.frp.v2fy.com CNAME .
+vancedflix.com CNAME .
+*.vancedflix.com CNAME .
 vboku.com CNAME .
 *.vboku.com CNAME .
 vbooter.com CNAME .
@@ -8109,6 +8129,8 @@ wabotot.com CNAME .
 *.wabotot.com CNAME .
 xfilmywap.wapkiz.com CNAME .
 *.xfilmywap.wapkiz.com CNAME .
+wappaero.com CNAME .
+*.wappaero.com CNAME .
 warez.com CNAME .
 *.warez.com CNAME .
 warez-files.com CNAME .
@@ -8247,6 +8269,12 @@ wetransfer.com CNAME .
 *.wetransfer.com CNAME .
 wfhost2.com CNAME .
 *.wfhost2.com CNAME .
+whatsaero.com CNAME .
+*.whatsaero.com CNAME .
+whatsappinstalling.com CNAME .
+*.whatsappinstalling.com CNAME .
+whatsgbplus.com CNAME .
+*.whatsgbplus.com CNAME .
 wickeddownloads.com CNAME .
 *.wickeddownloads.com CNAME .
 wifistruggles.com CNAME .
@@ -8457,6 +8485,8 @@ youshareit.com CNAME .
 *.youshareit.com CNAME .
 youtorrent.com CNAME .
 *.youtorrent.com CNAME .
+yowaapp.com CNAME .
+*.yowaapp.com CNAME .
 yqzuji.com CNAME .
 *.yqzuji.com CNAME .
 ytmp3juice.com CNAME .
@@ -8953,6 +8983,8 @@ eurostreaming.dev CNAME .
 *.eurostreaming.dev CNAME .
 ftuapps.dev CNAME .
 *.ftuapps.dev CNAME .
+instander.dev CNAME .
+*.instander.dev CNAME .
 1337x.pages.dev CNAME .
 *.1337x.pages.dev CNAME .
 1337x-to.pages.dev CNAME .
@@ -8963,6 +8995,8 @@ piratebayproxy.pages.dev CNAME .
 *.piratebayproxy.pages.dev CNAME .
 rarbg.pages.dev CNAME .
 *.rarbg.pages.dev CNAME .
+revanced-apks.pages.dev CNAME .
+*.revanced-apks.pages.dev CNAME .
 thepiratebayproxy.pages.dev CNAME .
 *.thepiratebayproxy.pages.dev CNAME .
 serien.dev CNAME .
@@ -8971,6 +9005,8 @@ streamingcommunity.dev CNAME .
 *.streamingcommunity.dev CNAME .
 tantifilm.dev CNAME .
 *.tantifilm.dev CNAME .
+whatsaero.dev CNAME .
+*.whatsaero.dev CNAME .
 dramaqu.digital CNAME .
 *.dramaqu.digital CNAME .
 eurostreaming.digital CNAME .
@@ -9059,6 +9095,10 @@ drop.download CNAME .
 *.drop.download CNAME .
 dunia21.download CNAME .
 *.dunia21.download CNAME .
+fouadws.download CNAME .
+*.fouadws.download CNAME .
+gbwhatsapp.download CNAME .
+*.gbwhatsapp.download CNAME .
 lookmovie.download CNAME .
 *.lookmovie.download CNAME .
 mp3y.download CNAME .
@@ -10827,6 +10867,8 @@ mactorrents.io CNAME .
 *.mactorrents.io CNAME .
 magnetoo.io CNAME .
 *.magnetoo.io CNAME .
+moddroid.io CNAME .
+*.moddroid.io CNAME .
 movieninja.io CNAME .
 *.movieninja.io CNAME .
 movierulz.io CNAME .
@@ -12079,6 +12121,8 @@ terbit21.me CNAME .
 *.terbit21.me CNAME .
 tfile.me CNAME .
 *.tfile.me CNAME .
+thedise.me CNAME .
+*.thedise.me CNAME .
 thepiratefilmestorrent.me CNAME .
 *.thepiratefilmestorrent.me CNAME .
 theswarm.me CNAME .
@@ -12121,6 +12165,8 @@ vmovee.me CNAME .
 *.vmovee.me CNAME .
 bdix.wapka.me CNAME .
 *.bdix.wapka.me CNAME .
+waplus.me CNAME .
+*.waplus.me CNAME .
 watchmovie.me CNAME .
 *.watchmovie.me CNAME .
 watchtvepisodes.me CNAME .
@@ -13237,6 +13283,8 @@ fmoviefree.net CNAME .
 *.fmoviefree.net CNAME .
 fmoviesgo.net CNAME .
 *.fmoviesgo.net CNAME .
+fmwhatsapp.net CNAME .
+*.fmwhatsapp.net CNAME .
 tracker.fnix.net CNAME .
 *.tracker.fnix.net CNAME .
 tv.foorty.net CNAME .
@@ -13301,6 +13349,10 @@ gay-torrents.net CNAME .
 *.gay-torrents.net CNAME .
 gazellegames.net CNAME .
 *.gazellegames.net CNAME .
+gbapps.net CNAME .
+*.gbapps.net CNAME .
+gbwhatapp.net CNAME .
+*.gbwhatapp.net CNAME .
 get-host.net CNAME .
 *.get-host.net CNAME .
 getgamez.net CNAME .
@@ -13969,6 +14021,8 @@ tracker.renfei.net CNAME .
 *.tracker.renfei.net CNAME .
 repackov.net CNAME .
 *.repackov.net CNAME .
+revanced.net CNAME .
+*.revanced.net CNAME .
 revolutiontt.net CNAME .
 *.revolutiontt.net CNAME .
 bt.rghost.net CNAME .

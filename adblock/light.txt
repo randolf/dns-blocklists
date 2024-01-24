@@ -26218,7 +26218,6 @@
 ||file3size.com^
 ||fileconvoy.com^
 ||filedenzu.com^
-||filedn.com^
 ||filehippo-filehippo.com^
 ||analytics.filemail.com^
 ||smetrics.filemaker.com^
@@ -46676,7 +46675,6 @@
 ||pagerank.fr^
 ||pagerank-ranking.de^
 ||pageranktop.com^
-||revanced-apks.pages.dev^
 ||vebo-vast.pages.dev^
 ||pages-notifications.net^
 ||sc.pages03.net^

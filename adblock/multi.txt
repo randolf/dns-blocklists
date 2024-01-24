@@ -56715,7 +56715,6 @@
 ||fileconvoy.com^
 ||piwik.filecrypt.cc^
 ||filedenzu.com^
-||filedn.com^
 ||engagesrvr.filefactory.com^
 ||analytics.fileflow.nl^
 ||ih1.fileforums.com^
@@ -102022,7 +102021,6 @@
 ||germanytechsupport.pages.dev^
 ||hypixelstorexyz.pages.dev^
 ||new-adtest.pages.dev^
-||revanced-apks.pages.dev^
 ||secure-57v.pages.dev^
 ||setkuttina.pages.dev^
 ||systemsupport.pages.dev^
