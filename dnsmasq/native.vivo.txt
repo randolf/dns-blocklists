@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jan 2024 09:15 UTC
-# Version: 2024.0124.0915.47
+# Last modified: 24 Jan 2024 14:24 UTC
+# Version: 2024.0124.1424.42
 # Syntax: DNSMasq
-# Number of entries: 65
+# Number of entries: 78
 #
 address=/asia-adlog.vivoglobal.com/#
 address=/asia-adsjssdk.vivoglobal.com/#
@@ -17,6 +17,7 @@ address=/asia-comonrt-stsdk.vivoglobal.com/#
 address=/asia-comort-stsdk.vivoglobal.com/#
 address=/asia-compnrt-stsdk.vivoglobal.com/#
 address=/asia-comprt-stsdk.vivoglobal.com/#
+address=/asia-err-up.vivoglobal.com/#
 address=/asia-ex-adlog.vivoglobal.com/#
 address=/asia-exstsdk.vivoglobal.com/#
 address=/asia-monitor-stsdk.vivoglobal.com/#
@@ -25,11 +26,15 @@ address=/asia-ort-stsdk.vivoglobal.com/#
 address=/asia-pnrt-stsdk.vivoglobal.com/#
 address=/asia-prt-stsdk.vivoglobal.com/#
 address=/asia-stsdk.vivoglobal.com/#
+address=/asia-vpushonrt-stsdk.vivoglobal.com/#
+address=/asia-vpushort-stsdk.vivoglobal.com/#
 address=/cname-asia02-stsdk.vivoglobal.com/#
 address=/cname-in-bom01-nginxpool03.vivoglobal.com/#
 address=/cname-sin01-stsdk09.vivoglobal.com/#
 address=/co-pnrt-stsdk.vivoglobal.com/#
 address=/co-stsdk.vivoglobal.com/#
+address=/err-up.vivoglobal.com/#
+address=/eu-errup.vivoglobal.com/#
 address=/eu-pnrt-stsdk.vivoglobal.com/#
 address=/id-analyzer-appstore.vivoglobal.com/#
 address=/in-adlog.vivoglobal.com/#
@@ -41,6 +46,7 @@ address=/in-ctdbonrt-stsdk.vivoglobal.com/#
 address=/in-ctdbort-stsdk.vivoglobal.com/#
 address=/in-ctdbpnrt-stsdk.vivoglobal.com/#
 address=/in-ctdbprt-stsdk.vivoglobal.com/#
+address=/in-errup.vivoglobal.com/#
 address=/in-ex-adlog.vivoglobal.com/#
 address=/in-monitor-stsdk.vivoglobal.com/#
 address=/in-onrt-stsdk.vivoglobal.com/#
@@ -49,6 +55,7 @@ address=/in-pnrt-stsdk.vivoglobal.com/#
 address=/in-vpushonrt-stsdk.vivoglobal.com/#
 address=/in-vpushort-stsdk.vivoglobal.com/#
 address=/kz-cname-sin01-bigdata.vivoglobal.com/#
+address=/kz-err-up.vivoglobal.com/#
 address=/kz-monitor-stsdk.vivoglobal.com/#
 address=/kz-onrt-stsdk.vivoglobal.com/#
 address=/kz-ort-stsdk.vivoglobal.com/#
@@ -62,11 +69,15 @@ address=/kz-vcode-od.vivoglobal.com/#
 address=/kz-vcode-or.vivoglobal.com/#
 address=/mx-pnrt-stsdk.vivoglobal.com/#
 address=/mx-stsdk.vivoglobal.com/#
+address=/onrt-stsdk.vivoglobal.com/#
+address=/ort-stsdk.vivoglobal.com/#
+address=/pnrt-stsdk.vivoglobal.com/#
 address=/ru-commonitor-stsdk.vivoglobal.com/#
 address=/ru-comonrt-stsdk.vivoglobal.com/#
 address=/ru-comort-stsdk.vivoglobal.com/#
 address=/ru-compnrt-stsdk.vivoglobal.com/#
 address=/ru-comprt-stsdk.vivoglobal.com/#
+address=/ru-err-up.vivoglobal.com/#
 address=/ru-exstsdk.vivoglobal.com/#
 address=/ru-monitor-stsdk.vivoglobal.com/#
 address=/ru-onrt-stsdk.vivoglobal.com/#
@@ -74,3 +85,5 @@ address=/ru-ort-stsdk.vivoglobal.com/#
 address=/ru-pnrt-stsdk.vivoglobal.com/#
 address=/ru-prt-stsdk.vivoglobal.com/#
 address=/ru-stsdk.vivoglobal.com/#
+address=/stsdk.vivoglobal.com/#
+address=/err.up.vivoglobal.com/#
