@@ -139183,7 +139183,6 @@
 *.viladram.xyz
 *.vilagfigyelo.com
 *.vilaglato.info
-*.vilagunk.hu
 *.metrics.vilebrequin.com
 *.vilelaaccable.com
 *.vilereasoning.com

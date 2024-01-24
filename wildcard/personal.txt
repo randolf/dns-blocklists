@@ -43231,7 +43231,6 @@
 *.somni.vikingrivercruises.com
 *.vikrak.com
 *.viladram.xyz
-*.vilagunk.hu
 *.metrics.vilebrequin.com
 *.vilerebuffcontact.com
 *.t.villanova.com

@@ -94599,8 +94599,6 @@ sbmwgj.vidaxl.hu CNAME .
 *.sbmwgj.vidaxl.hu CNAME .
 adat.videa.hu CNAME .
 *.adat.videa.hu CNAME .
-vilagunk.hu CNAME .
-*.vilagunk.hu CNAME .
 metrics.vodafone.hu CNAME .
 *.metrics.vodafone.hu CNAME .
 ad.wavu.hu CNAME .
