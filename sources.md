@@ -178,7 +178,6 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/unknown-domai
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/volumedata-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
 https://raw.githubusercontent.com/manic-code/Emerging-Malicious-Domain-Blocklist/main/hosts.txt
