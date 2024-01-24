@@ -47445,8 +47445,6 @@ cityups.net CNAME .
 *.cityups.net CNAME .
 claim-lens.net CNAME .
 *.claim-lens.net CNAME .
-d10yke8mddzjba.cloudfront.net CNAME .
-*.d10yke8mddzjba.cloudfront.net CNAME .
 d1y8iut9frgbfx.cloudfront.net CNAME .
 *.d1y8iut9frgbfx.cloudfront.net CNAME .
 d3k44z507vpdol.cloudfront.net CNAME .
