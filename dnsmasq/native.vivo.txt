@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jan 2024 14:24 UTC
-# Version: 2024.0124.1424.42
+# Last modified: 24 Jan 2024 14:53 UTC
+# Version: 2024.0124.1453.00
 # Syntax: DNSMasq
-# Number of entries: 78
+# Number of entries: 85
 #
 address=/asia-adlog.vivoglobal.com/#
 address=/asia-adsjssdk.vivoglobal.com/#
@@ -28,6 +28,8 @@ address=/asia-prt-stsdk.vivoglobal.com/#
 address=/asia-stsdk.vivoglobal.com/#
 address=/asia-vpushonrt-stsdk.vivoglobal.com/#
 address=/asia-vpushort-stsdk.vivoglobal.com/#
+address=/cname-ali-asia-stsdk.vivoglobal.com/#
+address=/cname-asia-stsdk09.vivoglobal.com/#
 address=/cname-asia02-stsdk.vivoglobal.com/#
 address=/cname-in-bom01-nginxpool03.vivoglobal.com/#
 address=/cname-sin01-stsdk09.vivoglobal.com/#
@@ -38,6 +40,8 @@ address=/eu-errup.vivoglobal.com/#
 address=/eu-pnrt-stsdk.vivoglobal.com/#
 address=/id-analyzer-appstore.vivoglobal.com/#
 address=/in-adlog.vivoglobal.com/#
+address=/in-adreq.vivoglobal.com/#
+address=/in-adsjssdk.vivoglobal.com/#
 address=/in-apponrt-stsdk.vivoglobal.com/#
 address=/in-apport-stsdk.vivoglobal.com/#
 address=/in-apppnrt-stsdk.vivoglobal.com/#
@@ -67,11 +71,14 @@ address=/kz-st-sysupgrade.vivoglobal.com/#
 address=/kz-stsdk.vivoglobal.com/#
 address=/kz-vcode-od.vivoglobal.com/#
 address=/kz-vcode-or.vivoglobal.com/#
+address=/monitor-stsdk.vivoglobal.com/#
 address=/mx-pnrt-stsdk.vivoglobal.com/#
 address=/mx-stsdk.vivoglobal.com/#
 address=/onrt-stsdk.vivoglobal.com/#
 address=/ort-stsdk.vivoglobal.com/#
 address=/pnrt-stsdk.vivoglobal.com/#
+address=/prt-stsdk.vivoglobal.com/#
+address=/ro-up.vivoglobal.com/#
 address=/ru-commonitor-stsdk.vivoglobal.com/#
 address=/ru-comonrt-stsdk.vivoglobal.com/#
 address=/ru-comort-stsdk.vivoglobal.com/#
