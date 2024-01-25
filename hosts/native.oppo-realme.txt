@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jan 2024 16:24 UTC
-# Version: 2024.0125.1624.05
+# Last modified: 25 Jan 2024 20:59 UTC
+# Version: 2024.0125.2059.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 357
+# Number of entries: 366
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -217,6 +217,7 @@
 0.0.0.0 mdp-appconf-uz.heytapdl.com
 0.0.0.0 mdp-appconf-vn.heytapdl.com
 0.0.0.0 mdp-appconf-za.heytapdl.com
+0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx-f.ads.heytapmobi.com
@@ -227,11 +228,16 @@
 0.0.0.0 b2-data.ads.heytapmobi.com
 0.0.0.0 bdapi.ads.heytapmobi.com
 0.0.0.0 bdapi-id.ads.heytapmobi.com
+0.0.0.0 bdapi-in.ads.heytapmobi.com
 0.0.0.0 ck.ads.heytapmobi.com
 0.0.0.0 cl-data.ads.heytapmobi.com
+0.0.0.0 cl-data-f.ads.heytapmobi.com
 0.0.0.0 cl-data-id.ads.heytapmobi.com
 0.0.0.0 cl-data-in.ads.heytapmobi.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
+0.0.0.0 cm.ads.heytapmobi.com
+0.0.0.0 darvin-ec.ads.heytapmobi.com
+0.0.0.0 data.ads.heytapmobi.com
 0.0.0.0 sms.ads.heytapmobi.com
 0.0.0.0 ssp-adx.ads.heytapmobi.com
 0.0.0.0 stg-data.ads.heytapmobi.com
@@ -289,6 +295,9 @@
 0.0.0.0 cl-data-f.ads.heytapmobile.com
 0.0.0.0 cl-data-id.ads.heytapmobile.com
 0.0.0.0 cl-data-in.ads.heytapmobile.com
+0.0.0.0 cl-data-my.ads.heytapmobile.com
+0.0.0.0 cl-data-sg.ads.heytapmobile.com
+0.0.0.0 cl-data-vn.ads.heytapmobile.com
 0.0.0.0 sms-sg.ads.heytapmobile.com
 0.0.0.0 stg-data-f.ads.heytapmobile.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com

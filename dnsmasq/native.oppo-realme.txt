@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jan 2024 16:24 UTC
-# Version: 2024.0125.1624.05
+# Last modified: 25 Jan 2024 20:59 UTC
+# Version: 2024.0125.2059.36
 # Syntax: DNSMasq
-# Number of entries: 291
+# Number of entries: 292
 #
 address=/calculator-api-fr.allawnos.com/#
 address=/calculator-api-in.allawnos.com/#
@@ -214,6 +214,7 @@ address=/mdp-appconf-us.heytapdl.com/#
 address=/mdp-appconf-uz.heytapdl.com/#
 address=/mdp-appconf-vn.heytapdl.com/#
 address=/mdp-appconf-za.heytapdl.com/#
+address=/adsfs-sdkconfig.heytapimage.com/#
 address=/ads.heytapmobi.com/#
 address=/logforward.browser.heytapmobi.com/#
 address=/stat.browser.heytapmobi.com/#

@@ -607,7 +607,6 @@
 @@||github.co^
 @@||gizmo.do^
 @@||gjk.id^
-@@||gl.am^
 @@||glbe.co^
 @@||glblctzn.co^
 @@||glblctzn.me^
@@ -1578,7 +1577,6 @@
 @@||url.cy^
 @@||url.ie^
 @@||url2.fr^
-@@||url365.club^
 @@||url5.org^
 @@||urla.ru^
 @@||urlbun.ch^
@@ -1772,7 +1770,6 @@
 @@||youtu.be^
 @@||ysear.ch^
 @@||yubi.co^
-@@||yugatech.ph^
 @@||yuk.nu^
 @@||yun.ir^
 @@||yupptv.la^
