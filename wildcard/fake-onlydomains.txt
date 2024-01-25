@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jan 2024 23:27 UTC
-# Version: 2024.0124.2327.34
+# Last modified: 25 Jan 2024 23:34 UTC
+# Version: 2024.0125.2334.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 15510
+# Number of entries: 15503
 #
 11trikots.com
 12-suchen.de
@@ -34,7 +34,6 @@ eoutlet.2022factorysale.ru
 247pharm.net
 247safegenerics.com
 24canadianbest.com
-24digital-consulting.net
 24rabatt.shop
 24things.de
 eu.2bagsvalley.cn
@@ -84,7 +83,6 @@ abilitylamp.de
 abipartyxxl.de
 ablefashionable.com
 abnehmen-einfach-gemacht.de
-abnehmenapothekeonline.com
 abolder.com
 aboutbeingold.com
 aboutdecoratehome.com
@@ -95,7 +93,6 @@ aboutsportfashion.com
 abouttoolclearance.com
 abouttooltrade.com
 aboutvogueshoes.com
-abrbois.com
 abrorabatt.de
 abtechnik-versand.de
 abtreibungspillenrx.online
@@ -137,7 +134,6 @@ actakredit.com
 actie-klapper.com
 actionbookclub.com
 actiondogsupplies.com
-actormuscle.store
 actoroubag.shop
 musk.actws.best
 ad-property.com
@@ -172,7 +168,6 @@ adidassuomi-fi.com
 adidasyeezyboost.de
 adidaszagreb.com
 adler-immo.com
-admasterclass.de
 admotours.de
 adnmall.com
 ado-ef.com
@@ -180,8 +175,6 @@ adogadgets.com
 adolar-tech.de
 adornedgems.com
 adpeak-gmbh.de
-adreim.de
-adria-fisch.at
 adrian-beck.de
 adsportinggoods.com
 adultfunoff.com
@@ -205,7 +198,6 @@ aerialpics.de
 aerobicsbrand.com
 aeromed-hamburg.de
 aerosolesshoesoutlets.com
-austria.aerztliche-empfehlung.info
 aetios.shop
 aeydeschuhe.de
 af1sneakers.com
@@ -273,7 +265,6 @@ akr-hundeklub.de
 aktienpros.com
 aktionheizung.de
 aktivall.de
-akulaku.me
 akuschuheschweiz.com
 alahtuh.com
 alarmrabatt.de
@@ -304,7 +295,6 @@ alessandrozavettiromania.com
 alessandrozavettiuk.com
 alessandrozavettiweste.de
 alexandermunchen.de
-alexkulik-kunst.de
 alfons-bentele.de
 alfonsa.de
 alfonsoquintas.com
@@ -338,7 +328,6 @@ allegoo.com
 allehandwerkzeug.com
 allenedmondsschuhe.com
 alles-adhoc.de
-alles-drin24.de
 alles-motokultur.de
 alles-rezeptfrei.net
 allesfurgarten.best
@@ -369,7 +358,6 @@ allskigear.com
 allsoccer.co
 allsummerdress.com
 alltaglichewerkzeuge.com
-alltogether.shop
 alltools-store.com
 alltoolworld.com
 alltopinvest.com
@@ -2839,6 +2827,7 @@ cyclistchoicestore.com
 cydins.com
 cyrcoins.com
 d-apotheke.de
+d0ood.com
 d2jeansdaily.com
 dabi-haushalt.de
 dach-remscheid.de
@@ -3088,6 +3077,7 @@ derabattfahrrad.com
 deregresoalafuente.com
 derfairmieter.de
 derfamilientisch.de
+derila.com
 derkatzenshop.de
 dermahershop.com
 dersupertiger.de
@@ -3282,6 +3272,7 @@ dmours.com
 dmsmax.com
 dmurn.com
 dndstumkur.com
+do0cd.com
 doc-hygiene.de
 dockersosterreich.at
 docsmartensfactoryoutlet.com
@@ -3309,8 +3300,11 @@ domino-reifen.com
 donalovehair.de
 donnaschuhe.de
 donovan.store
+doode.pro
+dooodg.pro
 doorhardwareus.com
 doorsorwindows.com
+doosd.pro
 dope-snow-deutschland.com
 dope-snow-osterreich.com
 dope-snow-schweiz.com
@@ -4026,7 +4020,6 @@ europamtb.com
 europarealestate.eu
 europatradecapital.com
 europe-electro-shop.com
-bmw.europe-moto.com
 europe-pharm.net
 europe-solarstore.com
 europeangeneric.com

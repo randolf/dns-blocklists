@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1706138820 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706225640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jan 2024 23:27 UTC
-; Version: 2024.0124.2327.34
+; Last modified: 25 Jan 2024 23:34 UTC
+; Version: 2024.0125.2334.37
 ; Syntax: RPZ
-; Number of entries: 31020
+; Number of entries: 31006
 ;
 altra.ae CNAME .
 *.altra.ae CNAME .
@@ -47,8 +47,6 @@ ledgerliveapps.web.app CNAME .
 *.ledgerliveapps.web.app CNAME .
 4living.at CNAME .
 *.4living.at CNAME .
-adria-fisch.at CNAME .
-*.adria-fisch.at CNAME .
 affen.at CNAME .
 *.affen.at CNAME .
 airjordan.at CNAME .
@@ -1173,8 +1171,6 @@ abigsaleequipment.com CNAME .
 *.abigsaleequipment.com CNAME .
 ablefashionable.com CNAME .
 *.ablefashionable.com CNAME .
-abnehmenapothekeonline.com CNAME .
-*.abnehmenapothekeonline.com CNAME .
 abolder.com CNAME .
 *.abolder.com CNAME .
 aboutbeingold.com CNAME .
@@ -1195,8 +1191,6 @@ abouttooltrade.com CNAME .
 *.abouttooltrade.com CNAME .
 aboutvogueshoes.com CNAME .
 *.aboutvogueshoes.com CNAME .
-abrbois.com CNAME .
-*.abrbois.com CNAME .
 abusfahrrad.com CNAME .
 *.abusfahrrad.com CNAME .
 abztransportab.com CNAME .
@@ -4697,6 +4691,8 @@ cydins.com CNAME .
 *.cydins.com CNAME .
 cyrcoins.com CNAME .
 *.cyrcoins.com CNAME .
+d0ood.com CNAME .
+*.d0ood.com CNAME .
 d2jeansdaily.com CNAME .
 *.d2jeansdaily.com CNAME .
 dacoyo.com CNAME .
@@ -4997,6 +4993,8 @@ derabattfahrrad.com CNAME .
 *.derabattfahrrad.com CNAME .
 deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
+derila.com CNAME .
+*.derila.com CNAME .
 dermahershop.com CNAME .
 *.dermahershop.com CNAME .
 dertagesspiegel.com CNAME .
@@ -5253,6 +5251,8 @@ dmurn.com CNAME .
 *.dmurn.com CNAME .
 dndstumkur.com CNAME .
 *.dndstumkur.com CNAME .
+do0cd.com CNAME .
+*.do0cd.com CNAME .
 docsmartensfactoryoutlet.com CNAME .
 *.docsmartensfactoryoutlet.com CNAME .
 docsvaporsupply.com CNAME .
@@ -6145,8 +6145,6 @@ europatradecapital.com CNAME .
 *.europatradecapital.com CNAME .
 europe-electro-shop.com CNAME .
 *.europe-electro-shop.com CNAME .
-bmw.europe-moto.com CNAME .
-*.bmw.europe-moto.com CNAME .
 europe-solarstore.com CNAME .
 *.europe-solarstore.com CNAME .
 europeangeneric.com CNAME .
@@ -21335,16 +21333,12 @@ adego-tech.de CNAME .
 *.adego-tech.de CNAME .
 adidasyeezyboost.de CNAME .
 *.adidasyeezyboost.de CNAME .
-admasterclass.de CNAME .
-*.admasterclass.de CNAME .
 admotours.de CNAME .
 *.admotours.de CNAME .
 adolar-tech.de CNAME .
 *.adolar-tech.de CNAME .
 adpeak-gmbh.de CNAME .
 *.adpeak-gmbh.de CNAME .
-adreim.de CNAME .
-*.adreim.de CNAME .
 adrian-beck.de CNAME .
 *.adrian-beck.de CNAME .
 advancesecurity.de CNAME .
@@ -21421,8 +21415,6 @@ alessandrozavettiweste.de CNAME .
 *.alessandrozavettiweste.de CNAME .
 alexandermunchen.de CNAME .
 *.alexandermunchen.de CNAME .
-alexkulik-kunst.de CNAME .
-*.alexkulik-kunst.de CNAME .
 alfons-bentele.de CNAME .
 *.alfons-bentele.de CNAME .
 alfonsa.de CNAME .
@@ -21433,8 +21425,6 @@ alienoa.de CNAME .
 *.alienoa.de CNAME .
 alles-adhoc.de CNAME .
 *.alles-adhoc.de CNAME .
-alles-drin24.de CNAME .
-*.alles-drin24.de CNAME .
 alles-motokultur.de CNAME .
 *.alles-motokultur.de CNAME .
 allesheizung.de CNAME .
@@ -27479,8 +27469,6 @@ himalayankraft.in CNAME .
 *.himalayankraft.in CNAME .
 labq22.in CNAME .
 *.labq22.in CNAME .
-austria.aerztliche-empfehlung.info CNAME .
-*.austria.aerztliche-empfehlung.info CNAME .
 anabolicgearpharms.info CNAME .
 *.anabolicgearpharms.info CNAME .
 deine-reise.info CNAME .
@@ -27699,8 +27687,6 @@ shop.electro-center.lu CNAME .
 *.shop.electro-center.lu CNAME .
 eiroshop.lv CNAME .
 *.eiroshop.lv CNAME .
-akulaku.me CNAME .
-*.akulaku.me CNAME .
 euchems.me CNAME .
 *.euchems.me CNAME .
 kinomax.me CNAME .
@@ -27725,8 +27711,6 @@ gymsharkmexicotiendas.com.mx CNAME .
 *.247onlinemeds.net CNAME .
 247pharm.net CNAME .
 *.247pharm.net CNAME .
-24digital-consulting.net CNAME .
-*.24digital-consulting.net CNAME .
 adidasbrasil.net CNAME .
 *.adidasbrasil.net CNAME .
 adidascolombia.net CNAME .
@@ -29029,6 +29013,12 @@ de-flex-job.pro CNAME .
 *.de-flex-job.pro CNAME .
 depickedwell.pro CNAME .
 *.depickedwell.pro CNAME .
+doode.pro CNAME .
+*.doode.pro CNAME .
+dooodg.pro CNAME .
+*.dooodg.pro CNAME .
+doosd.pro CNAME .
+*.doosd.pro CNAME .
 excitement.pro CNAME .
 *.excitement.pro CNAME .
 gearfactory.pro CNAME .
@@ -29121,8 +29111,6 @@ aetios.shop CNAME .
 *.aetios.shop CNAME .
 aisakicks.shop CNAME .
 *.aisakicks.shop CNAME .
-alltogether.shop CNAME .
-*.alltogether.shop CNAME .
 aluproholz.shop CNAME .
 *.aluproholz.shop CNAME .
 amnayavanit.shop CNAME .
@@ -30369,8 +30357,6 @@ tricias.space CNAME .
 *.123-konsolit.store CNAME .
 3d-printing.store CNAME .
 *.3d-printing.store CNAME .
-actormuscle.store CNAME .
-*.actormuscle.store CNAME .
 allbike.store CNAME .
 *.allbike.store CNAME .
 alpha-tech.store CNAME .
