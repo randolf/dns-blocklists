@@ -103,7 +103,6 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/No
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
-https://raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/filehosting/domains
