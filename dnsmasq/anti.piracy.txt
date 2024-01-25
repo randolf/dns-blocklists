@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 24 Jan 2024 09:36 UTC
-# Version: 2024.0124.0936.46
+# Last modified: 25 Jan 2024 23:10 UTC
+# Version: 2024.0125.2310.29
 # Syntax: DNSMasq
-# Number of entries: 10703
+# Number of entries: 10700
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -142,7 +142,6 @@ address=/123unblock.monster/#
 address=/ettv.123unblock.world/#
 address=/13377x.tw/#
 address=/1337x.am/#
-address=/1337x.app/#
 address=/1337x.buzz/#
 address=/1337x.com/#
 address=/1337x.fun/#
@@ -332,7 +331,6 @@ address=/5movies.to/#
 address=/5moviesfree.net/#
 address=/5tigorsk.ru/#
 address=/60-fps.org/#
-address=/61626c.net/#
 address=/64k.it/#
 address=/6ahddutb1ucc3cp.ru/#
 address=/6box.me/#
@@ -476,7 +474,6 @@ address=/alfon.org/#
 address=/bt.ali213.net/#
 address=/tracker.ali213.net/#
 address=/alibabanetwork.net/#
-address=/alicili.org/#
 address=/aliez.me/#
 address=/aliez.tv/#
 address=/alifanet.com/#
