@@ -4934,8 +4934,6 @@
 *.durstoase24.de
 *.dutschl.com
 *.dwallstreetchuo.com
-*.ipfs.dweb.link
-*.app-radiant-capital.ipns.dweb.link
 *.dxfuafx.cn
 *.smbe-card.dxmdl.cn
 *.usps.dxpackege.top
