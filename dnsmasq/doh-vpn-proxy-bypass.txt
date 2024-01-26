@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jan 2024 23:01 UTC
-# Version: 2024.0125.2301.47
+# Last modified: 26 Jan 2024 23:13 UTC
+# Version: 2024.0126.2313.17
 # Syntax: DNSMasq
-# Number of entries: 2651
+# Number of entries: 2648
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -453,7 +453,6 @@ address=/pope.cnblw.me/#
 address=/adguard.aa4.co.uk/#
 address=/akashiro.co.id/#
 address=/antidnsvpn.co.cc/#
-address=/cars-a.co.za/#
 address=/clearvpn.co.uk/#
 address=/pihole.datamatter.co.za/#
 address=/diskcrmvpn.co.cc/#
@@ -534,7 +533,6 @@ address=/covertproxy.com/#
 address=/doh.cox.net/#
 address=/dot.cox.net/#
 address=/dohdot.coxlab.net/#
-address=/crashes-analysis.com/#
 address=/crawlbase.com/#
 address=/crazyproxy.org/#
 address=/crazysurfer.info/#
@@ -2408,7 +2406,6 @@ address=/uvpn.me/#
 address=/tor.vasi.li/#
 address=/vblocker.info/#
 address=/veepn.com/#
-address=/securedns.vendorvista.xyz/#
 address=/veripn.com/#
 address=/viatun.com/#
 address=/videocollage.us/#
