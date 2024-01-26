@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705618500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706310600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Jan 2024 22:55 UTC
-; Version: 2024.0118.2255.10
+; Last modified: 26 Jan 2024 23:10 UTC
+; Version: 2024.0126.2310.40
 ; Syntax: RPZ
-; Number of entries: 504
+; Number of entries: 502
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -473,8 +473,6 @@ search.funami.tech CNAME .
 *.search.funami.tech CNAME .
 search.trom.tf CNAME .
 *.search.trom.tf CNAME .
-librex.bloatcat.tk CNAME .
-*.librex.bloatcat.tk CNAME .
 searx.ericaftereric.top CNAME .
 *.searx.ericaftereric.top CNAME .
 searx.lavatech.top CNAME .
