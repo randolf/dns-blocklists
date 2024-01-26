@@ -30729,8 +30729,6 @@ hurkarubypaths.com CNAME .
 *.hurkarubypaths.com CNAME .
 huronews.com CNAME .
 *.huronews.com CNAME .
-hurra.com CNAME .
-*.hurra.com CNAME .
 hurtfulden.com CNAME .
 *.hurtfulden.com CNAME .
 husfly.com CNAME .

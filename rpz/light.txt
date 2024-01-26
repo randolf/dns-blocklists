@@ -43761,8 +43761,6 @@ hurkarubypaths.com CNAME .
 *.hurkarubypaths.com CNAME .
 huronews.com CNAME .
 *.huronews.com CNAME .
-hurra.com CNAME .
-*.hurra.com CNAME .
 hurricaneadvantagecomplication.com CNAME .
 *.hurricaneadvantagecomplication.com CNAME .
 hurricanedigitalmedia.com CNAME .
