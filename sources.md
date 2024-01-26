@@ -248,6 +248,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-geni
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-hp.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ibm.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-infoblox.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-jpcert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
