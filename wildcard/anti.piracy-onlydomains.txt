@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 25 Jan 2024 23:10 UTC
-# Version: 2024.0125.2310.29
+# Last modified: 26 Jan 2024 23:22 UTC
+# Version: 2024.0126.2322.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 10700
+# Number of entries: 10653
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -541,10 +541,8 @@ altadefinizione.baby
 altadefinizione.bar
 altadefinizione.bargains
 altadefinizione.beauty
-altadefinizione.beer
 altadefinizione.best
 altadefinizione.bet
-altadefinizione.bid
 altadefinizione.bike
 altadefinizione.bio
 altadefinizione.biz
@@ -568,7 +566,6 @@ altadefinizione.catering
 altadefinizione.cc
 altadefinizione.cfd
 altadefinizione.cheap
-altadefinizione.christmas
 altadefinizione.church
 altadefinizione.city
 altadefinizione.claims
@@ -621,9 +618,7 @@ altadefinizione.immo
 altadefinizione.info
 altadefinizione.institute
 altadefinizione.io
-altadefinizione.is
 altadefinizione.it
-altadefinizione.kids
 altadefinizione.kim
 altadefinizione.kitchen
 altadefinizione.kiwi
@@ -635,7 +630,6 @@ altadefinizione.limo
 altadefinizione.live
 altadefinizione.llc
 altadefinizione.lol
-altadefinizione.luxe
 altadefinizione.ma
 altadefinizione.market
 altadefinizione.marketing
@@ -658,7 +652,6 @@ altadefinizione.network
 altadefinizione.news
 altadefinizione.ninja
 altadefinizione.nl
-altadefinizione.nz
 altadefinizione.one
 altadefinizione.onl
 altadefinizione.online
@@ -672,9 +665,7 @@ altadefinizione.photo
 altadefinizione.pics
 altadefinizione.pictures
 altadefinizione.pink
-altadefinizione.pizza
 altadefinizione.pl
-altadefinizione.plus
 altadefinizione.poker
 altadefinizione.press
 altadefinizione.pro
@@ -738,7 +729,6 @@ altadefinizione01.bond
 altadefinizione01.boo
 altadefinizione01.boutique
 altadefinizione01.builders
-altadefinizione01.camp
 altadefinizione01.cc
 altadefinizione01.center
 altadefinizione01.click
@@ -747,7 +737,6 @@ altadefinizione01.club
 altadefinizione01.co
 altadefinizione01.coffee
 altadefinizione01.com
-altadefinizione01.dev
 altadefinizione01.email
 altadefinizione01.eu
 altadefinizione01.expert
@@ -758,7 +747,6 @@ altadefinizione01.games
 altadefinizione01.giving
 altadefinizione01.global
 altadefinizione01.hair
-altadefinizione01.homes
 altadefinizione01.house
 altadefinizione01.icu
 altadefinizione01.im
@@ -794,7 +782,6 @@ altadefinizione01.tel
 altadefinizione01.top
 altadefinizione01.trade
 altadefinizione01.tv
-altadefinizione01.uno
 altadefinizione01.vg
 altadefinizione01.video
 altadefinizione01.vin
@@ -816,7 +803,6 @@ ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 ambits.org
 amcomputers.org
 americansoccerarchives.com
-amineprogram.com
 amrbd.com
 an1.com
 an1modapk.com
@@ -841,7 +827,6 @@ anime.com
 anime-bt.com
 anime-conan.net
 anime-faith.com
-tracker.anime-fin.net
 anime-kraze.org
 anime-legion.net
 anime-loads.org
@@ -850,7 +835,6 @@ anime-sharing.com
 anime-tv.fun
 anime-wiki.org
 anime5stars.org
-anime8.me
 anime8.ru
 animeblix.com
 animebw.com
@@ -868,7 +852,6 @@ animeflv.net
 animeflv.ru
 animeflv1.com
 animeflvnet.com
-animeforce.it
 animeforever.org
 animefreak.tv
 animeglare.xyz
@@ -909,7 +892,6 @@ animeshd.us
 animeshow.tv
 animesim.com
 animesimple.com
-animesonline.biz
 animesonline.cc
 animestotais.xyz
 animestream.in
@@ -986,7 +968,6 @@ apkmody.com
 apkmody.vip
 apkmolo.com
 apkocean.net
-apkpure.com
 apksum.com
 apksunny.com
 apktodo.io
@@ -1078,7 +1059,6 @@ atdhe.pro
 atom-stresser.com
 attack-on-titan.online
 attacker.tv
-attackertv.net
 attractiveservices.com
 atzenbunker.xyz
 tracker.auctor.tv
@@ -1293,7 +1273,6 @@ biggapan.tv
 bigpichost.com
 bigtorrent.eu
 bigtorrent.org
-bigtracker.org
 bigvault.com
 bilasport.net
 bilibt.com
@@ -1701,7 +1680,6 @@ cartoonhd.cz
 cartoonhd.pw
 casacinema.arab
 casacinema.beauty
-casacinema.bid
 casacinema.biz
 casacinema.com
 casacinema.de
@@ -1732,7 +1710,6 @@ casacinema.ru
 casacinema.site
 casacinema.skin
 casacinema.tube
-casacinema.tv
 casacinema.uno
 casacinema.us
 casacinema.vg
@@ -1750,11 +1727,9 @@ cb01.app
 cb01.arab
 cb01.asia
 cb01.autos
-cb01.bar
 cb01.bargains
 cb01.be
 cb01.beer
-cb01.best
 cb01.bet
 cb01.bid
 cb01.bio
@@ -1763,7 +1738,6 @@ cb01.boats
 cb01.boo
 cb01.boutique
 cb01.builders
-cb01.cam
 cb01.camp
 cb01.capital
 cb01.cards
@@ -1793,7 +1767,6 @@ cb01.computer
 cb01.construction
 cb01.contractors
 cb01.credit
-cb01.cx
 cb01.dance
 cb01.day
 cb01.de
@@ -1841,7 +1814,6 @@ cb01.irish
 cb01.is
 cb01.it
 cb01.kaufen
-cb01.kids
 cb01.land
 cb01.lat
 cb01.li
@@ -1893,9 +1865,7 @@ cb01.run
 cb01.sbs
 cb01.school
 cb01.services
-cb01.shop
 cb01.singles
-cb01.site
 cb01.social
 cb01.solar
 cb01.solutions
@@ -1908,7 +1878,6 @@ cb01.systems
 cb01.tattoo
 cb01.taxi
 cb01.tienda
-cb01.tips
 cb01.tk
 cb01.today
 cb01.tools
@@ -1916,7 +1885,6 @@ cb01.top
 cb01.tours
 cb01.toys
 cb01.training
-cb01.tv
 cb01.uno
 cb01.us
 cb01.vacations
@@ -1930,7 +1898,6 @@ cb01.wales
 cb01.webcam
 cb01.website
 cb01.wiki
-cb01.work
 cb01.works
 cb01.world
 cb01.ws
@@ -1950,7 +1917,6 @@ cda-hd.cc
 cdcovers.cc
 cddownloadfree.org
 cdromance.com
-ceasers-palace.info
 celerystresser.com
 central-torrent.eu
 centralflix.net
@@ -2016,7 +1982,6 @@ cineblog01.cards
 cineblog01.care
 cineblog01.casa
 cineblog01.cc
-cineblog01.city
 cineblog01.click
 cineblog01.cloud
 cineblog01.club
@@ -2075,7 +2040,6 @@ cineblog01.network
 cineblog01.news
 cineblog01.one
 cineblog01.online
-cineblog01.org
 cineblog01.pet
 cineblog01.pics
 cineblog01.pink
@@ -2131,14 +2095,12 @@ cinemagratis.arab
 cinemagratis.co
 cinemagratis.com
 cinemagratis.fm
-cinemagratis.info
 cinemagratis.it
 cinemagratis.link
 cinemagratis.music
 cinemagratis.net
 cinemagratis.online
 cinemagratis.org
-cinemagratis.site
 cinemagratis.vg
 cinemagratis.ws
 cinemagratis.xyz
@@ -2210,7 +2172,6 @@ cmovies.mobi
 cmovies.one
 cmovies.so
 cmovies.space
-cmovies.tv
 cmovies.us
 cmovies.video
 cmovies.vip
@@ -2244,7 +2205,6 @@ master-torrents-tracker.co.cc
 mega.co.nz
 megashare.co.uk
 tracker1.bt.moack.co.kr
-movieheaven.co.uk
 nhltorrents.co.uk
 fss.omnilounge.co.uk
 fst.omnilounge.co.uk
@@ -2277,7 +2237,6 @@ code2chicken.nl
 codecanyon.download
 codelist.cc
 codeskeys24.com
-coeg.tv
 coeg21.com
 coexist.biz
 coflix.tv
@@ -2421,7 +2380,6 @@ crack4soft.com
 crack55.com
 crack81.com
 crackaio.com
-crackcrew.com
 crackdb.com
 crackdb.org
 cracked.io
@@ -2452,7 +2410,6 @@ cracks4download.com
 cracks4software.com
 crackserialcodes.com
 crackserialkeygen.com
-crackserialpro.com
 crackserver.com
 crackslink.com
 cracksnow.com
@@ -2476,7 +2433,6 @@ cramit.in
 cramitin.net
 tracker.crawfish.cf
 crawli.net
-crazefiles.com
 crazy4tv.com
 crazyctg.com
 crazyhd.com
@@ -2509,7 +2465,6 @@ u4.trakx.crim.ist
 u6.trakx.crim.ist
 critical-boot.com
 crnaberza.com
-crocovid.com
 crosstowntorrents.org
 crotorrents.com
 crownbit.cc
@@ -2534,7 +2489,6 @@ ctgtel.net
 tracker1.ctix.cn
 tracker2.ctix.cn
 tracker3.ctix.cn
-tracker.cubicview.site
 tr2.cubonegro.lol
 tracker.cubonegro.lol
 tracker.cubonegro.xyz
@@ -2802,7 +2756,6 @@ dizcompany.ru
 dize.tv
 djconway.com
 djleak.com
-dl-more.eu
 bt.dl1234.com
 dl480p.xyz
 dl4all.org
