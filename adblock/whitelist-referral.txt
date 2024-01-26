@@ -384,3 +384,5 @@
 @@||eulerian.net^
 @@||admarkt.kleinanzeigen.de^
 @@||gate-ag.first-id.fr^
+@@||api.elasticemail.com^
+@@||ssl.hurra.com^

@@ -39,6 +39,7 @@
 (\.|^)anrdoezrs\.net$
 (\.|^)api\.bam\-x\.com$
 (\.|^)api\.cleverpush\.com$
+(\.|^)api\.elasticemail\.com$
 (\.|^)api.*\.hubapi\.com$
 (\.|^)api\.narrativ\.com$
 (\.|^)apiservices\.krxd\.net$
@@ -311,6 +312,7 @@
 (\.|^)sites\.hscoscdn.*\.net$
 (\.|^)slickdeals\.net$
 (\.|^)solution\.weborama\.fr$
+(\.|^)ssl\.hurra\.com$
 (\.|^)static\.cleverpush\.com$
 (\.|^)stvkr\.com$
 (\.|^)suite.*\.emarsys\.net$
