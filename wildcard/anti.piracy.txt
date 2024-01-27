@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 26 Jan 2024 23:22 UTC
-# Version: 2024.0126.2322.45
+# Last modified: 27 Jan 2024 23:24 UTC
+# Version: 2024.0127.2324.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10653
+# Number of entries: 10616
 #
 *.blink-stresser.000webhostapp.com
 *.ddos-ovh-v6.000webhostapp.com
@@ -2954,7 +2954,6 @@
 *.dunia21.pro
 *.dunia21.pw
 *.dunia21.social
-*.dunia21.zone
 *.dup3.me
 *.dupefr.com
 *.durantonetworkbd.com
@@ -3159,7 +3158,6 @@
 *.eurostreaming.app
 *.eurostreaming.arab
 *.eurostreaming.archi
-*.eurostreaming.asia
 *.eurostreaming.autos
 *.eurostreaming.baby
 *.eurostreaming.bar
@@ -3206,7 +3204,6 @@
 *.eurostreaming.directory
 *.eurostreaming.doctor
 *.eurostreaming.dog
-*.eurostreaming.earth
 *.eurostreaming.eu
 *.eurostreaming.events
 *.eurostreaming.expert
@@ -3564,7 +3561,6 @@
 *.filman.cc
 *.filmbagoes21.com
 *.filmbits.net
-*.filmbuffstuff.com
 *.filmcomplet.al
 *.filmcomplet.vip
 *.filmeflix.online
@@ -3590,7 +3586,6 @@
 *.filmi-torrents.com
 *.filmid.net
 *.filmindo.org
-*.filmindo.tv
 *.filmindo21.us
 *.filmitastreaming.zone
 *.filmitorrent.net
@@ -3624,7 +3619,6 @@
 *.filmpertutti.cfd
 *.filmpertutti.ch
 *.filmpertutti.cloud
-*.filmpertutti.club
 *.filmpertutti.co
 *.filmpertutti.com
 *.filmpertutti.cool
@@ -3638,7 +3632,6 @@
 *.filmpertutti.fan
 *.filmpertutti.film
 *.filmpertutti.fm
-*.filmpertutti.gdn
 *.filmpertutti.gold
 *.filmpertutti.group
 *.filmpertutti.guru
@@ -3652,7 +3645,6 @@
 *.filmpertutti.li
 *.filmpertutti.life
 *.filmpertutti.limo
-*.filmpertutti.live
 *.filmpertutti.loan
 *.filmpertutti.lol
 *.filmpertutti.love
@@ -3685,9 +3677,7 @@
 *.filmpertutti.tax
 *.filmpertutti.tel
 *.filmpertutti.tips
-*.filmpertutti.today
 *.filmpertutti.top
-*.filmpertutti.tv
 *.filmpertutti.uno
 *.filmpertutti.us
 *.filmpertutti.vg
@@ -3700,7 +3690,6 @@
 *.filmpertutti.world
 *.filmpertutti.ws
 *.filmpertutti.xyz
-*.filmplay.org
 *.filmraja.com
 *.filmrls.com
 *.films-ddl.net
@@ -3722,7 +3711,6 @@
 *.filmsenzalimiti.cool
 *.filmsenzalimiti.eu
 *.filmsenzalimiti.fm
-*.filmsenzalimiti.fun
 *.filmsenzalimiti.gold
 *.filmsenzalimiti.host
 *.filmsenzalimiti.info
@@ -3750,7 +3738,6 @@
 *.filmsenzalimiti.stream
 *.filmsenzalimiti.top
 *.filmsenzalimiti.tube
-*.filmsenzalimiti.tv
 *.filmsenzalimiti.uno
 *.filmsenzalimiti.vg
 *.filmsenzalimiti.ws
@@ -3759,7 +3746,6 @@
 *.filmsrip.life
 *.filmsrip.xyz
 *.filmstoon.stream
-*.filmstorrent.xyz
 *.filmstreamcomplet.fr
 *.filmstreaming.al
 *.filmstreaming.am
@@ -3768,7 +3754,6 @@
 *.filmstreaming.best
 *.filmstreaming.biz
 *.filmstreaming.buzz
-*.filmstreaming.bz
 *.filmstreaming.ca
 *.filmstreaming.cam
 *.filmstreaming.cc
@@ -4059,7 +4044,6 @@
 *.freeiptvserver.com
 *.freeline.ws
 *.freemediabd.com
-*.freemocmovies.com
 *.freemovies.buzz
 *.freemovies.media
 *.freemovies360.com
@@ -4124,7 +4108,6 @@
 *.ftpz.us
 *.ftuapps.dev
 *.fubo.tv
-*.tr.fuckbitcoin.xyz
 *.full-tv.xyz
 *.fullactivator.com
 *.fullcrackserial.net
@@ -4243,7 +4226,6 @@
 *.general-files.com
 *.torrent.genesis-movement.org
 *.genesis-sp.org
-*.top50-rap-ddl.genhit.com
 *.genmirror.com
 *.genoanime.com
 *.genvideos.com
@@ -4420,7 +4402,6 @@
 *.guardarefilm.arab
 *.guardarefilm.biz
 *.guardarefilm.boats
-*.guardarefilm.casa
 *.guardarefilm.click
 *.guardarefilm.com
 *.guardarefilm.cyou
@@ -4432,7 +4413,6 @@
 *.guardarefilm.music
 *.guardarefilm.one
 *.guardarefilm.org
-*.guardarefilm.recipes
 *.guardarefilm.red
 *.guardarefilm.space
 *.guardarefilm.today
@@ -4458,7 +4438,6 @@
 *.guardaserie.care
 *.guardaserie.casa
 *.guardaserie.cc
-*.guardaserie.chat
 *.guardaserie.city
 *.guardaserie.club
 *.guardaserie.co
@@ -4489,14 +4468,12 @@
 *.guardaserie.futbol
 *.guardaserie.gdn
 *.guardaserie.gift
-*.guardaserie.gold
 *.guardaserie.green
 *.guardaserie.homes
 *.guardaserie.host
 *.guardaserie.icu
 *.guardaserie.immo
 *.guardaserie.industries
-*.guardaserie.info
 *.guardaserie.institute
 *.guardaserie.international
 *.guardaserie.irish
@@ -4542,7 +4519,6 @@
 *.guardaserie.report
 *.guardaserie.rest
 *.guardaserie.restaurant
-*.guardaserie.run
 *.guardaserie.sale
 *.guardaserie.science
 *.guardaserie.services
@@ -4557,10 +4533,8 @@
 *.guardaserie.studio
 *.guardaserie.sydney
 *.guardaserie.tax
-*.guardaserie.taxi
 *.guardaserie.team
 *.guardaserie.tips
-*.guardaserie.tires
 *.guardaserie.top
 *.guardaserie.tours
 *.guardaserie.town
@@ -4575,7 +4549,6 @@
 *.guardaserie.watch
 *.guardaserie.website
 *.guardaserie.wine
-*.guardaserie.world
 *.guardaserie.ws
 *.guardaserie.wtf
 *.guardaserie.xyz
@@ -4637,7 +4610,6 @@
 *.haxxx.net
 *.haykowarez.ru
 *.hazebooter.com
-*.hbwarez.com
 *.hd-bits.ro
 *.hd-cztorrent.cz
 *.hd-source.to
@@ -4778,7 +4750,6 @@
 *.bdix.hitechisp.com
 *.hitfile.net
 *.tracker.hitpt.com
-*.tracker.hitpt.org
 *.hitsfilms.net
 *.hitzwarez.net
 *.tracker.hiyj.cn
@@ -4840,7 +4811,6 @@
 *.hungercity.org
 *.torrents.huntparkinsider.com
 *.hurawatch.at
-*.hurawatch.com
 *.hurawatch.org
 *.hurawatch.ru
 *.hurawatch.stream
@@ -4934,7 +4904,6 @@
 *.ilgeniodellostreaming.dance
 *.ilgeniodellostreaming.day
 *.ilgeniodellostreaming.de
-*.ilgeniodellostreaming.dog
 *.ilgeniodellostreaming.eu
 *.ilgeniodellostreaming.fm
 *.ilgeniodellostreaming.fyi
@@ -4957,7 +4926,6 @@
 *.ilgeniodellostreaming.limo
 *.ilgeniodellostreaming.link
 *.ilgeniodellostreaming.live
-*.ilgeniodellostreaming.llc
 *.ilgeniodellostreaming.lol
 *.ilgeniodellostreaming.me
 *.ilgeniodellostreaming.media
@@ -5213,7 +5181,6 @@
 *.italia-film.top
 *.italia-film.tv
 *.italia-film.vg
-*.italia-film.world
 *.italia-film.ws
 *.italiafilm.fun
 *.italiaserie.cc
@@ -5445,11 +5412,9 @@
 *.kinol.pl
 *.kinomall.ru
 *.kinomax.to
-*.kinomix.tv
 *.kinomob.com
 *.kinorun.com
 *.kinos.to
-*.kinotracker.org
 *.kinox.am
 *.kinox.bz
 *.kinox.click
@@ -5559,7 +5524,6 @@
 *.layarlebar24.asia
 *.layarlebar24.blog
 *.layarlebar24.digital
-*.layarlebar24.sbs
 *.layarlebar24.site
 *.layer13.net
 *.layer7.pw
@@ -7795,7 +7759,6 @@
 *.samftp.com
 *.tracker.samplicio.us
 *.samsung-s5230.ru
-*.sandisk.com
 *.sandrotracker.biz
 *.sanet.lc
 *.sanet.st
