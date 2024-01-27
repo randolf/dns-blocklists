@@ -21019,8 +21019,6 @@ normaeducation.com CNAME .
 *.normaeducation.com CNAME .
 opencart.notebookparcalari.com CNAME .
 *.opencart.notebookparcalari.com CNAME .
-monograph.notesnook.com CNAME .
-*.monograph.notesnook.com CNAME .
 notesrumba.com CNAME .
 *.notesrumba.com CNAME .
 cid-02475326.notice-pages.com CNAME .

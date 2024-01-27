@@ -12062,7 +12062,6 @@
 *.nortonupdates.online
 *.notaire-gay-friendly.fr
 *.opencart.notebookparcalari.com
-*.monograph.notesnook.com
 *.notesrumba.com
 *.cid-02475326.notice-pages.com
 *.cid-15424869.notice-pages.com
