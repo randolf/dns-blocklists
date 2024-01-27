@@ -42,8 +42,8 @@
 | :green_book:[Light](#light)             | 223469<br>69022     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | 713728<br>150471     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 1001295<br>256762         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 1344274<br>365780 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 1475076<br>402755 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 1344272<br>365778 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 1475074<br>402753 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -123,7 +123,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1344274 domains/hosts - 365780 compressed domains*               
+**Entries:** *1344272 domains/hosts - 365778 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -144,7 +144,7 @@
          
 ***NOTE:*** *META trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger apps. To use Facebook/Instagram apps with Ultimate, unblock the following domains: [META Tracker](share/facebook.txt)*
        
-**Entries:** *1475076 domains/hosts - 402755 compressed domains*               
+**Entries:** *1475074 domains/hosts - 402753 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
