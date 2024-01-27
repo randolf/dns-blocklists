@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1706310780 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1706397240 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Jan 2024 23:13 UTC
-; Version: 2024.0126.2313.17
+; Last modified: 27 Jan 2024 23:14 UTC
+; Version: 2024.0127.2314.39
 ; Syntax: RPZ
-; Number of entries: 5296
+; Number of entries: 5282
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -980,8 +980,6 @@ frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 funknetwork.com CNAME .
 *.funknetwork.com CNAME .
-gabstorm.com CNAME .
-*.gabstorm.com CNAME .
 gamers-nor.com CNAME .
 *.gamers-nor.com CNAME .
 gamingssh.com CNAME .
@@ -1166,8 +1164,6 @@ noads.imbuffering.com CNAME .
 *.noads.imbuffering.com CNAME .
 in-disguise.com CNAME .
 *.in-disguise.com CNAME .
-india-timeline.com CNAME .
-*.india-timeline.com CNAME .
 indialifes.com CNAME .
 *.indialifes.com CNAME .
 indo-ssh.com CNAME .
@@ -1226,8 +1222,6 @@ ivacy.com CNAME .
 *.ivacy.com CNAME .
 jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
-japanwebproxy.com CNAME .
-*.japanwebproxy.com CNAME .
 jellyvpn.com CNAME .
 *.jellyvpn.com CNAME .
 jetbean.com CNAME .
@@ -2672,8 +2666,6 @@ proxyweb.com.es CNAME .
 *.proxyweb.com.es CNAME .
 getproxi.es CNAME .
 *.getproxi.es CNAME .
-incloak.es CNAME .
-*.incloak.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 ultrasurf.es CNAME .
@@ -2994,8 +2986,6 @@ happydata.info CNAME .
 *.happydata.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
-hideme101.info CNAME .
-*.hideme101.info CNAME .
 hidemyurl.info CNAME .
 *.hidemyurl.info CNAME .
 hidingyour.info CNAME .
@@ -4034,8 +4024,6 @@ waw-pl.prcdn.net CNAME .
 *.waw-pl.prcdn.net CNAME .
 premiumproxy.net CNAME .
 *.premiumproxy.net CNAME .
-dns.privilab.net CNAME .
-*.dns.privilab.net CNAME .
 protonvpn.net CNAME .
 *.protonvpn.net CNAME .
 proxify.net CNAME .
@@ -4904,8 +4892,6 @@ vpn.sh CNAME .
 *.vpn.sh CNAME .
 privacydns.go6lab.si CNAME .
 *.privacydns.go6lab.si CNAME .
-hiddendragon.site CNAME .
-*.hiddendragon.site CNAME .
 mycelium.site CNAME .
 *.mycelium.site CNAME .
 proxysite.site CNAME .
