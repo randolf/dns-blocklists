@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jan 2024 23:49 UTC
-# Version: 2024.0126.2349.01
+# Last modified: 27 Jan 2024 23:51 UTC
+# Version: 2024.0127.2351.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 15128
+# Number of entries: 15015
 #
 *.11trikots.com
 *.123-konsolit.store
@@ -3346,7 +3346,6 @@
 *.e-shopplat.com
 *.e-shopplatz.com
 *.e-storeplace.com
-*.e-stube.net
 *.e-thg.de
 *.e-topfitness.com
 *.e-trading.store
@@ -3397,7 +3396,6 @@
 *.eccooutlet-suomi.com
 *.eccooutletdeutschland.de
 *.eccooutletsklep.pl
-*.eccooutletsuomi.com
 *.eccooutletsuomis.com
 *.eccorusland.com
 *.eccoschuheberlin.de
@@ -3504,7 +3502,6 @@
 *.einzu.de
 *.eira-line.com
 *.eiroshop.lv
-*.eis-henning.de
 *.eisenbahnzubehorde.com
 *.eisenwarensale-shop.com
 *.eispiny.com
@@ -3525,11 +3522,9 @@
 *.electrictoysshop.com
 *.electrifytools.com
 *.shop.electro-center.lu
-*.electro-deal.fr
 *.electro-worlds.shop
 *.electrodeal24.de
 *.shop.electrolux.at
-*.electronicitemnew.com
 *.electroniconlive.com
 *.electronis.shop
 *.electros-market.com
@@ -3549,7 +3544,6 @@
 *.elektro-bohmer.com
 *.elektro-dreher.com
 *.elektro-ecke.de
-*.elektro-eich.com
 *.elektro-evolution.de
 *.elektro-friedrich.com
 *.elektro-gerber.de
@@ -3559,7 +3553,6 @@
 *.elektro-knoll.com
 *.elektro-konsolen.com
 *.elektro-litvinov.com
-*.elektro-media.com
 *.elektro-meisner.com
 *.elektro-oase.de
 *.elektro-palme.com
@@ -3571,7 +3564,6 @@
 *.elektrohandelplus.de
 *.elektroholz.com
 *.elektrola-brothers.de
-*.elektroladen-eckert.com
 *.elektromisch24.com
 *.elektromobel.com
 *.elektromobelmarkt.com
@@ -3628,7 +3620,6 @@
 *.emergingjewelry.com
 *.emergingsurf.com
 *.emhart-holze.com
-*.emiliameyer.de
 *.emiliegan.com
 *.eminetfinancesystem.com
 *.emishoes.com
@@ -3638,7 +3629,6 @@
 *.emmebineon.it
 *.emmerthal-tierarzt.de
 *.emmiol.com
-*.emp-versand.de
 *.employvista-deu.com
 *.employwatch.com
 *.emporiumcosplay.com
@@ -3666,9 +3656,7 @@
 *.energy-dilegno.com
 *.energy-ea.de
 *.energychm.de
-*.energynatural.shop
 *.engel-autoreifen.shop
-*.engelbert-strau.shop
 *.engelhardt-autoreifen.com
 *.engelhardt-reifen.com
 *.engelhardt-ses.de
@@ -3688,14 +3676,12 @@
 *.enjoypowertools.com
 *.enjoyskateboard.com
 *.enjoyvogueitem.com
-*.enormous.shop
 *.ensemble4cyclisme.com
 *.enstocks3v.top
 *.entertainmentstylish.com
 *.enthusiastichaic.com
 *.entruempelungsexperten.at
 *.entrustjewelry.com
-*.enuvio.de
 *.eoahdbv.cn
 *.eolia-stores.shop
 *.eonlinew.com
@@ -3799,10 +3785,8 @@
 *.eupalm.de
 *.eupills.com
 *.euprofits.com
-*.eurnics.com
 *.euro-brennbar.com
 *.euro-cash-finance.com
-*.euro-markt-elektro.online
 *.euro-nics-deutschland.com
 *.euro-pharma24x7.com
 *.euro-pill.com
@@ -3818,7 +3802,6 @@
 *.euronics-de.com
 *.euronics-degame.com
 *.euronics-euro.com
-*.euronics-europa.com
 *.euronics-ser.de
 *.euronicsde.com
 *.euronicsde.de
@@ -3855,6 +3838,7 @@
 *.europarealestate.eu
 *.europatradecapital.com
 *.europe-electro-shop.com
+*.bmw.europe-moto.com
 *.europe-pharm.net
 *.europe-solarstore.com
 *.europeangeneric.com
@@ -3889,7 +3873,6 @@
 *.everazio.net
 *.everbike24.de
 *.everflix.de
-*.everlodge.io
 *.evermily.com
 *.everyhomeware.com
 *.everyknives.com
@@ -4016,7 +3999,6 @@
 *.fahrzeugprada.de
 *.bx25dlbkubota.fahrzeugs.com
 *.fair-praesente.de
-*.faire-bikes.de
 *.faithjewelry.space
 *.fake-id.de
 *.falinas.at
@@ -4138,7 +4120,6 @@
 *.fasturbanlogistics.com
 *.fastyslim.de
 *.fatburnerking.at
-*.fatstyleface.com
 *.fauke.de
 *.faust-autoreifen.com
 *.faust-reifenversand.com
@@ -4158,7 +4139,6 @@
 *.federnd-fit.de
 *.feederruten.com
 *.feedingweaning.com
-*.feelhappyrebate.com
 *.feher-buch.de
 *.feiautumn.top
 *.feilerelektro.com
@@ -4289,7 +4269,6 @@
 *.finnexbot.com
 *.ww7.finotive.net
 *.fintechnews.live
-*.fintegral.fund
 *.fintegral.world
 *.finyxrefund.com
 *.firalo.de
@@ -4349,7 +4328,6 @@
 *.fitoutusabroad.com
 *.fitoutusoffice.com
 *.fitpeakstore.com
-*.fits-training.de
 *.fittingdiscount.com
 *.fiveoneonetactical.com
 *.fivesixgroup.com
@@ -4374,7 +4352,6 @@
 *.flatteringman.com
 *.flatteringshoes.com
 *.flawlesshousehold.com
-*.flehmanns.de
 *.fleischer-reifen.com
 *.flesch-gmbh.de
 *.fleshjacket.com
@@ -4475,7 +4452,6 @@
 *.formanacupuncture.com
 *.formsmarthome.de
 *.forpatiofurniture.com
-*.forsalebois.com
 *.forsalecosmetics.com
 *.forsalemusic.com
 *.forsellbike.com
@@ -4494,11 +4470,9 @@
 *.foxbillig.com
 *.foxeyecares.com
 *.foxflix.de
-*.foxnewstrade.org
 *.foxrabatt.de
 *.fpc-klxfina.com
 *.fpilahue.com
-*.francapopulair.com
 *.france-lavignette.com
 *.france-vignette.com
 *.franceshopping.online
@@ -4506,7 +4480,6 @@
 *.franke-reifen.com
 *.frankiesdubai.com
 *.franziskawelpenhaus.com
-*.franzisko-dachdecker.de
 *.franzland.de
 *.frau-grau.de
 *.fraubrit-shoppt.de
@@ -4532,7 +4505,6 @@
 *.freilaufrollende.com
 *.freiwing.de
 *.freizeitjackensalesshop.com
-*.frenchiebulldogpuppies4all.com
 *.frenzel-reifen.com
 *.frenzel-reifenhandel.shop
 *.frequencywizard.com
@@ -4588,7 +4560,6 @@
 *.fugendo.com
 *.fuhrmann-reifen.com
 *.fulda-handel.com
-*.fulda-handel.de
 *.fuldo.de
 *.fulfillogic.com
 *.fumalo.com
@@ -4616,7 +4587,6 @@
 *.furniture-quality.com
 *.furniture-super.com
 *.furnitureacme.com
-*.furniturebernhardt.com
 *.furniturecommon.com
 *.furnituredealus.com
 *.furnituredisa.com
@@ -4692,7 +4662,6 @@
 *.gaboroutletosterreich.com
 *.gaborphilippines.com
 *.gaborschoenen.com
-*.gaborschuhe.at
 *.gaborschuhe.com
 *.gaborschuhesale.de
 *.gaborschuheschweiz.com
@@ -4733,9 +4702,6 @@
 *.game-adventures.com
 *.game-byte.com
 *.game-dynamics.com
-*.game-stop-de.com
-*.game-stopde.org
-*.game-stopeuro.com
 *.game-str.com
 *.gamebasic-de.com
 *.gamecityz.com
@@ -4749,22 +4715,15 @@
 *.gamesfox.de
 *.gamesmojo.de
 *.gamesstudionuernberg.com
-*.gamestop-de.com
 *.gamestop-deutscheland.com
-*.gamestop-eurode.com
 *.gamestop-play.com
-*.gamestop-shop.com
 *.gamestopcorpde.com
-*.gamestopde.com
 *.gamestopde.de
 *.gamestopdeutsche.com
-*.gamestopgmbhde.com
 *.gamestopland.com
-*.gamestoplanden.net
 *.gamestopmarket.com
 *.gamestoponline.de
 *.gamestoponline.net
-*.gamestopshopp.com
 *.gamestopstockde.com
 *.gamestopstorede.com
 *.gamestore-versand.de
@@ -4780,7 +4739,6 @@
 *.gamingbuddy.eu
 *.gamingmarkt.de
 *.gamingonline.store
-*.gamingpalast.com
 *.gamingpark.net
 *.gamingplanet.eu
 *.gamingplaza.de
@@ -4799,7 +4757,6 @@
 *.garagveos-motosallmnn.shop
 *.garbagerackofficial.com
 *.gardana.net
-*.gardano.net
 *.garden-sell.com
 *.garden-toolsshop.com
 *.gardenanddiyneu.de
@@ -4828,7 +4785,6 @@
 *.garmin-markt.de
 *.garmin-online.com
 *.garten-bee.com
-*.garten-dingeldey.de
 *.shop.garten-forst-technik-demmel.de
 *.garten-frische.de
 *.garten-hagemann.com
@@ -4889,7 +4845,6 @@
 *.gedune.de
 *.geek-section.com
 *.geertvanharen.com
-*.gehenshop.de
 *.geisler-autoreifen.com
 *.geissler-autoreifen.com
 *.geissmanns.de
@@ -5010,7 +4965,6 @@
 *.ghjoeij.store
 *.ghostarmy.de
 *.ghostis.de
-*.gideonsarmymusic.com
 *.giese-reifenversand.com
 *.giesler-drogerie.com
 *.giesswein.shop
@@ -5037,9 +4991,7 @@
 *.gilltry.com
 *.gimmylogistcis.com
 *.gimora.de
-*.ginkgo-blumen.de
 *.giondo.de
-*.giondo-online.de
 *.giotagartenarbeit.com
 *.girlsruby.com
 *.girlstaste.com
@@ -5061,8 +5013,6 @@
 *.glassbestsellers.com
 *.glassesde.com
 *.glennauto.shop
-*.gleuelspd.de
-*.gling-misu.de
 *.glitzce.com
 *.glitzermoment.com
 *.glo-realestate.com
@@ -5070,7 +5020,6 @@
 *.globalcomfee.com
 *.globalcryptotraders.com
 *.globalermarkt.com
-*.globalfinancesbnk.com
 *.globallogisticltd.com
 *.globalmedsnet.com
 *.globalpharmacystore.com
@@ -5127,7 +5076,6 @@
 *.gold-und-handel.de
 *.goldavenue24.com
 *.goldbank-hamburg.de
-*.goldbank-muenchen.de
 *.goldbannerx.org
 *.goldcapital24.com
 *.golden-groups.com
@@ -5135,7 +5083,6 @@
 *.goldenlite.ltd
 *.goldf-tradex.com
 *.goldhandel-degussa.com
-*.goldhandel-degussa.de
 *.goldhandel-heute.de
 *.goldhandel-kauf.de
 *.goldhandel-testsieger.de
@@ -5145,7 +5092,6 @@
 *.goldkontor-1972.de
 *.goldkontor-testsieger1972.de
 *.goldo-finanzierung.ch
-*.goldreward.io
 *.goldscheide-anstalt-kontor.de
 *.goldscheideanstalt-2023.com
 *.goldscheideanstalt-deutschland.com
@@ -5279,7 +5225,6 @@
 *.groundiesgreeceoutlet.com
 *.groundiesgreeces.com
 *.groundiesinsuomi.com
-*.groundiesosterreich.at
 *.groundiesoutletchile.com
 *.groundiesoutletportugal.com
 *.groundiesoutletsuomi.com
@@ -5294,13 +5239,11 @@
 *.growhigh-werkzeuge.de
 *.de.grp-lissa.com
 *.grtc.cc
-*.grubb-trans.com
 *.gruber-autoreifen.com
 *.gruber-reifenversand.com
 *.gruene-niederbarnim.de
 *.gruenstark.de
 *.gruktis.com
-*.grunen-nachbarn.com
 *.gshpanel.com
 *.gsialfresco.com
 *.gtblogistics.com
@@ -5328,7 +5271,6 @@
 *.gummirando.com
 *.gunkn.com
 *.gunservice-inter.com
-*.gunstigskaufens.com
 *.gunterkaufen.com
 *.gurupy.com
 *.gusti-ledertaschen.de
@@ -5336,7 +5278,6 @@
 *.gute-holz.de
 *.guteapotheke.org
 *.gutehauswelpen.com
-*.guteholzheizung.de
 *.gutenkredit.com
 *.gutenstore.com
 *.guterkauf.com
@@ -5350,7 +5291,6 @@
 *.gws-powercell.de
 *.gwz-max.de
 *.gym-base.de
-*.gym-shark-canada.com
 *.gym-shark-danmark.com
 *.gym-shark-egypt.com
 *.gym-shark-india.com
@@ -5358,7 +5298,6 @@
 *.gym-shark-osterreich.com
 *.gym-shark-philippines.com
 *.gym-shark-schweiz.com
-*.gym-shark-turkiye.com
 *.gym-sharkgreece.com
 *.gym-sharknorge.com
 *.gym-sharksuomi.com
@@ -5370,7 +5309,6 @@
 *.gymshark-austria.at
 *.gymshark-austria.com
 *.gymshark-cz-shop.com
-*.gymshark-fi.com
 *.gymshark-finland.com
 *.gymshark-italia.com
 *.gymshark-no.com
@@ -5392,7 +5330,6 @@
 *.gymsharkcanadastore.com
 *.gymsharkcolombia-co.com
 *.gymsharkczsale.com
-*.gymsharkczshop.cz
 *.gymsharkdanmark.com
 *.gymsharkdublin.com
 *.gymsharkeufinland.com
@@ -5410,10 +5347,8 @@
 *.gymsharkosterreichshop.at
 *.gymsharkosterreichshop.com
 *.gymsharkosterreichshops.com
-*.gymsharkoutletsuomi.com
 *.gymsharkperu.com
 *.gymsharkrea.com
-*.gymsharkshoposterreich.com
 *.gymsharksingaporeshop.com
 *.gymsharksklep.pl
 *.gymsharkslovenijaeu.com
@@ -5430,9 +5365,7 @@
 *.gymsharksuomi-fi.com
 *.gymsharksweden.com
 *.gymsharkukoutlet.com
-*.gymsharkwien.com
 *.gymsharkwinkel.com
-*.gymsharkzurich.com
 *.gyopar.net
 *.gzbiaogan.com
 *.h-birds.store
@@ -5442,14 +5375,11 @@
 *.haarprofis.com
 *.haase-autoreifen.com
 *.habakidtoy.com
-*.habbel-haustechnik.de
-*.haberfasher.com
 *.habitatforshoes.com
 *.habres-versand.de
 *.hackbrettschritte.de
 *.hackettaustria.at
 *.hackettlondonde.com
-*.hackettoutlets.com
 *.hackettsrbija.com
 *.haden.at
 *.haeramon.de
@@ -5461,7 +5391,6 @@
 *.hagfinance.com
 *.haglofsoutlethelsinki.com
 *.haglofsoutletsuomi.com
-*.haglofssuomifi.com
 *.hagomann.de
 *.hahn-autoreifen.shop
 *.hair-oil.store
@@ -5588,7 +5517,6 @@
 *.hauptapotheke.com
 *.hauptmarkt.com
 *.haus-delrio.com
-*.haus-der-bos.com
 *.haus-stmartin.de
 *.hauser-personal.de
 *.hausexpressholz.de
@@ -5606,7 +5534,6 @@
 *.haushaltprada.de
 *.haushalts-elektro.de
 *.haushalts-elektronik.com
-*.haushalts-hit.de
 *.haushalts-outlet.com
 *.haushaltsheld.com
 *.haushaltskoenig.de
@@ -5629,13 +5556,11 @@
 *.hawaiishirt-shop.com
 *.hawalili.com
 *.hawalili.de
-*.hazell.store
 *.hazeuhren.com
 *.hc-spedition.com
 *.hcbikeopt.com
 *.hcibirix.com
 *.hcm.clinic
-*.hcslimburg.de
 *.hdflix.de
 *.hdtvcar.com
 *.hdwelt.de
@@ -5699,7 +5624,6 @@
 *.heizhaus-kohle.de
 *.heizholzangebot.de
 *.heizkessel-sale.com
-*.heizobrennholz.com
 *.heizoel-24.eu
 *.heizoel-profi.com
 *.heizoel-station.com
@@ -5716,7 +5640,6 @@
 *.helikontexoutdoor.com
 *.hellersommer.de
 *.helloelife.com
-*.hellomarkt.com
 *.hellorolexwatch.com
 *.hellostella.de
 *.hells-kitchen-ink.de
@@ -5747,7 +5670,6 @@
 *.hellyhansenromania.net
 *.hellyhansenschweiz.com
 *.hellyhansensrbija.com
-*.hellyhansensuomi.com
 *.hellyhansensuomi.net
 *.hellyhansenuk.com
 *.hellyhansenuruguay.com
@@ -5846,7 +5768,6 @@
 *.hinrichs-reifenhandel.com
 *.hinrichs-reifenversand.shop
 *.hipcraftsupply.com
-*.hiring-assist-logistic.com
 *.hiverchauffage.com
 *.hiziel.de
 *.hkaf-dienst.com
@@ -5857,7 +5778,6 @@
 *.hoabinhvn.com
 *.hoba23.de
 *.hobakon.com
-*.hobbhop.com
 *.hobbiesapparel.com
 *.hobbiesbasketball.com
 *.hobbiesdress.com
@@ -5926,7 +5846,6 @@
 *.holzenergie-pellets.de
 *.holzermedia.com
 *.holzlagermarket.com
-*.holzliefer.xyz
 *.holzlind.com
 *.holzmeessen.de
 *.holzmeister24.de
@@ -6142,7 +6061,6 @@
 *.huesslers.de
 *.hugenberg-gartencenter.com
 *.hughfurniture.xyz
-*.hugoboss-turkey.com
 *.hugobossnz.com
 *.hugoverkauf.de
 *.huisdecoratie-nl.com
@@ -6174,7 +6092,6 @@
 *.huntergummistiefeloutlet.com
 *.huntergummistiefeloutlets.de
 *.huntergummistiefelsale.com
-*.huntergummistiefelsale.de
 *.hunterkaloszeoutlets.pl
 *.hunterosterreich.at
 *.hunteroutletsale.store
@@ -6239,7 +6156,6 @@
 *.igraalstore.com
 *.igrctoy.com
 *.igyskm.shop
-*.ihb-cruises.de
 *.ihrearztonline.com
 *.ihreecke.com
 *.ihremed.de
@@ -6248,7 +6164,6 @@
 *.ikici.com
 *.ilamparas.de
 *.ilborgocasavacanze.com
-*.ilopax.com
 *.ilsejacobsen-suomi.com
 *.ilsejacobsendeutschland.de
 *.ilsejacobsendublin.com
@@ -6307,7 +6222,6 @@
 *.inflix.de
 *.infodir.net
 *.infodux.de
-*.infotripvnw.com
 *.ingayoga.de
 *.ingbert-unruh.de
 *.ingramfineart.com
@@ -6329,7 +6243,6 @@
 *.inov-8-suomi.com
 *.inov-8osterreich.at
 *.inov-8osterreich.com
-*.inov-8schuhe.de
 *.inov-8suomi.com
 *.inov8boty.cz
 *.inputada.org
@@ -6359,7 +6272,6 @@
 *.inuikii-schweiz.com
 *.invesis-kredit.com
 *.invest-club-de.com
-*.bitsoftera.invest-shoping.com
 *.de.oil-profit.investerscorp.com
 *.investfinanc-group.com
 *.investfw.com
@@ -6370,7 +6282,6 @@
 *.inwibeast.com
 *.ipairs.de
 *.ipanemaosterreich.com
-*.ipanemauae.com
 *.ipcailud.com
 *.iphonelounge.de
 *.ipicplian.top
@@ -6491,7 +6402,6 @@
 *.jimboo.de
 *.jinglebellsland.com
 *.jintuti.com
-*.jinyueshop.com
 *.jjmalibumen.com
 *.jjohnjagler.shop
 *.jkihommag.shop
@@ -6510,7 +6420,6 @@
 *.joesclothing.com
 *.joeygo.com
 *.johann-burgstaller.shop
-*.johann-versand.shop
 *.johanneslemke.de
 *.johannisstein.eu
 *.johanwalker.com
@@ -6567,7 +6476,6 @@
 *.joyfulchristmastales.com
 *.joyfuldollies.com
 *.joyfulkidshub.com
-*.joykieshop.com
 *.joyshoetique.com
 *.joystar.top
 *.jp-cases.com
@@ -6585,7 +6493,6 @@
 *.juicycouturedeutschland.de
 *.juicydesigner.com
 *.julischnetzer.at
-*.junginger-versandhaus.de
 *.jungle-shoes.com
 *.junker-reifen.com
 *.junker-reifenhandel.shop
@@ -6611,7 +6518,6 @@
 *.kabelneu.de
 *.kabinett-sales.com
 *.kabris49.com
-*.kadiwo.de
 *.kaffee-love.de
 *.kaffee-paradies.net
 *.kaffee-sofort.de
@@ -6647,7 +6553,6 @@
 *.kamiksuomi.net
 *.kaminholz-benick.com
 *.kaminholz-vare.com
-*.kaminholzgmbh.com
 *.kammerjaeger7d.at
 *.kamoni.de
 *.kanalreinigung-hilfe.at
@@ -6733,7 +6638,6 @@
 *.kaugeliefgert.com
 *.kausholz.com
 *.kawaiiroleplay.com
-*.kaykaorg.com
 *.kayklingbeil.de
 *.kaylandverkaufe.com
 *.kayser-haushalt.de
@@ -6768,7 +6672,6 @@
 *.keenosterreich.com
 *.keenreduziert.com
 *.keenschuhe.at
-*.keenschuhewien.com
 *.keepfast.online
 *.keesocial.com
 *.kefiretuoysaqnofd.com
@@ -6895,7 +6798,6 @@
 *.kitchenalessi.com
 *.kitchenbuffet-shop.com
 *.kitchenchef.club
-*.kitchencuisinart.com
 *.kitchendrop.de
 *.kitchengoodiessales.com
 *.kitchenhavenn.de
@@ -6963,10 +6865,8 @@
 *.km-holz.de
 *.kmachine.shop
 *.kmlowe.com
-*.kmycjt.com
 *.knapp-reifen.com
 *.knauermann.de
-*.knife-coldsteel.com
 *.knife-limit.com
 *.knife-plus.com
 *.knife-sharp.com
@@ -6987,7 +6887,6 @@
 *.knifewusthofdreizack.com
 *.knitteddress-shop.com
 *.knittedsweatershop.com
-*.knitwearonlienshop.com
 *.kniveboker.com
 *.knives-boker.com
 *.knives-gerber.com
@@ -7050,7 +6949,6 @@
 *.konsolenland.de
 *.konsolenwelt.com
 *.konsoleplay.com
-*.kootz-brennstoffe.com
 *.kopp-reifenhandel.shop
 *.korda-fishing.com
 *.korn-reifenhandel.com
@@ -7062,14 +6960,12 @@
 *.kostuemp.de
 *.kotte-handel.com
 *.kotte-handel.de
-*.kqivlfk.top
 *.krabihotelsthailand.net
 *.kraft-reifen.com
 *.kramercam.com
 *.kranz-autoreifen.shop
 *.kratzbaum-naturholz.shop
 *.kraus-autoreifen.shop
-*.kraussmedien.de
 *.kreation-und-design.de
 *.kreativtravel.de
 *.krechtinger.de
@@ -7095,7 +6991,6 @@
 *.kronen-apotheke-schweinfurt-app.de
 *.kronhard.com
 *.kroomshop.com
-*.krsmusik.de
 *.kruegerdirndl.com
 *.krug-reifenhandel.com
 *.kruggolife.com
@@ -7106,14 +7001,12 @@
 *.kryptonitemaxxis.com
 *.kryptovip.com
 *.ktristandy.com
-*.kuchegeschaft.de
 *.kucheninseln.de
 *.kuchenprodukteprada.com
 *.kuchukov-house.com
 *.kuechen-point24.com
 *.kuechenherzen.de
 *.kuhlecke.de
-*.kulione.com
 *.kultur-bike.com
 *.kulturbike.de
 *.kumicup.com
@@ -7122,7 +7015,6 @@
 *.kunstzeit-ruhr.de
 *.kunz-reifenversand.shop
 *.kuoteshome.com
-*.kurtkadope.com
 *.kurundu.de
 *.kurz-reifenhandel.com
 *.kurz-reifenversand.com
@@ -7152,7 +7044,6 @@
 *.ladiesswimwearnew.com
 *.lady-coat.com
 *.lady-underwear.com
-*.ladypeterkaiser.com
 *.ladyrunclothing.com
 *.ladyshoe.store
 *.ladyshoechannel.com
@@ -7216,8 +7107,6 @@
 *.laptop-akku-shop.com
 *.laptop-akkus.de
 *.laptop-akkus.eu
-*.laptop-markt.net
-*.laptop-online-shop.net
 *.laptopbatterie.ch
 *.laptopdiscount.net
 *.laptoptaschenshop.com
@@ -7231,7 +7120,6 @@
 *.larosawelpen.de
 *.larosawelpenhaus.com
 *.lasanosh.com
-*.lasatoshop.com
 *.laserpointeronline.de
 *.laserschiesskino.at
 *.laspop.top
@@ -7270,11 +7158,9 @@
 *.lautsprecherkko.de
 *.lauzetbois.com
 *.lavernegolf.shop
-*.lavitaroquetas.com
 *.lawelove.com
 *.lawncare-tools.com
 *.lawnmowernew.com
-*.laymishop.com
 *.layoutwedding.com
 *.layssard.com
 *.lazahot.com
@@ -7329,7 +7215,6 @@
 *.leguanoschuhe.at
 *.lehmann-reifen.com
 *.lehmann-versand.de
-*.lehnerfinanz.com
 *.leisger-fahrrad.de
 *.leisure-bagssales.com
 *.leisuresuitsale.com
@@ -9313,6 +9198,7 @@
 *.onlineinvestmentreviews.com
 *.onlinejogging.com
 *.onlineladywear.com
+*.onlinelebenslauf.com
 *.onlinemaripe.com
 *.onlinemensdenim.com
 *.onlinemodish.com
@@ -9783,6 +9669,7 @@
 *.partyclothesdeal.com
 *.partykiste-undorf.de
 *.pasadenablues.com
+*.pasarbali-malls.com
 *.pasargadrugs.com
 *.pascher.top
 *.pass-blues-op.de
