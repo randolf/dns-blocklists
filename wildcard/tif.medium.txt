@@ -4,14 +4,15 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jan 2024 00:05 UTC
-# Version: 2024.0127.0005.59
+# Last modified: 28 Jan 2024 00:09 UTC
+# Version: 2024.0128.0009.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5781
+# Number of entries: 5769
 #
 *.deviltelegram.000webhostapp.com
 *.1717.1000uc.com
 *.soft.110route.com
+*.dl.198424.com
 *.19dm82.info
 *.jklkcg.db.files.1drv.com
 *.wzswbw.dm.files.1drv.com
@@ -34,9 +35,7 @@
 *.4iptv.net
 *.4nav4life.com
 *.500000wordswithpictures.com
-*.api.52kkg.com
 *.542199235l.com
-*.dl.1003b.56a.com
 *.58dukkan.com
 *.5bchem.ae
 *.70northair.com
@@ -65,7 +64,6 @@
 *.library.arihantmbainstitute.ac.in
 *.crpao.ac.th
 *.dis.ac.tz
-*.pascasarjana.iainfmpapua.ac.id
 *.imit.ac.in
 *.admissionletters.khu.ac.ke
 *.partadino.ac.ug
@@ -214,6 +212,7 @@
 *.alyzsports.com
 *.alzein-m.com
 *.alzheimerencasa.org
+*.amacey.com
 *.amali-maison.com
 *.amanet-sector-6-zeus.ro
 *.amarfoods.com
@@ -377,6 +376,7 @@
 *.awefulthoughts.com
 *.axxagrup.ro
 *.joxy.ayazprak.com
+*.pay.ayazprak.com
 *.silco.ayazprak.com
 *.storm.ayazprak.com
 *.tiny.ayazprak.com
@@ -427,6 +427,7 @@
 *.baytarim.com
 *.bcmnursing.com
 *.bcysa.org
+*.bearware.org
 *.beatrizmancilla.com
 *.beauticiousbronze.com
 *.beautyandcare.cl
@@ -515,7 +516,6 @@
 *.braceletcuivre.com
 *.bracessorios-auto.pt
 *.bragastore.com
-*.brahmacouncil.com
 *.brandingbusinesssolutions.in
 *.yashoda.brandwizz.in
 *.bravemc.info
@@ -529,6 +529,7 @@
 *.brknarikan.com
 *.broilerpekanbaru.com
 *.bruiserbodies.com
+*.brusuax.com
 *.buahati.com
 *.budaktur.com
 *.budapestmorgen.hu
@@ -565,6 +566,7 @@
 *.californiatraininginstitute.com
 *.camminachetipassa.it
 *.canalesparga.cl
+*.canconsulting.in
 *.canlarevdeneve.com
 *.cantinaorsago.it
 *.capitalpromotora.com
@@ -695,6 +697,7 @@
 *.arenaone.co.ke
 *.aryaninterior.co.in
 *.associatedwindowcleaners.co.uk
+*.atiasado.co.il
 *.awana.co.zw
 *.azurasuperheroes.co.id
 *.beachamptonmotors.co.uk
@@ -760,7 +763,6 @@
 *.eratek.co.id
 *.excelltronics.co.za
 *.excelon.co.ke
-*.fetchdesignprint.co.za
 *.finmug.co.ke
 *.freelistingsa.co.za
 *.freightzone.co.zw
@@ -933,6 +935,7 @@
 *.cohenlegalteam.com
 *.coldnhottek.com
 *.coldroomservice.hu
+*.colegiojuanbernardone.com
 *.colegiosanbenigno.cl
 *.colegiucriminologie.md
 *.colombianbarbers.com
@@ -1538,7 +1541,6 @@
 *.dentxl.in
 *.departamentosamuebladosmonterrey.mx
 *.deped-divisionofborongancity.com
-*.derekludlow.com
 *.derigoandina.cl
 *.desatempur.id
 *.desdeelsentir.cl
@@ -1687,7 +1689,6 @@
 *.ecomhydro.com
 *.econnectshop.in
 *.economistasyasesores.com
-*.ecosolutionsbd.com
 *.ecotouchperu.com
 *.ecox.pt
 *.ed-cons.com
@@ -1738,8 +1739,6 @@
 *.gad.oiu.edu.sd
 *.gcrih.oiu.edu.sd
 *.gdeir.oiu.edu.sd
-*.gitlab.oiu.edu.sd
-*.gmas.oiu.edu.sd
 *.jornal.oiu.edu.sd
 *.mb.oiu.edu.sd
 *.ohppd.oiu.edu.sd
@@ -1785,7 +1784,6 @@
 *.elansquare.co
 *.elaphonline.com
 *.elasimson.com
-*.eldarune.store
 *.eldoacademy.ir
 *.elecarb.com
 *.elecsaconsas.com
@@ -1883,7 +1881,6 @@
 *.exetercathay.com
 *.exilum.com
 *.expaceos.com
-*.expancio.us
 *.expeditionarystories.co
 *.expeditionbuilders.com
 *.exposefree.com
@@ -1902,7 +1899,6 @@
 *.fakhryfoundation.org
 *.falconseat.com
 *.fancyshoppingcenter.pk
-*.fantadialo.top
 *.fantasticmall.net
 *.acb.faqserv.com
 *.acm.faqserv.com
@@ -1992,11 +1988,9 @@
 *.uran.fartit.com
 *.variz.fartit.com
 *.fasahatechdutse.com
-*.fashionmanya.com
 *.fastactionmedicalbilling.com
 *.fastdam-statisticalsolutions.org
 *.fastdubairepair.com
-*.faststroygo.com
 *.fastwings.sa
 *.fatihpres.com
 *.faucetmeaning.com
@@ -2033,7 +2027,6 @@
 *.3011.filemail.com
 *.finaxio.co
 *.findinit.com
-*.findkaroo.com
 *.fineloveshop.fr
 *.fingerimpression.in
 *.stella-the-cat.finji.de
@@ -2082,7 +2075,6 @@
 *.freethegirlinitiative.org
 *.schleswig-flensburg.freifunk.net
 *.frensterol.com
-*.frey2.com
 *.frezzyhook.com
 *.frienddy.pro
 *.friendsofeduca.info
@@ -2135,7 +2127,6 @@
 *.geete-dz.com
 *.bakirkoynakliyat.gen.tr
 *.bursasineklikcambalkon.gen.tr
-*.generalpublications.us
 *.genericphar.com
 *.genyda.com
 *.georgianaivan.ro
@@ -2156,7 +2147,6 @@
 *.giraffeambassadors.org
 *.giram.org
 *.girlsmacktalk.com
-*.gitboot234.xyz
 *.github.wiki
 *.aldin101.github.io
 *.altunminyum.github.io
@@ -2335,7 +2325,6 @@
 *.holgerstewen.com
 *.holyrosaryinternational.com
 *.home-line.pk
-*.homeimprovementproject.us
 *.homevisitservices.com
 *.homework.hu
 *.honestgroup.pk
@@ -2343,7 +2332,6 @@
 *.horecalab.hr
 *.hospitaldrlima.com
 *.hostingholics.com
-*.botnet.hostsgct.link
 *.hotelanamurter.com
 *.hotelaromakalaw.com
 *.hotelava.ir
@@ -2407,11 +2395,9 @@
 *.indohcf.com
 *.indokopp.com
 *.indomarineshipchandler.com
-*.indonesias.me
 *.industrialoutlook.in
 *.infaccocr.com
 *.infinitycheats.org
-*.infinitymetalcoating.com
 *.inflowingagency.com
 *.infolivescore.net
 *.infolombok.net
@@ -2423,10 +2409,8 @@
 *.ingenieriainsitu.com
 *.ingonherbal.com
 *.iniofer.com
-*.initiative-td.org
 *.inivex.lk
 *.inkoprima.com
-*.inled.gr
 *.inmobiliariasolucionurbana.com
 *.innovaexpress.co
 *.innovapakistan.com
@@ -2438,7 +2422,6 @@
 *.intellectproactive.com
 *.intenseedu.com
 *.interal-bo.com
-*.interblockchainlab.com
 *.intercambiocristiano.com
 *.interpol.ws
 *.interstatetrans.com
@@ -2447,13 +2430,12 @@
 *.intranetkktmsg.com
 *.inverex.net
 *.invermob-game.com
-*.ioyuui.xyz
+*.saham.iownyour.biz
 *.ipsdusakawi.com
 *.iptvstre.com
 *.iratijoyerias.com
 *.ircftp.net
 *.iris-corp.com
-*.arenterprese2023.is-a-caterer.com
 *.isasecret.com
 *.ishahcouture.com
 *.iskillsjr.com
@@ -2511,7 +2493,6 @@
 *.jawaitsolutions.com
 *.jaweeds.com
 *.jayabhushanagroindustries.com
-*.jcpaintingcompanyllc.com
 *.jdgranite.us
 *.jeakimphotography.co
 *.jeffdahlke.com
@@ -2555,7 +2536,6 @@
 *.kaabrehman.com
 *.kaakkai.in
 *.kabbdg.com
-*.jual.kacangmete.com
 *.kahafoods.com
 *.kahiv.com
 *.kaidmazimmigration.ca
@@ -2614,7 +2594,6 @@
 *.kipthedolphin.com
 *.kivucloud.com
 *.klotheeenlogin.com
-*.kncapitalguru.com
 *.knoxwestern.com
 *.koguri.org
 *.kojekkoja.com
@@ -2652,7 +2631,6 @@
 *.ladimedical.com
 *.ladorica.ba
 *.ladymarine.com
-*.lagunabeachresort3-maldives.com
 *.laiaramosescort.com
 *.lakesidegarden.net
 *.laksambarta.com
@@ -2681,7 +2659,6 @@
 *.lebens-elemente.com
 *.leconsingpublicidad.com
 *.ledsun-eg.com
-*.sdey8.leecocelullares.quest
 *.leeziptv.com
 *.legaltransportes.cl
 *.lehengascholi.in
@@ -2713,6 +2690,7 @@
 *.lindnerelektroanlagen.de
 *.linearcomunicacao.com
 *.linksumuthokirtp.info
+*.linkvilleplayers.org
 *.lintasnetwork.net
 *.linusco.com
 *.liputan68.com
@@ -3059,6 +3037,7 @@
 *.humbly-clean-unicorn.ngrok-free.app
 *.skilled-stingray-gladly.ngrok-free.app
 *.supreme-eminently-lionfish.ngrok-free.app
+*.wired-ethical-marten.ngrok-free.app
 *.nhatheptienchebinhduong.com
 *.nhmarunachalfds.in
 *.nidomanitas.com
@@ -3172,7 +3151,6 @@
 *.organicgrp.com
 *.orianix.com
 *.orionparti.com
-*.orlcasablanca.com
 *.orsahomes.com
 *.ortoneves.pt
 *.osal-sa.com
@@ -3202,7 +3180,6 @@
 *.pablobreijo.es
 *.pacificgroup.co
 *.pack.ma
-*.dl.packetstormsecurity.net
 *.aadkfkjg.page.link
 *.aaehqjcg.page.link
 *.aakpeawp.page.link
@@ -4888,7 +4865,6 @@
 *.regulatoryguide.ca
 *.rehmkar.com
 *.reifenquick.de
-*.reiwo-service.de
 *.relianceeducation.net
 *.remdiswap.com
 *.app.renovaserv.bio
@@ -4918,6 +4894,7 @@
 *.roboticaeducativa.pe
 *.robotkar.ir
 *.robottaeducation.com
+*.rocheholding.top
 *.parallel.rockvideos.at
 *.rodhigital.com
 *.rohingyacare.com
@@ -5023,6 +5000,7 @@
 *.smpitbu.sch.id
 *.smpn12dumai.sch.id
 *.smpn3petarukan.sch.id
+*.scientific.pk
 *.screeninghive.com
 *.sds.pe
 *.sdsdryliningandpaintingsolutions.com
@@ -5105,6 +5083,7 @@
 *.simplywhatsapp.com
 *.simsekmetal.com
 *.singkawanggrandmall.com
+*.sinopecllc.top
 *.sionurb.com
 *.sirinatpetrol.com
 *.sirius.supplies
@@ -5184,6 +5163,7 @@
 *.spannetwork.org
 *.sparrowsport.in
 *.ok.spartabig.com
+*.sell.spartabig.com
 *.spazioestile.com
 *.spd-haltern-am-see.de
 *.specialsolution.org
@@ -5549,16 +5529,25 @@
 *.nerve.untergrund.net
 *.uohhunkmnfhbimtagizqgwpmv.to
 *.upcyclestitches.com
+*.ip239.ip-176.97.210.upserv.fr
 *.urbanhood.pk
 *.urbedu.live
 *.urmiadesign.ir
 *.usa-puravive-official.com
+*.avgdm.colors.usajicgu.com
+*.bmnp.colors.usajicgu.com
 *.bwxj.colors.usajicgu.com
 *.dja.colors.usajicgu.com
 *.dvkq.colors.usajicgu.com
 *.gho.colors.usajicgu.com
+*.hlgx.colors.usajicgu.com
 *.ivh.colors.usajicgu.com
 *.kghn.colors.usajicgu.com
+*.kyeof.colors.usajicgu.com
+*.mofx.colors.usajicgu.com
+*.oplk.colors.usajicgu.com
+*.pbpb.colors.usajicgu.com
+*.qbkbc.colors.usajicgu.com
 *.qgh.colors.usajicgu.com
 *.rqqm.colors.usajicgu.com
 *.ruv.colors.usajicgu.com
@@ -5754,7 +5743,6 @@
 *.youronestophalalshop.com
 *.youthclimatecouncil.com
 *.ypcriau.org
-*.ysbaojia.com
 *.ysoal.com
 *.yugroup.dental
 *.yzkzixun.com
