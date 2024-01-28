@@ -162,7 +162,7 @@
 ---
 
 ### :trollface: ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
-*An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
+*A blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
 |             | Light | Normal          | Pro            | Pro++          | Ultimate       | TIF            |
 |:-----------:|:-----:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
@@ -186,7 +186,7 @@
 ---
 
 ### :tada: ***Pop-Up Ads - Protects against annoying pop-up ads!*** <a name="popupads"></a>
-*An blocklist for blocking pop-up ads.*         
+*A blocklist for blocking pop-up ads.*         
         
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
@@ -210,7 +210,7 @@
 ---
 
 ### :closed_lock_with_key: ***Threat Intelligence Feeds - Increases security significantly! (Recommended)*** <a name="tif"></a>
-*An blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
+*A blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
 |             | Light           | Normal          | Pro             | Pro++           | Ultimate        |
 |:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
@@ -288,7 +288,7 @@
 ---
 
 ### :mag: ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!*** <a name="safesearch"></a>
-*An blocklist for blocking search engines that do not support safesearch.*         
+*A blocklist for blocking search engines that do not support safesearch.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
@@ -312,7 +312,7 @@
 ---
 
 ### :lock_with_ink_pen: ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
-*An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
+*A blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
@@ -336,7 +336,7 @@
 ---
 
 ### :computer: ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
-*An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
+*A blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
                       
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
@@ -360,7 +360,7 @@
 ---
 
 ### :crystal_ball: ***Most Abused TLDs - Protects against known malicious Top Level Domains!*** <a name="tlds"></a>
-*An blocklist for blocking Top Most Abused Top Level Domains, merged from @Yokoffing, @DandelionSprout, @LennyFox and SpamHaus.*         
+*A blocklist for blocking Top Most Abused Top Level Domains, merged from @Yokoffing, @DandelionSprout, @LennyFox and SpamHaus.*         
             
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
